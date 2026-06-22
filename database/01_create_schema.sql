@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS finsight
+AUTHORIZATION finsight_user;
