@@ -3,13 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
-data/raw/
 data/processed/
-database/postgres_data/
-database/pgadmin_data/
-
 *.parquet
-*.csv
-*.xlsx
 
 .DS_Store

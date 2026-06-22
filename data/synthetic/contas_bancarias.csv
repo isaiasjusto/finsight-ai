@@ -1,0 +1,36 @@
+﻿id_conta,id_empresa,banco,tipo_conta,saldo_inicial,limite_credito,status,data_criacao
+1,1,Santander,Conta Corrente,324454.88,90603.33,ativa,2026-06-19 11:56:23.295406
+2,1,Nubank,Conta Investimento,100037.37,27935.22,ativa,2026-06-19 11:56:23.295406
+3,2,Nubank,Conta Corrente,438822.12,93640.0,ativa,2026-06-19 11:56:23.295406
+4,3,Caixa Econômica Federal,Conta Corrente,9791.11,6503.57,ativa,2026-06-19 11:56:23.295406
+5,3,Inter,Conta Investimento,147859.34,98212.92,ativa,2026-06-19 11:56:23.295406
+6,4,Inter,Conta Corrente,-16099.83,100997.91,ativa,2026-06-19 11:56:23.295406
+7,5,Itaú,Conta Corrente,21329.06,21283.08,ativa,2026-06-19 11:56:23.296410
+8,5,Caixa Econômica Federal,Conta Investimento,43604.62,43510.63,ativa,2026-06-19 11:56:23.296410
+9,6,Inter,Conta Corrente,205913.5,84147.89,ativa,2026-06-19 11:56:23.296410
+10,6,Nubank,Conta Investimento,26118.56,10673.52,ativa,2026-06-19 11:56:23.296410
+11,7,Itaú,Conta Corrente,87434.91,188701.48,ativa,2026-06-19 11:56:23.296410
+12,8,Nubank,Conta Corrente,132291.4,59089.55,ativa,2026-06-19 11:56:23.296410
+13,8,Bradesco,Conta Corrente,281163.78,125585.18,ativa,2026-06-19 11:56:23.296410
+14,9,Banco do Brasil,Conta Corrente,270599.93,70747.39,ativa,2026-06-19 11:56:23.296410
+15,9,Banco do Brasil,Conta Corrente,45740.2,11958.61,ativa,2026-06-19 11:56:23.296410
+16,10,C6 Bank,Conta Corrente,68990.29,25041.14,ativa,2026-06-19 11:56:23.296410
+17,10,Inter,Conta Corrente,153070.96,55559.58,ativa,2026-06-19 11:56:23.296410
+18,10,Inter,Conta Investimento,329623.97,119642.36,ativa,2026-06-19 11:56:23.296410
+19,11,Bradesco,Conta Corrente,131229.18,70391.46,ativa,2026-06-19 11:56:23.296410
+20,12,C6 Bank,Conta Corrente,233326.31,127438.91,ativa,2026-06-19 11:56:23.296410
+21,12,Banco do Brasil,Conta Corrente,825.72,450.99,ativa,2026-06-19 11:56:23.296410
+22,13,C6 Bank,Conta Corrente,61783.17,16208.96,ativa,2026-06-19 11:56:23.296410
+23,13,Nubank,Conta Investimento,46693.12,12250.05,ativa,2026-06-19 11:56:23.296410
+24,13,Inter,Conta Investimento,21707.14,5694.92,ativa,2026-06-19 11:56:23.296410
+25,14,Caixa Econômica Federal,Conta Corrente,7299.19,3684.06,ativa,2026-06-19 11:56:23.296410
+26,14,Santander,Conta Investimento,23547.86,11885.11,ativa,2026-06-19 11:56:23.296410
+27,14,C6 Bank,Conta Corrente,163677.99,82611.79,ativa,2026-06-19 11:56:23.296410
+28,15,Caixa Econômica Federal,Conta Corrente,202646.59,73736.53,ativa,2026-06-19 11:56:23.296410
+29,16,Itaú,Conta Corrente,768558.89,89291.69,ativa,2026-06-19 11:56:23.296410
+30,17,Bradesco,Conta Corrente,624533.79,200940.86,ativa,2026-06-19 11:56:23.296410
+31,18,Banco do Brasil,Conta Corrente,269402.51,92421.56,ativa,2026-06-19 11:56:23.296410
+32,19,Banco do Brasil,Conta Corrente,298147.07,143185.8,ativa,2026-06-19 11:56:23.296410
+33,20,Banco do Brasil,Conta Corrente,139277.49,199337.01,ativa,2026-06-19 11:56:23.296410
+34,20,Nubank,Conta Investimento,12309.23,17617.24,ativa,2026-06-19 11:56:23.296410
+35,20,Inter,Conta Investimento,29181.95,41765.85,ativa,2026-06-19 11:56:23.296410

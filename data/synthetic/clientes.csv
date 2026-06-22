@@ -1,0 +1,1762 @@
+﻿id_cliente,id_empresa,nome_cliente,segmento,limite_credito,risco_cliente,status,data_cadastro
+1,1,Montenegro Pereira S/A,Serviços,58260.21,medio,ativo,2023-01-22
+2,1,Silva Rezende e Filhos,Tecnologia,23773.23,baixo,ativo,2021-11-07
+3,1,Câmara,Tecnologia,88457.76,medio,ativo,2026-04-30
+4,1,Pastor,Serviços,44289.02,medio,ativo,2020-07-24
+5,1,Abreu,Tecnologia,62555.85,baixo,ativo,2023-02-13
+6,1,Sampaio Lima Ltda.,Varejo,30181.72,medio,ativo,2026-01-18
+7,1,Cassiano,Varejo,143749.56,baixo,ativo,2020-05-07
+8,1,Teixeira Fernandes S/A,Serviços,11857.21,alto,ativo,2025-04-23
+9,1,Garcia S/A,Indústria,27437.16,medio,ativo,2021-11-18
+10,1,Ferreira,Serviços,145285.52,baixo,ativo,2023-06-28
+11,1,Aparecida,Tecnologia,23338.2,baixo,ativo,2024-06-12
+12,1,Nascimento,Serviços,42375.72,alto,ativo,2021-02-21
+13,1,Garcia S/A,Atacado,64740.72,medio,ativo,2020-06-17
+14,1,Pires,Indústria,75689.14,baixo,ativo,2020-02-21
+15,1,Oliveira,Tecnologia,18443.11,medio,ativo,2021-09-18
+16,1,Santos Azevedo S/A,Atacado,115393.39,baixo,ativo,2025-06-03
+17,1,Vargas da Rocha S/A,Serviços,127345.5,baixo,ativo,2020-12-20
+18,1,Brito Garcia Ltda.,Tecnologia,78604.26,baixo,ativo,2023-10-09
+19,1,Porto,Indústria,130623.87,baixo,ativo,2023-10-26
+20,1,Castro,Atacado,97500.15,baixo,ativo,2022-02-21
+21,1,Fogaça,Tecnologia,113609.71,baixo,ativo,2025-07-03
+22,1,Rios da Mata e Filhos,Serviços,22241.62,baixo,ativo,2023-06-08
+23,1,Pereira e Filhos,Atacado,54277.84,medio,ativo,2023-09-16
+24,1,Nascimento Siqueira S.A.,Serviços,78986.88,baixo,ativo,2023-07-16
+25,1,Martins Garcia Ltda.,Serviços,89662.32,baixo,ativo,2025-06-06
+26,1,Rodrigues Duarte S/A,Varejo,96646.3,baixo,ativo,2022-03-06
+27,1,Andrade Dias - ME,Serviços,66914.54,baixo,ativo,2023-01-28
+28,1,Azevedo,Tecnologia,27088.38,baixo,ativo,2021-02-24
+29,1,Nunes Silva Ltda.,Serviços,47551.76,medio,ativo,2020-07-29
+30,1,Rezende Monteiro - ME,Tecnologia,132023.99,baixo,ativo,2020-10-30
+31,1,Casa Grande,Indústria,109238.63,baixo,ativo,2020-12-14
+32,1,Carvalho,Atacado,32284.29,alto,ativo,2022-07-13
+33,1,Souza Novais - EI,Atacado,82680.35,medio,ativo,2024-10-22
+34,1,Souza,Serviços,100733.55,baixo,ativo,2022-05-14
+35,1,Pacheco,Serviços,30554.37,baixo,ativo,2020-01-11
+36,1,Fonseca,Indústria,109618.25,baixo,ativo,2023-03-04
+37,1,Carvalho Moraes - ME,Atacado,64990.79,medio,ativo,2022-03-21
+38,1,Sá S/A,Serviços,90793.11,baixo,ativo,2020-10-19
+39,1,Cassiano e Filhos,Indústria,123041.71,baixo,ativo,2024-12-03
+40,1,Vieira Rodrigues - ME,Atacado,109528.14,baixo,ativo,2026-01-20
+41,1,Gomes - ME,Indústria,30457.44,baixo,ativo,2022-10-22
+42,1,Moura,Atacado,49760.17,baixo,ativo,2020-03-25
+43,1,Novaes,Serviços,6810.43,alto,ativo,2025-04-11
+44,1,Rodrigues e Filhos,Tecnologia,77489.82,baixo,ativo,2025-07-07
+45,1,Rodrigues - EI,Varejo,19447.62,alto,ativo,2021-10-20
+46,1,Vargas,Atacado,110177.58,baixo,ativo,2020-05-30
+47,1,Camargo,Tecnologia,60887.23,baixo,ativo,2025-10-08
+48,1,Lopes,Varejo,79549.4,medio,ativo,2022-02-07
+49,1,Marques Abreu e Filhos,Varejo,100942.4,baixo,ativo,2022-04-13
+50,1,Montenegro,Tecnologia,37031.72,baixo,ativo,2021-05-12
+51,1,Montenegro Caldeira e Filhos,Indústria,101902.9,baixo,ativo,2026-03-06
+52,1,Porto,Varejo,73038.79,baixo,ativo,2025-03-05
+53,1,Cassiano Freitas S.A.,Indústria,46969.39,alto,ativo,2025-09-15
+54,1,Peixoto Ltda.,Tecnologia,48599.97,medio,ativo,2026-03-07
+55,1,Almeida,Serviços,44779.35,baixo,ativo,2020-10-12
+56,1,Fonseca Ltda.,Atacado,122700.8,baixo,ativo,2022-12-30
+57,1,Araújo da Costa - EI,Tecnologia,33884.47,medio,ativo,2021-08-31
+58,1,Barros e Filhos,Tecnologia,82964.38,baixo,ativo,2025-02-08
+59,1,Azevedo,Tecnologia,15746.25,alto,ativo,2022-08-14
+60,2,Cardoso Ribeiro - ME,Tecnologia,116811.67,baixo,ativo,2021-09-15
+61,2,da Luz Moura - EI,Varejo,24812.55,baixo,ativo,2024-12-08
+62,2,Cunha,Serviços,138357.42,baixo,ativo,2020-11-02
+63,2,Silva das Neves - ME,Varejo,145996.47,baixo,ativo,2023-09-07
+64,2,Macedo,Tecnologia,40400.75,medio,ativo,2026-01-25
+65,2,Campos,Serviços,28894.7,baixo,ativo,2021-01-05
+66,2,Câmara Azevedo Ltda.,Tecnologia,32797.61,baixo,ativo,2021-11-12
+67,2,Pastor - EI,Indústria,13679.28,medio,ativo,2024-01-08
+68,2,Pastor Câmara S/A,Serviços,38924.07,baixo,ativo,2021-11-27
+69,2,Santos e Filhos,Tecnologia,99233.93,baixo,ativo,2021-08-09
+70,2,da Conceição S/A,Tecnologia,102927.6,baixo,ativo,2023-03-24
+71,2,Farias S/A,Atacado,45338.38,medio,ativo,2023-05-10
+72,2,da Mota Rios - ME,Serviços,75160.16,baixo,ativo,2024-04-24
+73,2,Nogueira Cardoso e Filhos,Indústria,40509.14,medio,ativo,2023-04-24
+74,2,da Cruz,Varejo,127904.88,baixo,ativo,2025-07-27
+75,2,Jesus,Indústria,72059.28,medio,ativo,2022-06-16
+76,2,Brito Brito e Filhos,Serviços,100715.85,baixo,ativo,2021-02-01
+77,2,Fogaça,Atacado,24837.04,alto,ativo,2024-02-03
+78,2,Jesus,Serviços,33608.84,medio,ativo,2022-04-02
+79,2,Siqueira,Indústria,90123.01,baixo,ativo,2021-11-04
+80,2,Rocha e Filhos,Indústria,127209.68,baixo,ativo,2021-04-16
+81,2,Araújo - ME,Tecnologia,29788.92,baixo,ativo,2026-04-01
+82,2,Caldeira,Tecnologia,122788.66,baixo,ativo,2024-02-18
+83,2,Correia Correia - EI,Indústria,56764.81,medio,ativo,2021-03-19
+84,2,Carvalho,Indústria,59563.75,medio,ativo,2022-06-25
+85,2,Cirino,Tecnologia,47141.4,medio,ativo,2021-04-22
+86,2,Martins,Varejo,143014.0,baixo,ativo,2022-08-19
+87,2,Barbosa Macedo - EI,Atacado,46291.5,medio,ativo,2024-09-12
+88,2,Aragão e Filhos,Tecnologia,114457.89,baixo,ativo,2024-07-29
+89,2,Borges S.A.,Tecnologia,14777.14,alto,ativo,2022-08-25
+90,2,Jesus Mendonça - ME,Indústria,64854.42,medio,ativo,2020-09-05
+91,2,Guerra Araújo S.A.,Tecnologia,44675.11,baixo,ativo,2021-01-10
+92,2,Abreu,Indústria,57771.68,medio,ativo,2022-09-24
+93,2,da Luz,Atacado,42341.8,alto,ativo,2022-04-28
+94,2,da Paz,Atacado,125696.89,baixo,ativo,2020-01-12
+95,2,Sampaio,Serviços,147923.66,baixo,ativo,2021-03-26
+96,2,Cassiano,Serviços,11188.83,medio,ativo,2023-08-19
+97,2,da Rocha Cunha S/A,Varejo,54497.78,baixo,ativo,2020-09-17
+98,2,Souza Ltda.,Atacado,121142.22,baixo,ativo,2022-06-26
+99,2,Aragão - EI,Atacado,44014.14,alto,ativo,2023-05-20
+100,2,Montenegro,Tecnologia,145323.4,baixo,ativo,2024-10-12
+101,2,Araújo Moraes S/A,Varejo,82776.07,medio,ativo,2023-08-12
+102,2,Azevedo Peixoto S/A,Atacado,28538.69,baixo,ativo,2023-08-24
+103,2,Guerra Campos - EI,Tecnologia,97660.94,baixo,ativo,2021-02-10
+104,2,Pacheco Peixoto S/A,Atacado,62377.04,medio,ativo,2022-05-30
+105,2,Leão e Filhos,Tecnologia,135451.83,baixo,ativo,2024-08-30
+106,2,da Luz,Serviços,35001.89,medio,ativo,2025-04-26
+107,2,Rios Silva Ltda.,Indústria,128130.35,baixo,ativo,2021-06-16
+108,2,da Luz Gonçalves S.A.,Varejo,96240.46,baixo,ativo,2024-08-09
+109,2,Marques,Varejo,106494.27,baixo,ativo,2023-03-24
+110,2,Sá,Tecnologia,65714.0,baixo,ativo,2022-07-07
+111,2,Albuquerque - ME,Indústria,54501.24,medio,ativo,2026-06-09
+112,2,Barbosa - EI,Atacado,75784.61,baixo,ativo,2026-03-30
+113,2,Montenegro da Luz S.A.,Serviços,140780.96,baixo,ativo,2023-01-24
+114,2,Azevedo,Serviços,37185.97,medio,ativo,2026-05-08
+115,2,Freitas da Paz S.A.,Varejo,69277.52,medio,ativo,2025-12-12
+116,2,Nogueira,Indústria,74578.22,baixo,ativo,2026-05-13
+117,2,Pimenta,Varejo,134834.48,baixo,ativo,2020-11-30
+118,2,Rios - EI,Indústria,106052.03,baixo,ativo,2022-06-01
+119,2,Ribeiro,Atacado,44393.09,medio,ativo,2025-06-16
+120,2,Carvalho Ltda.,Varejo,60094.52,baixo,ativo,2020-02-01
+121,2,Caldeira e Filhos,Indústria,142892.13,baixo,ativo,2023-09-05
+122,2,da Mata da Paz - EI,Atacado,84660.09,baixo,ativo,2022-07-31
+123,2,Silva Fernandes S.A.,Varejo,128336.05,baixo,ativo,2024-11-21
+124,2,Montenegro,Atacado,139751.12,baixo,ativo,2024-07-14
+125,2,da Cunha,Indústria,19213.87,medio,ativo,2021-12-04
+126,2,Borges e Filhos,Varejo,76562.07,medio,ativo,2024-11-23
+127,2,da Mota,Tecnologia,57109.7,medio,ativo,2023-06-24
+128,2,Abreu Ltda.,Varejo,72329.43,medio,ativo,2025-12-13
+129,2,Porto da Luz S.A.,Serviços,137769.96,baixo,ativo,2022-08-25
+130,2,Novaes,Varejo,53275.87,baixo,ativo,2021-12-26
+131,2,Novais,Atacado,30368.1,alto,ativo,2025-01-12
+132,2,Camargo S/A,Indústria,61439.35,medio,ativo,2023-07-18
+133,2,Nogueira Andrade Ltda.,Indústria,28877.21,baixo,ativo,2020-08-18
+134,2,Lopes Cardoso S/A,Indústria,29644.79,baixo,ativo,2023-03-21
+135,2,Fonseca,Atacado,132352.5,baixo,ativo,2024-04-23
+136,2,Fogaça S.A.,Tecnologia,92061.13,baixo,ativo,2026-05-30
+137,2,Rios Caldeira Ltda.,Varejo,48050.32,medio,ativo,2025-01-19
+138,2,Pinto,Atacado,136886.49,baixo,ativo,2021-12-07
+139,2,da Costa Castro S.A.,Atacado,111990.82,baixo,ativo,2021-10-12
+140,2,Alves,Atacado,139331.78,baixo,ativo,2020-08-02
+141,2,Sousa Farias - ME,Tecnologia,15272.95,medio,ativo,2023-03-09
+142,2,da Mata Castro e Filhos,Serviços,130703.61,baixo,ativo,2023-09-27
+143,2,Garcia S/A,Tecnologia,106269.57,baixo,ativo,2021-06-12
+144,2,Câmara,Indústria,141940.29,baixo,ativo,2021-06-07
+145,2,Marques Ferreira Ltda.,Atacado,69101.97,medio,ativo,2021-01-17
+146,2,Câmara Alves e Filhos,Serviços,38946.25,medio,ativo,2022-05-27
+147,2,Guerra Farias Ltda.,Serviços,119600.31,baixo,ativo,2020-11-12
+148,2,Vargas Ltda.,Atacado,122455.62,baixo,ativo,2020-06-03
+149,2,Ramos,Serviços,59442.52,medio,ativo,2021-10-26
+150,2,Rocha,Tecnologia,110069.93,baixo,ativo,2020-06-27
+151,2,Alves,Indústria,107927.18,baixo,ativo,2025-01-12
+152,2,da Luz S.A.,Serviços,51091.9,baixo,ativo,2024-02-15
+153,2,Andrade,Tecnologia,45247.79,medio,ativo,2025-08-21
+154,2,Peixoto - ME,Serviços,145614.86,baixo,ativo,2022-10-21
+155,2,Siqueira,Atacado,82476.79,baixo,ativo,2021-05-25
+156,2,Lopes,Serviços,119205.19,baixo,ativo,2024-11-26
+157,2,Gomes - EI,Varejo,138365.64,baixo,ativo,2024-08-26
+158,2,da Cunha Aparecida e Filhos,Indústria,85260.92,baixo,ativo,2022-07-08
+159,2,Abreu,Serviços,141007.37,baixo,ativo,2021-07-17
+160,2,Fonseca Lopes S/A,Tecnologia,139261.5,baixo,ativo,2025-01-11
+161,2,Pinto,Serviços,137761.47,baixo,ativo,2026-02-25
+162,2,Ribeiro,Serviços,39927.77,alto,ativo,2023-05-18
+163,2,Silveira Ltda.,Varejo,50997.14,baixo,ativo,2021-03-30
+164,2,Rios,Atacado,52884.3,medio,ativo,2022-09-17
+165,2,Duarte,Atacado,10125.15,medio,ativo,2024-09-02
+166,2,Sampaio,Atacado,106867.94,baixo,ativo,2026-02-06
+167,2,Novaes,Tecnologia,148483.09,baixo,ativo,2020-06-27
+168,2,Correia Leão e Filhos,Varejo,147535.12,baixo,ativo,2023-11-13
+169,2,Rocha,Indústria,105423.57,baixo,ativo,2021-06-30
+170,2,Pimenta Nunes Ltda.,Tecnologia,90981.79,baixo,ativo,2025-05-14
+171,2,Novaes,Tecnologia,125494.7,baixo,ativo,2020-05-31
+172,2,da Rosa Ltda.,Indústria,25694.82,baixo,ativo,2025-10-12
+173,2,Lopes Viana - EI,Serviços,126002.79,baixo,ativo,2023-03-17
+174,2,Martins,Varejo,121509.4,baixo,ativo,2024-02-16
+175,2,Macedo,Indústria,72002.83,baixo,ativo,2022-02-04
+176,2,Moraes Melo e Filhos,Varejo,84678.04,baixo,ativo,2024-10-04
+177,2,Ribeiro Barros Ltda.,Indústria,98318.93,baixo,ativo,2021-02-24
+178,2,Borges,Tecnologia,105919.5,baixo,ativo,2021-11-13
+179,2,Rocha das Neves S.A.,Indústria,13388.41,medio,ativo,2024-11-16
+180,2,Casa Grande Alves S/A,Tecnologia,147403.55,baixo,ativo,2024-01-28
+181,2,Melo Pimenta S/A,Atacado,117486.74,baixo,ativo,2024-11-29
+182,2,Leão,Tecnologia,28740.34,baixo,ativo,2026-05-12
+183,2,Silva Sampaio - ME,Tecnologia,39946.96,baixo,ativo,2020-11-10
+184,2,Guerra,Serviços,88829.78,baixo,ativo,2021-04-09
+185,2,Casa Grande Rezende e Filhos,Varejo,44186.25,baixo,ativo,2022-12-08
+186,2,Sá S/A,Tecnologia,27165.63,medio,ativo,2022-03-30
+187,2,Câmara,Tecnologia,130867.42,baixo,ativo,2020-12-25
+188,2,Sampaio Moreira - ME,Varejo,88925.97,medio,ativo,2026-03-02
+189,2,Novais S.A.,Serviços,135873.12,baixo,ativo,2024-01-20
+190,2,Marques S.A.,Tecnologia,35777.12,baixo,ativo,2020-04-17
+191,2,Rios,Serviços,94396.06,baixo,ativo,2020-12-19
+192,2,Sá,Tecnologia,71760.8,baixo,ativo,2024-08-04
+193,2,Pimenta,Tecnologia,87790.38,medio,ativo,2025-03-23
+194,2,Novaes,Atacado,80236.81,medio,ativo,2022-01-15
+195,2,Castro,Varejo,50229.1,medio,ativo,2025-10-23
+196,2,Machado,Indústria,41405.42,baixo,ativo,2025-10-26
+197,2,Sá,Atacado,30048.42,medio,ativo,2023-01-29
+198,2,Porto da Mota - EI,Serviços,59367.2,baixo,ativo,2021-09-23
+199,2,Pires,Atacado,101182.29,baixo,ativo,2020-06-17
+200,2,da Mota Macedo S/A,Atacado,13636.94,medio,ativo,2022-12-20
+201,2,da Costa,Tecnologia,43326.94,medio,ativo,2026-02-12
+202,3,Farias,Tecnologia,29590.23,medio,ativo,2023-05-03
+203,3,Nogueira,Tecnologia,109519.76,baixo,ativo,2022-04-15
+204,3,Carvalho S.A.,Indústria,38676.93,baixo,ativo,2024-06-21
+205,3,Gomes Sales S.A.,Tecnologia,68170.23,baixo,ativo,2021-05-16
+206,3,Azevedo Leão - ME,Tecnologia,52229.45,baixo,ativo,2024-09-08
+207,3,Nogueira,Atacado,132489.98,baixo,ativo,2023-07-04
+208,3,Leão,Indústria,40714.51,baixo,ativo,2025-07-30
+209,3,Costela - ME,Serviços,142880.26,baixo,ativo,2023-12-16
+210,3,Vargas,Tecnologia,56576.32,baixo,ativo,2023-03-16
+211,3,Teixeira - EI,Indústria,130132.41,baixo,ativo,2024-07-09
+212,3,Mendes,Atacado,72075.61,baixo,ativo,2023-03-28
+213,3,Fogaça Ltda.,Atacado,85553.22,baixo,ativo,2021-05-01
+214,3,Leão,Atacado,32568.59,baixo,ativo,2024-02-06
+215,3,Mendonça Câmara Ltda.,Varejo,50729.8,medio,ativo,2020-06-08
+216,3,Mendonça,Atacado,63295.29,baixo,ativo,2025-10-12
+217,3,Gomes Ltda.,Atacado,141077.94,baixo,ativo,2023-05-10
+218,3,Silveira,Atacado,85950.95,baixo,ativo,2023-05-12
+219,3,Martins Cardoso - EI,Tecnologia,22162.8,baixo,ativo,2023-06-14
+220,3,Gonçalves - EI,Tecnologia,65043.49,medio,ativo,2022-12-23
+221,3,Barros e Filhos,Varejo,30993.55,alto,ativo,2025-05-21
+222,3,Carvalho,Serviços,101773.28,baixo,ativo,2022-09-19
+223,3,Cirino,Indústria,143266.67,baixo,ativo,2024-09-11
+224,3,da Luz - ME,Tecnologia,109765.03,baixo,ativo,2020-09-12
+225,3,Cunha,Tecnologia,54870.94,medio,ativo,2025-11-22
+226,3,Duarte,Atacado,144369.11,baixo,ativo,2023-12-22
+227,3,Teixeira,Indústria,64459.67,medio,ativo,2025-06-06
+228,3,da Mota,Indústria,52047.49,baixo,ativo,2023-03-29
+229,3,da Cunha,Atacado,49120.25,medio,ativo,2023-01-25
+230,3,Melo S/A,Tecnologia,94551.98,baixo,ativo,2023-11-14
+231,3,Ferreira S.A.,Varejo,17943.37,alto,ativo,2023-11-19
+232,3,Vasconcelos e Filhos,Atacado,14629.41,alto,ativo,2023-01-15
+233,3,Sá S/A,Atacado,32705.47,alto,ativo,2022-09-07
+234,3,Costa Almeida - EI,Varejo,107078.42,baixo,ativo,2021-02-14
+235,3,da Costa Cardoso - ME,Varejo,113256.55,baixo,ativo,2026-03-04
+236,3,Nunes S.A.,Tecnologia,44629.14,alto,ativo,2025-05-09
+237,3,Sampaio,Varejo,32979.6,medio,ativo,2021-01-01
+238,3,Vargas,Varejo,69094.92,medio,ativo,2021-12-18
+239,3,Cavalcante,Tecnologia,128888.64,baixo,ativo,2025-07-22
+240,3,Vasconcelos S.A.,Varejo,117370.42,baixo,ativo,2020-02-07
+241,3,Caldeira,Tecnologia,98361.79,baixo,ativo,2026-02-03
+242,3,das Neves - EI,Indústria,135603.8,baixo,ativo,2022-02-28
+243,3,Gonçalves,Serviços,68489.54,medio,ativo,2020-02-27
+244,3,Barbosa Pastor e Filhos,Serviços,55422.5,medio,ativo,2024-07-18
+245,3,Caldeira Sampaio Ltda.,Serviços,16939.02,medio,ativo,2021-07-29
+246,3,Vieira - EI,Tecnologia,141657.3,baixo,ativo,2022-12-29
+247,3,Ferreira - EI,Indústria,5514.61,alto,ativo,2022-08-25
+248,3,Ribeiro,Atacado,35369.23,baixo,ativo,2023-06-27
+249,3,Azevedo,Serviços,85250.85,medio,ativo,2022-06-16
+250,3,Albuquerque,Indústria,49497.71,alto,ativo,2024-08-30
+251,3,Mendonça,Serviços,70588.04,medio,ativo,2022-10-10
+252,3,Lopes Ltda.,Atacado,72989.66,medio,ativo,2024-01-21
+253,3,Santos,Atacado,93341.93,baixo,ativo,2022-04-08
+254,3,Lopes Cavalcanti e Filhos,Varejo,39480.81,baixo,ativo,2022-04-21
+255,3,Pimenta,Varejo,81911.15,medio,ativo,2025-01-31
+256,3,Martins,Indústria,74005.19,baixo,ativo,2020-03-30
+257,3,Siqueira,Varejo,126138.92,baixo,ativo,2024-10-01
+258,3,Duarte,Varejo,28288.79,baixo,ativo,2025-04-17
+259,3,Borges da Mota - ME,Tecnologia,73152.7,baixo,ativo,2024-03-13
+260,3,Sá Martins - EI,Tecnologia,45804.53,alto,ativo,2020-11-24
+261,3,Fernandes,Indústria,53144.02,medio,ativo,2021-04-30
+262,3,Monteiro Ltda.,Serviços,89843.6,baixo,ativo,2020-01-15
+263,3,Mendonça Cunha Ltda.,Tecnologia,47040.31,medio,ativo,2025-12-18
+264,3,Fernandes,Serviços,49856.33,baixo,ativo,2021-04-07
+265,3,Peixoto,Varejo,105825.7,baixo,ativo,2022-09-12
+266,3,Novais,Varejo,33116.57,baixo,ativo,2022-09-29
+267,3,Moreira S.A.,Varejo,28747.14,medio,ativo,2021-07-27
+268,3,da Costa e Filhos,Indústria,57604.25,baixo,ativo,2023-08-06
+269,3,Mendonça,Tecnologia,133913.58,baixo,ativo,2023-05-15
+270,3,Sales Melo e Filhos,Serviços,92373.36,baixo,ativo,2024-10-15
+271,3,Machado,Tecnologia,26094.93,baixo,ativo,2025-11-18
+272,3,Borges Ltda.,Atacado,74122.2,baixo,ativo,2025-04-23
+273,3,Guerra Sales S.A.,Tecnologia,49294.79,baixo,ativo,2020-08-24
+274,3,Ribeiro,Serviços,145812.2,baixo,ativo,2022-11-10
+275,3,Melo,Varejo,104071.76,baixo,ativo,2026-01-02
+276,3,Lima,Atacado,31476.93,medio,ativo,2020-06-10
+277,3,Fogaça,Atacado,70935.71,medio,ativo,2022-06-07
+278,3,da Mata,Varejo,133031.6,baixo,ativo,2022-05-17
+279,3,da Cunha,Tecnologia,49980.74,alto,ativo,2022-09-20
+280,3,Campos Silveira S.A.,Indústria,41730.56,medio,ativo,2023-03-05
+281,3,Campos,Atacado,89374.52,baixo,ativo,2025-07-29
+282,3,Correia Cunha e Filhos,Indústria,124366.16,baixo,ativo,2022-04-12
+283,3,da Mota,Serviços,73810.92,baixo,ativo,2020-03-07
+284,3,Brito,Serviços,141518.57,baixo,ativo,2022-03-14
+285,3,da Rocha da Conceição Ltda.,Indústria,69379.17,baixo,ativo,2022-11-20
+286,3,da Rosa Albuquerque e Filhos,Tecnologia,67884.64,medio,ativo,2021-11-20
+287,3,da Mota Aparecida S/A,Serviços,21196.68,medio,ativo,2026-01-29
+288,3,Sampaio,Varejo,42758.08,alto,ativo,2020-07-17
+289,3,Porto Sá - ME,Serviços,77403.58,medio,ativo,2020-02-07
+290,3,Albuquerque - EI,Atacado,79281.26,baixo,ativo,2025-06-02
+291,3,Melo,Varejo,52577.0,medio,ativo,2025-12-08
+292,3,Macedo,Tecnologia,32935.08,medio,ativo,2022-01-04
+293,3,Cirino,Atacado,32520.81,baixo,ativo,2022-10-30
+294,3,da Cunha - ME,Tecnologia,41751.71,medio,ativo,2025-02-23
+295,3,Azevedo - ME,Varejo,148730.29,baixo,ativo,2020-05-09
+296,3,Barbosa,Varejo,69304.32,baixo,ativo,2021-12-02
+297,3,Cassiano S.A.,Varejo,129892.87,baixo,ativo,2025-12-03
+298,3,Barros,Atacado,36152.95,alto,ativo,2025-05-01
+299,3,Campos Novais - ME,Atacado,140140.7,baixo,ativo,2026-04-27
+300,3,Vasconcelos Moreira - ME,Serviços,78034.21,medio,ativo,2021-08-13
+301,3,Macedo,Serviços,41863.68,medio,ativo,2026-04-28
+302,3,Pastor,Indústria,128504.57,baixo,ativo,2024-04-21
+303,3,das Neves,Atacado,89078.24,medio,ativo,2023-11-17
+304,3,Pimenta e Filhos,Atacado,76821.47,baixo,ativo,2024-06-12
+305,3,Teixeira S.A.,Tecnologia,40259.67,alto,ativo,2025-07-02
+306,3,da Luz Ribeiro S/A,Atacado,91894.9,baixo,ativo,2024-04-05
+307,3,da Costa Cavalcanti - EI,Varejo,100420.07,baixo,ativo,2023-01-02
+308,3,Castro S/A,Indústria,112518.03,baixo,ativo,2024-01-17
+309,3,Machado,Indústria,20675.38,baixo,ativo,2021-02-22
+310,3,da Rocha,Tecnologia,44360.93,baixo,ativo,2021-02-27
+311,3,da Conceição Ltda.,Indústria,66008.86,baixo,ativo,2024-04-26
+312,3,Sampaio,Atacado,73795.31,baixo,ativo,2022-09-21
+313,3,Barbosa,Indústria,42045.78,baixo,ativo,2023-01-04
+314,3,da Luz Viana e Filhos,Tecnologia,28224.73,baixo,ativo,2020-11-11
+315,3,Lima Camargo - EI,Atacado,142748.9,baixo,ativo,2022-03-11
+316,3,Ramos Cassiano Ltda.,Atacado,37613.64,baixo,ativo,2024-04-05
+317,3,Barbosa Araújo S.A.,Atacado,36778.9,medio,ativo,2021-07-11
+318,3,Peixoto,Serviços,98417.46,baixo,ativo,2024-06-19
+319,4,Macedo,Serviços,110344.51,baixo,ativo,2023-08-27
+320,4,Martins e Filhos,Atacado,126144.29,baixo,ativo,2022-03-29
+321,4,Sampaio,Tecnologia,90931.78,baixo,ativo,2022-05-08
+322,4,da Mata,Tecnologia,57873.06,baixo,ativo,2025-08-07
+323,4,Macedo,Tecnologia,59368.24,baixo,ativo,2024-03-24
+324,4,Peixoto S/A,Atacado,148791.08,baixo,ativo,2024-09-09
+325,4,Sousa,Atacado,122793.72,baixo,ativo,2020-12-14
+326,4,Pereira,Atacado,52270.03,baixo,ativo,2020-06-30
+327,4,Alves,Indústria,103854.06,baixo,ativo,2024-10-29
+328,4,da Conceição e Filhos,Atacado,32818.85,baixo,ativo,2026-06-14
+329,4,Teixeira e Filhos,Atacado,68635.54,baixo,ativo,2021-09-09
+330,4,Oliveira,Varejo,23193.14,baixo,ativo,2021-04-20
+331,4,Teixeira S.A.,Serviços,37866.29,medio,ativo,2025-11-04
+332,4,Moreira,Indústria,81901.13,baixo,ativo,2020-10-02
+333,4,da Mota,Varejo,125324.17,baixo,ativo,2021-11-04
+334,4,Pacheco Lopes e Filhos,Indústria,29835.96,alto,ativo,2026-04-12
+335,4,Borges,Serviços,80067.04,baixo,ativo,2024-11-05
+336,4,Ferreira,Tecnologia,115860.49,baixo,ativo,2024-05-11
+337,4,Farias,Varejo,47923.49,baixo,ativo,2021-02-20
+338,4,Rios,Varejo,39263.44,medio,ativo,2022-12-10
+339,4,Castro Ltda.,Tecnologia,87273.31,medio,ativo,2024-05-26
+340,4,Sales,Indústria,65230.2,baixo,ativo,2020-12-13
+341,4,da Paz,Indústria,29085.82,medio,ativo,2021-08-02
+342,4,Teixeira,Serviços,74371.08,baixo,ativo,2025-06-16
+343,4,Marques S/A,Atacado,110146.28,baixo,ativo,2021-11-14
+344,4,da Cunha,Varejo,38238.55,baixo,ativo,2024-01-10
+345,4,Camargo,Atacado,22277.49,alto,ativo,2025-09-01
+346,4,Moraes,Tecnologia,49338.07,medio,ativo,2025-06-24
+347,4,Ribeiro - EI,Varejo,93501.71,baixo,ativo,2023-01-30
+348,4,Jesus,Tecnologia,57527.14,baixo,ativo,2026-03-01
+349,4,Correia - EI,Indústria,94452.83,baixo,ativo,2026-01-29
+350,4,Pinto,Tecnologia,67518.42,medio,ativo,2021-02-23
+351,4,Pires,Varejo,29802.53,medio,ativo,2025-01-16
+352,4,Teixeira,Varejo,132085.95,baixo,ativo,2022-08-28
+353,4,Costela Ltda.,Atacado,115889.69,baixo,ativo,2024-10-19
+354,4,da Paz Macedo e Filhos,Varejo,38100.55,baixo,ativo,2026-05-24
+355,4,Campos,Indústria,56541.05,baixo,ativo,2023-03-31
+356,4,Pires - EI,Varejo,143811.65,baixo,ativo,2021-07-09
+357,4,Santos Castro Ltda.,Serviços,49661.88,alto,ativo,2021-06-27
+358,4,Novaes - ME,Tecnologia,112481.33,baixo,ativo,2025-06-27
+359,4,Câmara S/A,Varejo,102212.26,baixo,ativo,2021-01-16
+360,4,Campos,Tecnologia,117474.31,baixo,ativo,2025-06-22
+361,4,Monteiro Silva Ltda.,Tecnologia,20321.5,baixo,ativo,2024-01-07
+362,4,Leão,Serviços,41817.27,medio,ativo,2025-07-19
+363,4,Melo,Atacado,127684.67,baixo,ativo,2025-06-10
+364,5,Marques Novaes S.A.,Tecnologia,108731.75,baixo,ativo,2020-03-07
+365,5,Correia,Tecnologia,131494.71,baixo,ativo,2022-04-08
+366,5,Azevedo da Mota - ME,Indústria,18583.95,alto,ativo,2021-01-17
+367,5,Viana,Serviços,39747.5,medio,ativo,2020-07-31
+368,5,Abreu,Varejo,59716.2,baixo,ativo,2021-01-24
+369,5,Silveira,Tecnologia,81984.87,baixo,ativo,2020-02-08
+370,5,Pastor,Serviços,64664.64,baixo,ativo,2025-05-10
+371,5,Cassiano,Indústria,69799.09,baixo,ativo,2024-02-14
+372,5,Nascimento,Serviços,71876.84,medio,ativo,2021-08-08
+373,5,Ferreira,Indústria,93227.86,baixo,ativo,2022-05-22
+374,5,Novaes,Serviços,39678.64,baixo,ativo,2020-12-21
+375,5,Marques,Indústria,19852.58,medio,ativo,2024-10-24
+376,5,Correia,Atacado,38177.92,baixo,ativo,2023-03-13
+377,5,Oliveira Gomes S.A.,Indústria,77831.37,medio,ativo,2022-04-21
+378,5,Aparecida,Varejo,86237.93,baixo,ativo,2022-09-07
+379,5,Souza,Atacado,34656.68,baixo,ativo,2020-02-19
+380,5,Santos,Atacado,43736.63,alto,ativo,2024-09-19
+381,5,Gomes,Varejo,108782.47,baixo,ativo,2020-03-09
+382,5,Monteiro Andrade S.A.,Tecnologia,21793.15,baixo,ativo,2025-09-06
+383,5,Brito,Tecnologia,112641.78,baixo,ativo,2020-12-03
+384,5,Brito,Varejo,22214.44,medio,ativo,2025-09-25
+385,5,Albuquerque,Atacado,19703.76,alto,ativo,2020-09-27
+386,5,Jesus Rezende S.A.,Serviços,76873.19,baixo,ativo,2020-12-19
+387,5,Melo Ltda.,Serviços,7476.29,alto,ativo,2021-05-04
+388,5,Pinto,Indústria,37837.53,baixo,ativo,2025-11-12
+389,5,Rezende,Indústria,126925.89,baixo,ativo,2021-04-28
+390,5,Farias e Filhos,Varejo,74568.63,medio,ativo,2022-12-13
+391,5,Dias,Indústria,16165.6,medio,ativo,2020-08-15
+392,5,Nogueira,Varejo,93695.2,baixo,ativo,2026-06-08
+393,5,Pinto S/A,Varejo,69262.4,medio,ativo,2022-09-28
+394,5,Pires Rodrigues Ltda.,Varejo,67316.94,baixo,ativo,2026-03-14
+395,5,Souza Borges - ME,Serviços,62456.26,medio,ativo,2024-08-31
+396,5,Teixeira e Filhos,Varejo,30719.12,alto,ativo,2025-08-18
+397,5,Macedo S.A.,Varejo,27854.8,medio,ativo,2024-06-30
+398,5,Alves,Indústria,80462.24,baixo,ativo,2020-12-19
+399,5,Duarte S/A,Indústria,21035.99,baixo,ativo,2022-09-20
+400,5,Fogaça,Serviços,96919.82,baixo,ativo,2026-02-16
+401,5,Lopes,Serviços,10510.23,medio,ativo,2026-01-27
+402,5,da Cruz Moura - ME,Varejo,129144.62,baixo,ativo,2024-03-21
+403,5,Cavalcante Cavalcanti S/A,Serviços,18315.92,medio,ativo,2024-09-15
+404,5,Pinto,Varejo,27786.36,baixo,ativo,2020-06-28
+405,5,Monteiro Pacheco S.A.,Indústria,36538.11,alto,ativo,2025-02-20
+406,5,Martins Porto Ltda.,Tecnologia,11008.12,alto,ativo,2020-11-02
+407,5,da Cunha,Indústria,28096.77,baixo,ativo,2022-12-05
+408,5,Martins Ltda.,Indústria,41436.21,medio,ativo,2023-07-26
+409,5,Barbosa Macedo Ltda.,Atacado,50369.46,baixo,ativo,2021-03-22
+410,5,Porto,Atacado,41368.75,baixo,ativo,2024-01-07
+411,5,Sales,Varejo,16925.36,alto,ativo,2021-01-05
+412,5,Marques,Varejo,109187.13,baixo,ativo,2022-05-30
+413,5,Costa,Indústria,17297.03,medio,ativo,2024-06-11
+414,5,Mendes,Varejo,108033.84,baixo,ativo,2024-07-14
+415,5,da Costa - ME,Varejo,54009.67,medio,ativo,2021-07-26
+416,5,Oliveira,Serviços,28016.99,baixo,ativo,2024-06-28
+417,5,Sampaio,Indústria,101938.68,baixo,ativo,2020-11-03
+418,5,Almeida,Serviços,28381.36,baixo,ativo,2021-01-11
+419,5,da Mota,Tecnologia,6921.33,alto,ativo,2020-07-26
+420,5,Nunes e Filhos,Varejo,94604.95,baixo,ativo,2024-04-16
+421,5,Pereira e Filhos,Indústria,27177.29,medio,ativo,2024-12-31
+422,5,da Paz,Indústria,59534.12,medio,ativo,2025-08-05
+423,5,Pereira Fogaça S.A.,Serviços,91589.53,baixo,ativo,2024-09-13
+424,5,Pinto da Cunha e Filhos,Atacado,135004.83,baixo,ativo,2020-03-20
+425,5,Pires Brito e Filhos,Tecnologia,29503.3,alto,ativo,2023-11-10
+426,5,das Neves - ME,Indústria,13091.71,alto,ativo,2022-06-16
+427,5,Pacheco Ltda.,Tecnologia,125389.62,baixo,ativo,2025-12-08
+428,5,Borges da Rocha Ltda.,Serviços,95918.56,baixo,ativo,2022-09-14
+429,5,Cavalcanti,Serviços,126117.07,baixo,ativo,2026-06-16
+430,5,Cardoso Viana - EI,Serviços,38384.37,medio,ativo,2021-12-22
+431,5,Moura,Atacado,61340.57,baixo,ativo,2020-04-25
+432,5,Cavalcante,Serviços,55412.11,medio,ativo,2025-07-09
+433,5,Mendes,Atacado,42822.38,baixo,ativo,2022-06-15
+434,5,Souza,Serviços,82138.57,baixo,ativo,2023-10-27
+435,5,Camargo,Varejo,77542.73,medio,ativo,2021-08-28
+436,5,Barbosa,Indústria,139239.14,baixo,ativo,2020-10-24
+437,5,Sá Câmara e Filhos,Indústria,142450.02,baixo,ativo,2023-08-14
+438,5,Novais,Tecnologia,40475.51,baixo,ativo,2023-07-23
+439,6,Borges,Indústria,81168.02,medio,ativo,2022-07-03
+440,6,Albuquerque,Indústria,40270.73,medio,ativo,2021-06-05
+441,6,Nascimento,Atacado,20233.73,baixo,ativo,2020-05-12
+442,6,Marques Ltda.,Atacado,61368.2,baixo,ativo,2021-03-02
+443,6,Pacheco,Indústria,15709.82,alto,ativo,2021-11-18
+444,6,Porto,Indústria,145200.35,baixo,ativo,2025-01-03
+445,6,Caldeira,Varejo,47258.96,baixo,ativo,2020-01-06
+446,6,Melo Alves - EI,Tecnologia,76968.62,baixo,ativo,2025-07-12
+447,6,Pimenta,Atacado,40027.81,medio,ativo,2022-07-12
+448,6,Ramos Azevedo e Filhos,Indústria,29582.22,baixo,ativo,2022-12-05
+449,6,Sampaio,Varejo,21895.6,alto,ativo,2026-02-18
+450,6,Rezende,Tecnologia,49337.42,alto,ativo,2020-05-06
+451,6,Camargo,Varejo,104972.57,baixo,ativo,2021-02-18
+452,6,Aparecida Andrade Ltda.,Atacado,146671.79,baixo,ativo,2022-12-22
+453,6,Camargo,Atacado,17673.27,medio,ativo,2025-07-03
+454,6,da Costa - EI,Atacado,66907.76,baixo,ativo,2025-05-21
+455,6,Gomes Marques Ltda.,Varejo,23345.64,baixo,ativo,2025-04-23
+456,6,Pastor,Indústria,41797.39,medio,ativo,2021-01-08
+457,6,Leão Rezende S/A,Serviços,39681.64,medio,ativo,2024-12-30
+458,6,Pimenta,Atacado,77166.25,baixo,ativo,2020-09-09
+459,6,da Mota,Atacado,110541.22,baixo,ativo,2024-08-22
+460,6,Sales Ltda.,Atacado,42835.87,alto,ativo,2024-09-10
+461,6,Macedo Macedo S.A.,Serviços,30772.14,alto,ativo,2025-05-04
+462,6,Brito,Atacado,71324.57,baixo,ativo,2025-10-17
+463,6,Nogueira,Tecnologia,59621.85,medio,ativo,2021-12-09
+464,6,Araújo,Varejo,13672.67,alto,ativo,2024-09-30
+465,6,da Mota,Serviços,108806.31,baixo,ativo,2022-11-22
+466,6,Campos Marques S/A,Atacado,114523.39,baixo,ativo,2024-06-15
+467,6,Ramos Porto - EI,Varejo,131361.14,baixo,ativo,2025-11-10
+468,6,Aragão Ltda.,Atacado,21971.39,medio,ativo,2021-02-14
+469,6,Cardoso Viana - EI,Atacado,17874.18,alto,ativo,2023-11-09
+470,6,Azevedo Teixeira - EI,Tecnologia,62383.01,medio,ativo,2020-06-02
+471,6,Pastor Cunha S.A.,Tecnologia,72386.61,baixo,ativo,2020-06-07
+472,6,Vasconcelos,Tecnologia,134264.49,baixo,ativo,2023-01-05
+473,6,Viana Peixoto S/A,Indústria,75390.87,medio,ativo,2025-07-06
+474,6,Casa Grande,Indústria,87799.73,medio,ativo,2024-12-19
+475,6,Nogueira da Cunha S.A.,Varejo,68303.95,medio,ativo,2022-02-08
+476,6,Ribeiro S/A,Atacado,138746.26,baixo,ativo,2024-03-11
+477,6,Albuquerque Fogaça S.A.,Atacado,22717.8,medio,ativo,2024-07-10
+478,6,Almeida,Serviços,130668.39,baixo,ativo,2022-04-02
+479,6,da Luz Aragão S.A.,Serviços,46515.89,medio,ativo,2023-01-27
+480,6,Moura,Varejo,80348.4,baixo,ativo,2022-09-17
+481,6,Souza S/A,Atacado,97225.67,baixo,ativo,2026-03-08
+482,6,Machado,Varejo,41256.77,baixo,ativo,2023-03-13
+483,6,Moraes,Serviços,26454.64,baixo,ativo,2022-06-25
+484,6,Machado - EI,Varejo,31526.69,medio,ativo,2020-02-06
+485,6,Pimenta Aparecida e Filhos,Serviços,37200.83,baixo,ativo,2022-10-30
+486,6,Marques,Indústria,142590.65,baixo,ativo,2024-10-01
+487,6,Araújo - ME,Indústria,46719.84,medio,ativo,2025-11-02
+488,6,Lima,Indústria,18184.97,medio,ativo,2026-04-18
+489,6,Mendonça e Filhos,Varejo,33878.07,medio,ativo,2023-10-09
+490,6,Barbosa,Indústria,16751.61,alto,ativo,2022-02-10
+491,6,Duarte - EI,Atacado,119511.67,baixo,ativo,2024-07-13
+492,6,Azevedo Cardoso Ltda.,Indústria,67702.66,medio,ativo,2022-11-28
+493,6,Garcia,Atacado,31236.07,alto,ativo,2022-02-16
+494,6,Marques,Tecnologia,112738.01,baixo,ativo,2024-01-08
+495,6,Brito,Serviços,129904.5,baixo,ativo,2023-04-18
+496,6,Rezende e Filhos,Serviços,36632.74,baixo,ativo,2023-10-06
+497,6,Lopes Machado S.A.,Tecnologia,27866.23,medio,ativo,2023-09-19
+498,6,Fernandes,Varejo,96124.19,baixo,ativo,2020-10-18
+499,6,Guerra,Atacado,45290.69,baixo,ativo,2023-05-07
+500,6,Siqueira,Indústria,133210.39,baixo,ativo,2024-08-03
+501,6,Dias - ME,Serviços,11445.09,alto,ativo,2020-11-27
+502,6,Rios,Varejo,102034.26,baixo,ativo,2025-01-25
+503,6,Freitas,Tecnologia,118955.13,baixo,ativo,2020-12-26
+504,6,Rodrigues Melo S/A,Tecnologia,76382.48,baixo,ativo,2024-04-19
+505,6,Barros S/A,Indústria,89391.74,baixo,ativo,2025-12-15
+506,6,Brito,Indústria,107977.26,baixo,ativo,2023-07-02
+507,6,Cardoso,Varejo,69861.56,baixo,ativo,2023-05-06
+508,6,Pastor - EI,Tecnologia,28585.29,alto,ativo,2021-07-02
+509,6,Rios,Tecnologia,137179.89,baixo,ativo,2020-03-19
+510,6,Jesus Ltda.,Atacado,114531.95,baixo,ativo,2025-08-28
+511,6,Silveira,Indústria,67656.89,baixo,ativo,2025-12-30
+512,6,da Paz - EI,Varejo,97210.13,baixo,ativo,2020-07-16
+513,6,Fogaça,Tecnologia,40420.3,medio,ativo,2021-09-19
+514,6,Oliveira - EI,Varejo,109146.2,baixo,ativo,2025-11-01
+515,6,Cassiano Ribeiro - ME,Varejo,98732.46,baixo,ativo,2025-09-26
+516,6,Caldeira Ferreira - EI,Serviços,19121.0,medio,ativo,2022-03-29
+517,6,Camargo,Tecnologia,87849.58,medio,ativo,2023-04-24
+518,6,Oliveira,Tecnologia,91258.04,baixo,ativo,2023-09-16
+519,6,Lima Novais - EI,Atacado,21657.42,baixo,ativo,2025-07-16
+520,6,Pereira e Filhos,Varejo,31710.75,baixo,ativo,2022-11-14
+521,6,Alves,Varejo,88183.28,medio,ativo,2021-02-12
+522,6,da Mata Sampaio Ltda.,Indústria,78179.89,medio,ativo,2024-10-10
+523,6,Ferreira,Serviços,70656.32,medio,ativo,2021-11-29
+524,6,Cirino S.A.,Varejo,136288.59,baixo,ativo,2024-03-06
+525,6,Azevedo,Indústria,42062.2,medio,ativo,2024-04-28
+526,6,Sousa Porto S/A,Serviços,43739.19,medio,ativo,2021-04-08
+527,6,Souza - EI,Varejo,114433.44,baixo,ativo,2024-08-31
+528,6,Garcia Leão - ME,Atacado,24717.33,alto,ativo,2024-04-04
+529,6,Castro,Serviços,79006.06,medio,ativo,2025-06-01
+530,6,das Neves,Indústria,7068.75,alto,ativo,2023-07-11
+531,6,Vasconcelos,Atacado,132883.2,baixo,ativo,2022-07-06
+532,6,Aragão S.A.,Atacado,28539.64,alto,ativo,2021-01-25
+533,6,Sá Pinto S/A,Tecnologia,114464.76,baixo,ativo,2021-08-31
+534,6,da Mata - ME,Serviços,89023.33,medio,ativo,2025-09-01
+535,6,Mendonça,Tecnologia,79553.25,medio,ativo,2023-08-06
+536,6,Leão,Tecnologia,146118.86,baixo,ativo,2024-07-09
+537,6,Cunha,Varejo,45535.11,medio,ativo,2025-08-03
+538,6,Ferreira - ME,Varejo,35431.89,baixo,ativo,2024-07-10
+539,6,da Paz e Filhos,Atacado,92427.03,baixo,ativo,2023-06-01
+540,6,Moura,Indústria,62367.68,medio,ativo,2024-01-28
+541,6,Aparecida,Atacado,77545.4,medio,ativo,2025-04-21
+542,6,Gonçalves Peixoto S/A,Serviços,46202.6,medio,ativo,2020-01-09
+543,6,Costela Ltda.,Atacado,127884.91,baixo,ativo,2024-03-11
+544,6,Vargas Carvalho Ltda.,Tecnologia,23132.43,medio,ativo,2021-03-14
+545,6,Duarte,Serviços,45469.79,baixo,ativo,2025-02-15
+546,6,Abreu - ME,Varejo,37034.68,medio,ativo,2021-05-19
+547,6,Cavalcanti,Serviços,62676.54,medio,ativo,2025-08-05
+548,6,Garcia Nascimento e Filhos,Atacado,115707.81,baixo,ativo,2025-06-01
+549,6,Montenegro Novais e Filhos,Serviços,36131.8,alto,ativo,2021-06-09
+550,6,Barbosa,Tecnologia,105477.84,baixo,ativo,2024-09-10
+551,7,Sousa,Indústria,48361.71,alto,ativo,2025-01-28
+552,7,Lopes S/A,Atacado,58201.96,medio,ativo,2023-05-09
+553,7,Barbosa,Atacado,35112.86,medio,ativo,2022-06-09
+554,7,Oliveira,Serviços,101141.79,baixo,ativo,2021-12-29
+555,7,Oliveira,Indústria,110260.56,baixo,ativo,2026-04-22
+556,7,Santos,Atacado,94182.97,baixo,ativo,2023-03-17
+557,7,da Rocha,Tecnologia,11021.64,medio,ativo,2021-08-18
+558,7,Guerra S/A,Indústria,27358.62,baixo,ativo,2022-10-23
+559,7,Cavalcante,Atacado,28064.27,baixo,ativo,2020-05-12
+560,7,Sales,Atacado,78837.29,baixo,ativo,2022-07-07
+561,7,Borges,Indústria,29007.64,medio,ativo,2020-07-11
+562,7,Caldeira,Indústria,48912.02,alto,ativo,2026-03-11
+563,7,Lopes Pastor - ME,Tecnologia,116677.1,baixo,ativo,2022-07-12
+564,7,Gonçalves Ltda.,Atacado,38979.85,alto,ativo,2022-03-15
+565,7,Câmara,Varejo,33534.22,medio,ativo,2022-02-04
+566,7,Vasconcelos,Indústria,6828.54,alto,ativo,2026-03-29
+567,7,Barbosa Moraes e Filhos,Tecnologia,40920.75,baixo,ativo,2021-09-26
+568,7,Moura - EI,Atacado,140721.67,baixo,ativo,2023-05-18
+569,7,Vasconcelos Ferreira Ltda.,Indústria,94448.01,baixo,ativo,2025-11-22
+570,7,da Costa Caldeira S.A.,Tecnologia,43902.98,baixo,ativo,2026-02-02
+571,7,Costa,Indústria,31952.92,baixo,ativo,2023-09-18
+572,7,Pereira Cassiano e Filhos,Atacado,48397.89,baixo,ativo,2020-02-06
+573,7,Cavalcanti e Filhos,Atacado,64980.95,baixo,ativo,2022-09-25
+574,7,Martins,Varejo,46216.96,alto,ativo,2024-04-29
+575,7,Rodrigues,Indústria,114116.83,baixo,ativo,2025-10-07
+576,7,Pires,Serviços,13508.13,medio,ativo,2023-08-05
+577,7,Cassiano,Atacado,143267.54,baixo,ativo,2025-12-24
+578,7,Azevedo,Tecnologia,28511.34,baixo,ativo,2021-03-01
+579,7,Macedo,Tecnologia,127737.33,baixo,ativo,2020-10-22
+580,7,Vieira,Varejo,46738.02,medio,ativo,2020-10-27
+581,7,Pastor,Serviços,123247.92,baixo,ativo,2022-11-25
+582,7,Fogaça - EI,Tecnologia,78646.34,baixo,ativo,2021-04-29
+583,7,das Neves - ME,Atacado,103384.96,baixo,ativo,2020-07-05
+584,7,Andrade,Indústria,84243.82,medio,ativo,2020-12-20
+585,7,Freitas Ltda.,Varejo,140469.81,baixo,ativo,2025-04-25
+586,7,Ramos S/A,Atacado,48582.54,baixo,ativo,2023-04-23
+587,7,Martins,Indústria,46137.6,alto,ativo,2020-02-15
+588,7,Machado - EI,Atacado,92159.07,baixo,ativo,2024-06-02
+589,7,Duarte Pereira - ME,Indústria,143107.32,baixo,ativo,2022-05-17
+590,7,Araújo Machado S/A,Serviços,103971.1,baixo,ativo,2022-11-01
+591,7,Silva,Atacado,43576.54,baixo,ativo,2025-03-04
+592,7,Montenegro e Filhos,Serviços,63734.82,medio,ativo,2025-06-18
+593,7,Aparecida da Cruz e Filhos,Indústria,15553.98,alto,ativo,2020-10-12
+594,7,Macedo,Indústria,32735.41,alto,ativo,2021-09-16
+595,7,Fonseca Freitas Ltda.,Varejo,67384.15,baixo,ativo,2023-07-06
+596,7,Jesus,Indústria,48798.34,baixo,ativo,2021-07-04
+597,7,Rocha,Indústria,48396.32,medio,ativo,2025-06-17
+598,7,Vieira e Filhos,Serviços,42850.12,baixo,ativo,2026-01-15
+599,7,Azevedo,Varejo,115360.8,baixo,ativo,2025-09-08
+600,7,Brito,Serviços,125643.51,baixo,ativo,2020-05-30
+601,7,da Paz,Serviços,90651.01,baixo,ativo,2024-02-07
+602,7,Silveira,Serviços,135886.88,baixo,ativo,2025-03-18
+603,7,Farias Barros - EI,Serviços,31772.02,baixo,ativo,2021-11-10
+604,7,Ferreira das Neves e Filhos,Atacado,22737.79,medio,ativo,2021-08-21
+605,7,Cardoso,Tecnologia,38703.64,medio,ativo,2022-08-07
+606,7,das Neves - EI,Indústria,68026.57,baixo,ativo,2024-05-08
+607,7,Ramos,Indústria,79103.65,baixo,ativo,2021-02-26
+608,7,Cardoso,Indústria,76371.77,medio,ativo,2026-02-07
+609,7,Ramos e Filhos,Varejo,68965.74,baixo,ativo,2025-10-17
+610,7,Moraes,Indústria,146447.63,baixo,ativo,2025-06-17
+611,7,Almeida,Tecnologia,10527.81,medio,ativo,2021-11-09
+612,7,das Neves,Serviços,86890.37,baixo,ativo,2024-01-23
+613,7,Cunha Fernandes - ME,Indústria,126204.16,baixo,ativo,2021-04-09
+614,8,Câmara Carvalho S.A.,Tecnologia,57263.27,medio,ativo,2020-04-01
+615,8,da Rocha S/A,Atacado,36625.06,baixo,ativo,2020-06-09
+616,8,Ribeiro Ltda.,Atacado,23307.31,medio,ativo,2024-07-18
+617,8,Peixoto Garcia S.A.,Indústria,93268.61,baixo,ativo,2020-12-17
+618,8,Cirino Sales - EI,Serviços,98848.37,baixo,ativo,2024-08-09
+619,8,Silveira Macedo S/A,Atacado,123300.09,baixo,ativo,2022-12-19
+620,8,Fonseca,Varejo,109126.85,baixo,ativo,2022-07-30
+621,8,Macedo Pimenta Ltda.,Atacado,37187.72,baixo,ativo,2024-09-15
+622,8,da Conceição,Atacado,24193.77,medio,ativo,2020-06-08
+623,8,das Neves Viana - ME,Serviços,70190.65,medio,ativo,2026-01-17
+624,8,Freitas Rocha - EI,Atacado,71989.63,medio,ativo,2024-09-19
+625,8,Martins,Tecnologia,25646.98,baixo,ativo,2024-04-10
+626,8,Vasconcelos,Atacado,124600.74,baixo,ativo,2021-02-04
+627,8,Montenegro,Varejo,53087.34,baixo,ativo,2023-03-06
+628,8,Castro,Varejo,90685.03,baixo,ativo,2025-11-10
+629,8,Pereira Carvalho Ltda.,Indústria,20935.23,baixo,ativo,2024-08-01
+630,8,Ramos - ME,Atacado,40121.22,baixo,ativo,2024-09-30
+631,8,Novaes,Serviços,99544.49,baixo,ativo,2024-08-19
+632,8,Silva - EI,Tecnologia,92483.15,baixo,ativo,2022-11-05
+633,8,da Paz S/A,Serviços,22915.84,alto,ativo,2021-05-02
+634,8,da Mata Machado - EI,Serviços,65944.92,medio,ativo,2025-09-13
+635,8,Lopes Borges S.A.,Varejo,63996.92,baixo,ativo,2021-10-20
+636,8,Ferreira,Tecnologia,102663.96,baixo,ativo,2024-11-18
+637,8,Leão S/A,Tecnologia,54201.96,baixo,ativo,2024-06-29
+638,8,Montenegro,Serviços,87730.72,baixo,ativo,2025-07-17
+639,8,da Costa,Indústria,46221.94,baixo,ativo,2022-03-08
+640,8,Barros,Serviços,97936.94,baixo,ativo,2020-05-27
+641,8,Câmara,Indústria,105152.49,baixo,ativo,2024-06-24
+642,8,Dias S/A,Varejo,71368.61,baixo,ativo,2021-01-04
+643,8,Vieira,Indústria,114398.03,baixo,ativo,2023-02-06
+644,8,Carvalho Andrade Ltda.,Varejo,145197.43,baixo,ativo,2022-12-05
+645,8,Sampaio,Indústria,85810.95,baixo,ativo,2021-04-24
+646,8,Teixeira Santos - ME,Atacado,80089.04,medio,ativo,2022-10-21
+647,8,Pimenta,Indústria,55053.49,medio,ativo,2025-02-22
+648,8,Barros S/A,Indústria,78961.86,medio,ativo,2020-10-03
+649,8,Cunha,Indústria,122525.28,baixo,ativo,2024-08-16
+650,8,Novaes Siqueira - EI,Serviços,42447.97,alto,ativo,2023-03-22
+651,8,Camargo,Serviços,107580.73,baixo,ativo,2025-05-05
+652,8,da Costa,Serviços,48413.6,baixo,ativo,2025-08-05
+653,8,Campos,Serviços,29364.52,medio,ativo,2022-04-10
+654,8,da Costa - ME,Varejo,38482.19,medio,ativo,2020-11-17
+655,8,Azevedo,Atacado,59106.16,medio,ativo,2020-06-22
+656,8,Monteiro - EI,Atacado,35233.35,medio,ativo,2023-01-30
+657,8,Pires - EI,Serviços,147971.31,baixo,ativo,2021-06-09
+658,8,Silva Casa Grande Ltda.,Atacado,123905.09,baixo,ativo,2023-11-23
+659,8,Abreu,Atacado,109224.02,baixo,ativo,2025-02-27
+660,8,da Costa,Varejo,21094.42,baixo,ativo,2023-08-25
+661,8,Cirino,Indústria,132039.46,baixo,ativo,2025-04-14
+662,8,Moura Ltda.,Tecnologia,24077.43,alto,ativo,2024-03-04
+663,8,Moura - EI,Atacado,72077.04,baixo,ativo,2022-07-25
+664,8,Gomes - ME,Tecnologia,74327.01,medio,ativo,2022-03-14
+665,8,Porto - ME,Serviços,144689.23,baixo,ativo,2024-09-22
+666,8,da Cunha,Indústria,149423.03,baixo,ativo,2025-06-16
+667,8,Fogaça S/A,Serviços,93078.0,baixo,ativo,2020-09-02
+668,8,da Costa,Indústria,53057.66,baixo,ativo,2022-11-30
+669,8,Vargas - EI,Varejo,92845.5,baixo,ativo,2024-08-13
+670,8,Carvalho,Atacado,132757.92,baixo,ativo,2026-01-14
+671,8,Fogaça - EI,Tecnologia,121440.18,baixo,ativo,2025-01-04
+672,8,Ramos,Serviços,32921.89,medio,ativo,2021-11-17
+673,8,Vasconcelos Rodrigues - ME,Tecnologia,43745.32,medio,ativo,2020-10-19
+674,8,Pires,Indústria,64671.31,baixo,ativo,2024-06-07
+675,8,Carvalho Azevedo e Filhos,Atacado,77836.79,baixo,ativo,2025-11-03
+676,8,Andrade,Serviços,6039.55,alto,ativo,2022-10-27
+677,8,Costa,Varejo,12510.97,alto,ativo,2021-01-26
+678,8,Vieira S.A.,Tecnologia,134229.83,baixo,ativo,2025-11-16
+679,8,Dias Ltda.,Tecnologia,30996.18,medio,ativo,2023-06-21
+680,8,Nogueira,Atacado,115887.12,baixo,ativo,2021-11-29
+681,8,da Cunha,Tecnologia,106261.39,baixo,ativo,2025-03-28
+682,8,Sá e Filhos,Atacado,25018.02,alto,ativo,2021-12-26
+683,8,da Paz Fogaça S/A,Tecnologia,79350.64,baixo,ativo,2025-11-14
+684,8,da Mata,Serviços,89391.94,baixo,ativo,2021-01-01
+685,8,Freitas - ME,Varejo,67551.83,baixo,ativo,2025-11-13
+686,8,Souza,Varejo,37510.79,medio,ativo,2025-07-07
+687,8,Gomes,Indústria,24369.59,alto,ativo,2022-08-05
+688,8,Cirino,Tecnologia,25085.68,medio,ativo,2024-06-04
+689,8,Sales,Serviços,112941.94,baixo,ativo,2022-12-13
+690,8,Freitas,Atacado,101291.99,baixo,ativo,2023-01-18
+691,8,Barros,Varejo,116580.5,baixo,ativo,2022-01-17
+692,8,Barros,Atacado,34346.33,baixo,ativo,2025-07-08
+693,8,Pereira,Serviços,22521.4,baixo,ativo,2021-02-22
+694,8,Nogueira da Rocha Ltda.,Varejo,36255.1,baixo,ativo,2021-09-09
+695,8,Barros Ltda.,Tecnologia,48234.45,baixo,ativo,2024-03-01
+696,8,das Neves,Serviços,122885.21,baixo,ativo,2020-08-17
+697,8,Pereira,Indústria,71014.83,baixo,ativo,2024-04-11
+698,8,Cavalcante,Tecnologia,71451.65,medio,ativo,2022-10-09
+699,8,Ferreira,Atacado,46866.77,medio,ativo,2022-05-03
+700,8,Aparecida,Varejo,108587.5,baixo,ativo,2026-03-01
+701,8,Pimenta,Varejo,52930.66,baixo,ativo,2022-06-11
+702,8,da Mota,Indústria,5678.05,alto,ativo,2021-05-05
+703,8,Barbosa e Filhos,Tecnologia,51601.61,baixo,ativo,2021-09-26
+704,8,Fonseca,Atacado,31632.39,baixo,ativo,2023-10-18
+705,8,Alves Casa Grande - EI,Serviços,7689.88,alto,ativo,2026-01-05
+706,8,Andrade,Indústria,28613.97,medio,ativo,2024-12-01
+707,8,Azevedo da Costa e Filhos,Indústria,40221.51,medio,ativo,2020-06-10
+708,8,Fonseca,Serviços,76875.0,baixo,ativo,2026-05-10
+709,8,Nunes,Atacado,65196.41,baixo,ativo,2026-03-21
+710,8,Pereira S.A.,Atacado,89047.87,baixo,ativo,2024-02-12
+711,8,Freitas,Varejo,120869.33,baixo,ativo,2024-01-31
+712,8,Macedo,Atacado,67680.29,medio,ativo,2024-05-06
+713,8,Oliveira S.A.,Indústria,108819.14,baixo,ativo,2023-08-14
+714,8,Gonçalves,Varejo,61863.13,baixo,ativo,2021-06-15
+715,8,Rezende,Varejo,24065.59,baixo,ativo,2026-05-27
+716,8,da Cruz,Atacado,49192.77,medio,ativo,2022-11-14
+717,8,Alves e Filhos,Serviços,48693.96,baixo,ativo,2025-07-05
+718,8,Monteiro Moreira - ME,Indústria,33751.25,alto,ativo,2026-04-04
+719,8,da Luz Ltda.,Varejo,75762.12,medio,ativo,2022-12-24
+720,8,Cunha,Serviços,115459.04,baixo,ativo,2025-10-28
+721,8,Sales,Atacado,114272.35,baixo,ativo,2022-10-15
+722,8,Costa,Varejo,143175.43,baixo,ativo,2024-01-06
+723,8,Carvalho S/A,Serviços,44166.0,medio,ativo,2026-03-02
+724,8,Cavalcanti,Tecnologia,63876.67,baixo,ativo,2023-12-14
+725,8,Borges,Tecnologia,43018.43,alto,ativo,2024-10-29
+726,8,Rios,Tecnologia,29257.8,medio,ativo,2026-03-03
+727,8,Santos,Tecnologia,25137.49,alto,ativo,2020-01-01
+728,8,Novaes - EI,Indústria,57661.03,medio,ativo,2020-01-27
+729,8,da Rosa,Indústria,48845.27,baixo,ativo,2026-03-17
+730,8,Silva Santos e Filhos,Tecnologia,94186.87,baixo,ativo,2023-12-27
+731,8,Vieira Fonseca - EI,Indústria,54448.46,baixo,ativo,2023-05-15
+732,8,Campos Costa S.A.,Indústria,71973.77,baixo,ativo,2025-05-30
+733,8,Vieira Monteiro S/A,Varejo,127341.68,baixo,ativo,2023-05-15
+734,8,Novaes,Indústria,125084.35,baixo,ativo,2023-11-26
+735,8,Martins,Serviços,84419.69,medio,ativo,2020-02-16
+736,8,Pimenta Borges S/A,Indústria,102185.17,baixo,ativo,2026-01-20
+737,8,Gonçalves,Tecnologia,62488.11,baixo,ativo,2024-12-30
+738,8,Moura,Tecnologia,17206.64,medio,ativo,2021-08-29
+739,8,Vargas,Tecnologia,30730.86,baixo,ativo,2022-12-11
+740,8,Oliveira,Serviços,85237.01,baixo,ativo,2025-05-23
+741,8,Cardoso Ltda.,Atacado,83421.94,baixo,ativo,2025-11-17
+742,8,Machado - ME,Atacado,29313.72,baixo,ativo,2021-01-01
+743,8,Cardoso,Indústria,73765.67,baixo,ativo,2020-04-09
+744,8,Vargas Cardoso - ME,Tecnologia,37977.31,medio,ativo,2021-08-20
+745,8,Campos - EI,Serviços,140147.72,baixo,ativo,2020-12-17
+746,8,da Rosa Cavalcante S.A.,Indústria,27089.94,baixo,ativo,2020-02-26
+747,8,Santos,Indústria,124556.5,baixo,ativo,2022-05-06
+748,8,Ferreira Moreira Ltda.,Atacado,53713.94,medio,ativo,2025-06-01
+749,8,da Cunha S.A.,Tecnologia,148999.28,baixo,ativo,2025-11-27
+750,8,Cardoso,Atacado,42141.55,baixo,ativo,2023-01-16
+751,8,Pimenta,Indústria,105118.52,baixo,ativo,2024-01-15
+752,8,Montenegro e Filhos,Serviços,79392.84,medio,ativo,2024-04-08
+753,8,Pastor Pacheco S.A.,Atacado,112259.54,baixo,ativo,2025-12-17
+754,8,Ribeiro Pinto e Filhos,Varejo,45853.78,baixo,ativo,2020-06-11
+755,8,Nunes,Serviços,88824.0,baixo,ativo,2020-03-16
+756,8,Alves S/A,Atacado,65748.7,baixo,ativo,2023-02-03
+757,8,Ramos - EI,Varejo,80294.18,medio,ativo,2026-03-23
+758,8,Rezende,Serviços,22678.1,alto,ativo,2020-12-25
+759,8,Vargas Oliveira - ME,Serviços,64239.59,medio,ativo,2024-09-05
+760,8,Monteiro e Filhos,Indústria,39857.39,baixo,ativo,2025-01-13
+761,8,Ramos,Serviços,46878.45,baixo,ativo,2021-07-19
+762,8,Mendes,Serviços,111667.73,baixo,ativo,2026-05-02
+763,8,Rodrigues Guerra Ltda.,Varejo,47687.07,alto,ativo,2022-01-24
+764,8,Barbosa,Tecnologia,134352.96,baixo,ativo,2024-08-11
+765,9,Castro - ME,Indústria,141389.91,baixo,ativo,2021-09-16
+766,9,Mendes,Atacado,24779.72,medio,ativo,2024-04-25
+767,9,Costela,Varejo,93715.6,baixo,ativo,2022-11-14
+768,9,Pereira,Tecnologia,121377.41,baixo,ativo,2024-11-06
+769,9,Dias Silva Ltda.,Serviços,40996.82,medio,ativo,2021-12-09
+770,9,Guerra,Tecnologia,73116.59,baixo,ativo,2022-02-07
+771,9,Teixeira Freitas - EI,Tecnologia,70622.13,medio,ativo,2025-09-19
+772,9,Dias S.A.,Tecnologia,109422.15,baixo,ativo,2023-02-16
+773,9,Campos,Tecnologia,75946.28,medio,ativo,2024-04-14
+774,9,Machado,Varejo,33862.72,alto,ativo,2023-10-11
+775,9,Casa Grande Brito S/A,Serviços,79397.06,baixo,ativo,2023-10-07
+776,9,Gomes,Varejo,147897.98,baixo,ativo,2021-12-02
+777,9,da Cruz,Tecnologia,71745.19,baixo,ativo,2021-10-15
+778,9,Duarte Oliveira e Filhos,Serviços,99707.46,baixo,ativo,2023-06-16
+779,9,Correia,Atacado,67811.74,medio,ativo,2026-02-11
+780,9,Monteiro Moraes - ME,Varejo,41445.34,medio,ativo,2021-11-10
+781,9,das Neves,Varejo,136560.28,baixo,ativo,2022-04-05
+782,9,Almeida,Varejo,104314.94,baixo,ativo,2021-05-14
+783,9,Gonçalves - EI,Tecnologia,78421.79,baixo,ativo,2024-12-06
+784,9,da Costa,Tecnologia,85980.31,medio,ativo,2021-02-06
+785,9,Pacheco Fogaça S/A,Serviços,55239.33,medio,ativo,2021-10-07
+786,9,da Paz - ME,Indústria,66963.8,medio,ativo,2024-12-13
+787,9,da Paz,Serviços,60116.23,medio,ativo,2026-03-29
+788,9,Caldeira - ME,Tecnologia,100932.84,baixo,ativo,2023-11-27
+789,9,da Luz Siqueira Ltda.,Tecnologia,49477.34,medio,ativo,2023-05-27
+790,9,Fonseca,Atacado,30322.64,baixo,ativo,2022-06-01
+791,9,Guerra S/A,Serviços,92481.32,baixo,ativo,2021-03-01
+792,9,Fonseca Novaes Ltda.,Atacado,78306.34,medio,ativo,2022-07-13
+793,9,Gomes - EI,Serviços,31401.35,baixo,ativo,2024-08-16
+794,9,Teixeira,Atacado,105920.2,baixo,ativo,2021-11-07
+795,9,Pinto,Indústria,6612.8,alto,ativo,2022-09-01
+796,9,Cardoso S/A,Atacado,69262.12,baixo,ativo,2021-03-21
+797,9,Freitas,Atacado,37490.95,baixo,ativo,2023-03-06
+798,9,Novais,Atacado,110457.83,baixo,ativo,2026-05-23
+799,9,Sá,Indústria,114129.64,baixo,ativo,2023-04-02
+800,9,Costa Pereira - EI,Indústria,61143.51,baixo,ativo,2026-01-20
+801,9,Montenegro,Tecnologia,93142.46,baixo,ativo,2025-05-21
+802,9,Aparecida S/A,Varejo,99222.75,baixo,ativo,2021-07-09
+803,9,Silva Farias - ME,Atacado,101309.9,baixo,ativo,2026-06-16
+804,10,Cassiano,Varejo,63392.99,baixo,ativo,2025-04-29
+805,10,Duarte Pimenta Ltda.,Atacado,56611.47,baixo,ativo,2024-10-26
+806,10,Gonçalves Pimenta e Filhos,Atacado,20797.06,baixo,ativo,2025-03-10
+807,10,Pastor,Tecnologia,42522.14,alto,ativo,2024-05-24
+808,10,Montenegro,Atacado,48519.64,medio,ativo,2023-08-13
+809,10,Santos,Atacado,125841.66,baixo,ativo,2023-06-01
+810,10,Melo,Atacado,108165.69,baixo,ativo,2025-07-30
+811,10,Freitas Ltda.,Serviços,139104.24,baixo,ativo,2023-04-23
+812,10,Leão - EI,Serviços,40019.26,medio,ativo,2024-12-08
+813,10,Vieira,Indústria,44359.26,baixo,ativo,2025-09-09
+814,10,Peixoto - ME,Serviços,31719.79,medio,ativo,2023-10-27
+815,10,Rezende,Varejo,143594.48,baixo,ativo,2023-11-01
+816,10,Silveira Aragão - EI,Varejo,83068.31,medio,ativo,2026-03-20
+817,10,Cavalcante,Atacado,85007.06,baixo,ativo,2023-06-23
+818,10,Casa Grande,Atacado,79743.92,medio,ativo,2025-07-12
+819,10,Andrade Oliveira e Filhos,Atacado,22441.47,alto,ativo,2022-05-21
+820,10,Correia S/A,Varejo,141203.85,baixo,ativo,2023-08-09
+821,10,Dias,Indústria,25998.17,baixo,ativo,2021-11-11
+822,10,Cassiano,Serviços,60578.58,baixo,ativo,2023-05-05
+823,10,Sales,Serviços,61489.47,baixo,ativo,2022-08-14
+824,10,Jesus Montenegro - EI,Serviços,21983.37,baixo,ativo,2024-10-11
+825,10,Sousa,Indústria,61403.04,baixo,ativo,2024-12-14
+826,10,Santos S.A.,Tecnologia,29261.57,baixo,ativo,2022-01-07
+827,10,Novais Duarte e Filhos,Varejo,81195.63,baixo,ativo,2022-03-21
+828,10,Moura,Tecnologia,43267.79,baixo,ativo,2025-03-11
+829,10,Dias,Atacado,63203.17,baixo,ativo,2022-03-05
+830,10,Marques Nascimento Ltda.,Tecnologia,10930.79,alto,ativo,2022-04-13
+831,10,Rocha,Serviços,108982.14,baixo,ativo,2022-12-28
+832,10,Pimenta,Serviços,136441.11,baixo,ativo,2025-08-28
+833,10,Correia,Tecnologia,19614.25,alto,ativo,2021-11-26
+834,10,da Mota Novais Ltda.,Indústria,34675.32,baixo,ativo,2026-01-15
+835,10,da Rosa Vargas Ltda.,Varejo,94708.17,baixo,ativo,2023-07-25
+836,10,Sales Santos - ME,Atacado,29220.12,baixo,ativo,2024-01-20
+837,10,Mendes,Varejo,51679.84,baixo,ativo,2023-08-24
+838,10,Novais,Atacado,110227.78,baixo,ativo,2026-02-24
+839,10,da Paz,Atacado,110237.31,baixo,ativo,2026-06-05
+840,10,Oliveira e Filhos,Tecnologia,96981.21,baixo,ativo,2022-09-21
+841,10,Gonçalves,Atacado,72753.18,baixo,ativo,2026-01-22
+842,10,Vargas,Serviços,61599.13,medio,ativo,2026-04-26
+843,10,da Rocha Aparecida Ltda.,Serviços,95499.83,baixo,ativo,2025-06-10
+844,10,Ferreira - ME,Serviços,89063.26,baixo,ativo,2022-11-21
+845,10,Souza,Indústria,55622.11,medio,ativo,2024-03-04
+846,10,Cunha,Atacado,89223.14,medio,ativo,2024-08-06
+847,10,Nascimento da Mata - EI,Atacado,36582.24,baixo,ativo,2022-01-12
+848,10,Carvalho,Indústria,92803.93,baixo,ativo,2021-11-28
+849,10,Pimenta e Filhos,Tecnologia,111288.84,baixo,ativo,2024-01-05
+850,10,da Cruz Aragão e Filhos,Serviços,90865.44,baixo,ativo,2024-11-06
+851,10,Porto da Conceição S/A,Serviços,140182.67,baixo,ativo,2022-06-28
+852,10,Jesus Ltda.,Tecnologia,104290.6,baixo,ativo,2022-07-01
+853,10,Brito,Atacado,103491.58,baixo,ativo,2024-02-14
+854,10,Abreu Novaes S.A.,Tecnologia,79071.27,baixo,ativo,2023-09-23
+855,11,Rezende,Serviços,98594.52,baixo,ativo,2025-08-17
+856,11,Mendes,Varejo,140453.38,baixo,ativo,2026-05-16
+857,11,Sá da Paz Ltda.,Varejo,67915.22,baixo,ativo,2021-08-04
+858,11,Ramos,Indústria,78748.05,medio,ativo,2025-03-19
+859,11,Vargas S/A,Varejo,88036.38,baixo,ativo,2026-01-17
+860,11,Nascimento Sousa e Filhos,Varejo,14221.94,medio,ativo,2025-04-04
+861,11,Cavalcanti - ME,Indústria,137787.16,baixo,ativo,2023-04-21
+862,11,Andrade Gonçalves - ME,Atacado,24592.41,baixo,ativo,2022-12-02
+863,11,Souza da Rocha S/A,Indústria,81510.87,baixo,ativo,2020-04-21
+864,11,da Rosa - EI,Indústria,30726.32,baixo,ativo,2022-10-29
+865,11,Farias Ltda.,Varejo,56526.35,baixo,ativo,2021-12-16
+866,11,Ramos,Serviços,21639.51,alto,ativo,2022-12-06
+867,11,Carvalho,Varejo,24464.74,medio,ativo,2023-11-05
+868,11,da Mata,Tecnologia,41977.57,alto,ativo,2024-08-18
+869,11,Camargo Farias S.A.,Serviços,45214.8,medio,ativo,2023-11-14
+870,11,Ramos,Tecnologia,54371.41,baixo,ativo,2024-06-21
+871,11,Silva,Serviços,81914.61,baixo,ativo,2024-04-04
+872,11,Albuquerque Sousa Ltda.,Tecnologia,31010.01,medio,ativo,2020-02-18
+873,11,Nunes,Atacado,123650.18,baixo,ativo,2020-06-17
+874,11,Cavalcanti Pimenta e Filhos,Atacado,89068.14,baixo,ativo,2023-01-21
+875,11,Lima,Tecnologia,54721.42,baixo,ativo,2025-03-03
+876,11,Borges,Serviços,68745.08,medio,ativo,2025-10-30
+877,11,Rios,Varejo,109736.18,baixo,ativo,2020-10-05
+878,11,Cirino S.A.,Serviços,32700.84,baixo,ativo,2023-03-06
+879,11,Duarte,Atacado,24425.43,baixo,ativo,2022-06-07
+880,11,Abreu da Luz - ME,Atacado,10398.97,alto,ativo,2021-06-16
+881,11,Machado Sá Ltda.,Serviços,119301.51,baixo,ativo,2021-03-30
+882,11,da Rosa,Tecnologia,47356.45,medio,ativo,2023-02-06
+883,11,da Luz e Filhos,Indústria,63406.34,medio,ativo,2021-10-25
+884,11,Sales,Varejo,14990.99,medio,ativo,2022-11-23
+885,11,Araújo Rios S/A,Serviços,27127.48,alto,ativo,2024-05-27
+886,11,das Neves,Serviços,83967.45,baixo,ativo,2021-03-11
+887,11,Guerra Rodrigues - EI,Atacado,8281.38,alto,ativo,2022-10-23
+888,11,Sales,Varejo,49816.11,medio,ativo,2020-06-03
+889,11,Porto Ltda.,Atacado,66004.42,medio,ativo,2020-01-16
+890,11,Pimenta,Varejo,142188.44,baixo,ativo,2026-01-21
+891,11,Câmara Carvalho - ME,Varejo,69975.1,baixo,ativo,2026-05-12
+892,11,Marques Souza - EI,Varejo,148908.18,baixo,ativo,2021-01-06
+893,11,Leão,Indústria,130934.47,baixo,ativo,2022-04-11
+894,11,Sá,Tecnologia,25113.05,baixo,ativo,2021-03-13
+895,11,Teixeira da Cruz e Filhos,Serviços,66703.95,baixo,ativo,2021-07-27
+896,11,Moura - ME,Tecnologia,23297.4,baixo,ativo,2020-09-15
+897,11,Barbosa,Tecnologia,49974.73,medio,ativo,2020-03-08
+898,11,Araújo - EI,Varejo,27287.08,baixo,ativo,2022-05-17
+899,11,Oliveira Nascimento S.A.,Atacado,46669.63,medio,ativo,2021-09-02
+900,11,Duarte Moreira - ME,Tecnologia,15762.68,medio,ativo,2020-03-19
+901,11,Rodrigues S.A.,Serviços,139342.48,baixo,ativo,2020-02-28
+902,11,Borges,Tecnologia,26494.54,baixo,ativo,2021-11-30
+903,11,Araújo,Atacado,75397.63,medio,ativo,2022-06-22
+904,11,Cardoso,Tecnologia,46343.35,baixo,ativo,2023-08-21
+905,11,Marques,Serviços,108931.49,baixo,ativo,2020-07-05
+906,11,Novais - ME,Tecnologia,63615.48,baixo,ativo,2021-11-19
+907,11,Silveira,Varejo,45092.9,medio,ativo,2021-06-30
+908,11,Gonçalves Ltda.,Varejo,130157.67,baixo,ativo,2025-06-17
+909,11,Souza S.A.,Atacado,20939.12,baixo,ativo,2023-03-08
+910,11,Aparecida - ME,Serviços,124963.53,baixo,ativo,2021-08-09
+911,11,Sampaio,Atacado,88001.29,baixo,ativo,2020-06-03
+912,11,Nogueira S/A,Indústria,113235.84,baixo,ativo,2023-11-25
+913,11,Melo S/A,Varejo,92502.35,baixo,ativo,2024-01-22
+914,11,Jesus,Serviços,50603.26,medio,ativo,2023-02-06
+915,11,Vargas Carvalho e Filhos,Tecnologia,34648.29,baixo,ativo,2025-07-30
+916,11,Freitas,Indústria,107118.54,baixo,ativo,2022-05-08
+917,11,Machado,Varejo,63458.3,baixo,ativo,2021-03-03
+918,11,Garcia,Tecnologia,24071.01,medio,ativo,2025-10-10
+919,11,Rodrigues e Filhos,Indústria,136360.29,baixo,ativo,2024-09-12
+920,11,Rezende Ferreira S/A,Indústria,107990.83,baixo,ativo,2022-07-21
+921,11,Nascimento Gonçalves - EI,Serviços,115907.22,baixo,ativo,2020-10-28
+922,11,Siqueira Câmara S/A,Atacado,82973.0,baixo,ativo,2025-02-06
+923,11,da Rosa - ME,Indústria,68553.06,baixo,ativo,2023-01-09
+924,11,Nascimento,Serviços,36537.53,baixo,ativo,2021-03-31
+925,11,da Conceição,Indústria,23696.11,medio,ativo,2021-10-04
+926,11,Marques Ferreira S.A.,Atacado,58922.25,medio,ativo,2022-07-29
+927,11,Correia,Atacado,131406.59,baixo,ativo,2025-04-23
+928,11,Andrade e Filhos,Serviços,68401.42,medio,ativo,2022-10-12
+929,11,Pimenta,Serviços,95330.71,baixo,ativo,2026-06-07
+930,11,da Costa S.A.,Atacado,13537.94,medio,ativo,2020-05-17
+931,11,Brito - EI,Varejo,71261.62,baixo,ativo,2025-01-27
+932,11,Machado - EI,Tecnologia,30801.9,baixo,ativo,2022-06-11
+933,11,da Cruz e Filhos,Tecnologia,58452.76,baixo,ativo,2023-06-02
+934,11,Guerra - ME,Tecnologia,79706.77,baixo,ativo,2025-03-14
+935,11,Nogueira Cunha S/A,Indústria,42428.83,medio,ativo,2025-03-16
+936,11,Montenegro da Rocha S.A.,Indústria,60184.4,medio,ativo,2025-12-14
+937,11,Oliveira,Atacado,75367.29,baixo,ativo,2026-06-14
+938,11,da Costa,Varejo,16476.72,medio,ativo,2025-10-09
+939,11,Casa Grande,Indústria,9993.49,alto,ativo,2025-03-21
+940,11,Jesus da Rosa Ltda.,Varejo,67524.25,baixo,ativo,2026-04-15
+941,11,Novais - EI,Varejo,88500.13,medio,ativo,2025-05-13
+942,11,Pires Rocha - ME,Serviços,79690.51,medio,ativo,2023-08-05
+943,11,Aragão,Varejo,54756.52,baixo,ativo,2024-03-07
+944,11,Ramos,Atacado,83209.5,baixo,ativo,2025-12-22
+945,11,Viana,Varejo,39451.67,medio,ativo,2022-02-10
+946,11,Sampaio,Indústria,16413.63,medio,ativo,2020-11-11
+947,11,Jesus,Serviços,55872.56,baixo,ativo,2025-11-02
+948,11,da Rosa Garcia S.A.,Serviços,35708.15,alto,ativo,2025-04-25
+949,11,da Costa,Varejo,77701.81,baixo,ativo,2020-03-31
+950,11,da Rosa Santos S.A.,Tecnologia,85795.9,medio,ativo,2023-11-05
+951,11,Araújo,Atacado,48891.87,medio,ativo,2026-02-24
+952,11,Leão,Serviços,59530.7,baixo,ativo,2022-11-30
+953,11,Gomes da Cruz Ltda.,Serviços,68347.3,baixo,ativo,2023-12-17
+954,11,Farias Ramos S/A,Atacado,144307.8,baixo,ativo,2023-03-14
+955,11,Freitas,Serviços,42796.71,baixo,ativo,2021-10-22
+956,11,Nascimento e Filhos,Indústria,25349.69,baixo,ativo,2024-02-23
+957,11,Aragão da Mata - ME,Indústria,93123.34,baixo,ativo,2021-08-28
+958,11,Barbosa S.A.,Varejo,90182.66,baixo,ativo,2024-07-15
+959,11,Mendes Costela Ltda.,Serviços,46751.51,alto,ativo,2020-01-18
+960,11,Albuquerque,Indústria,34125.98,alto,ativo,2025-04-25
+961,11,Correia Sousa S/A,Serviços,70332.93,medio,ativo,2026-05-04
+962,11,da Cruz,Tecnologia,37094.75,medio,ativo,2020-06-13
+963,12,Gonçalves da Costa - EI,Serviços,11983.65,medio,ativo,2024-12-31
+964,12,Vasconcelos,Atacado,62427.64,baixo,ativo,2022-06-28
+965,12,Garcia,Tecnologia,25657.25,medio,ativo,2020-12-23
+966,12,Nascimento,Atacado,32142.73,alto,ativo,2020-08-17
+967,12,das Neves,Indústria,43421.18,alto,ativo,2024-04-30
+968,12,Fonseca,Atacado,57004.55,baixo,ativo,2020-12-24
+969,12,Martins,Tecnologia,135414.63,baixo,ativo,2023-03-28
+970,12,Silveira - ME,Tecnologia,114640.09,baixo,ativo,2021-07-25
+971,12,Costela,Atacado,21491.14,medio,ativo,2023-10-05
+972,12,Dias,Tecnologia,144812.39,baixo,ativo,2023-01-24
+973,12,Aparecida,Serviços,92255.8,baixo,ativo,2022-03-27
+974,12,Sousa Casa Grande S/A,Indústria,69630.04,baixo,ativo,2023-05-29
+975,12,Novaes,Serviços,116181.28,baixo,ativo,2022-12-11
+976,12,da Rocha,Indústria,103272.18,baixo,ativo,2024-09-04
+977,12,Costa Farias S.A.,Indústria,137883.12,baixo,ativo,2025-07-12
+978,12,Nunes,Atacado,31147.96,alto,ativo,2024-11-21
+979,12,Monteiro Novaes e Filhos,Varejo,48083.26,medio,ativo,2024-03-08
+980,12,da Cunha,Varejo,94784.28,baixo,ativo,2021-08-21
+981,12,Silveira,Indústria,134181.24,baixo,ativo,2024-01-19
+982,12,Marques,Atacado,138573.6,baixo,ativo,2020-11-10
+983,12,Siqueira Vieira Ltda.,Serviços,119637.52,baixo,ativo,2026-02-05
+984,12,Carvalho Silveira - EI,Indústria,61107.36,baixo,ativo,2024-01-24
+985,12,Cirino,Atacado,95406.06,baixo,ativo,2023-02-26
+986,12,Moura S/A,Varejo,83036.87,baixo,ativo,2022-06-11
+987,12,Rios S/A,Atacado,48744.76,baixo,ativo,2025-11-23
+988,12,Jesus S.A.,Tecnologia,66181.19,medio,ativo,2025-03-01
+989,12,Azevedo Santos S.A.,Indústria,5782.07,alto,ativo,2023-06-30
+990,12,Cunha - EI,Atacado,45355.03,medio,ativo,2023-11-02
+991,12,Freitas,Serviços,59608.95,baixo,ativo,2021-08-06
+992,12,Pinto e Filhos,Tecnologia,26787.28,medio,ativo,2021-04-02
+993,12,Ribeiro,Varejo,120710.0,baixo,ativo,2020-05-14
+994,12,Almeida,Indústria,14741.22,medio,ativo,2020-06-26
+995,12,Nascimento - EI,Atacado,106786.24,baixo,ativo,2022-04-21
+996,12,Albuquerque,Serviços,46003.18,baixo,ativo,2023-02-10
+997,12,Moura e Filhos,Atacado,27528.55,alto,ativo,2022-09-17
+998,12,Nascimento,Atacado,28883.82,baixo,ativo,2022-06-07
+999,12,Almeida,Varejo,23741.88,medio,ativo,2021-02-08
+1000,12,Cavalcanti,Atacado,26362.2,alto,ativo,2022-01-28
+1001,12,Brito - EI,Tecnologia,144507.21,baixo,ativo,2024-10-03
+1002,12,da Costa Correia - EI,Varejo,49582.05,baixo,ativo,2025-03-23
+1003,12,Fogaça,Atacado,37668.61,baixo,ativo,2020-06-15
+1004,12,Vieira,Indústria,84182.66,baixo,ativo,2024-12-23
+1005,12,Barros,Varejo,72946.69,baixo,ativo,2025-05-02
+1006,12,Guerra,Varejo,35337.15,alto,ativo,2024-06-11
+1007,12,Nunes,Tecnologia,105611.27,baixo,ativo,2021-02-20
+1008,12,Sampaio Câmara Ltda.,Serviços,23497.86,medio,ativo,2023-10-19
+1009,12,Rezende e Filhos,Tecnologia,129723.84,baixo,ativo,2025-08-06
+1010,12,Borges - ME,Tecnologia,112754.19,baixo,ativo,2023-12-29
+1011,12,Garcia,Indústria,98411.51,baixo,ativo,2021-08-26
+1012,12,Araújo,Serviços,30055.19,medio,ativo,2020-05-01
+1013,12,Sampaio S.A.,Serviços,26870.81,baixo,ativo,2024-04-16
+1014,12,Monteiro - ME,Varejo,62504.27,baixo,ativo,2025-10-30
+1015,12,Nunes,Tecnologia,26154.54,medio,ativo,2025-08-29
+1016,12,Moura S/A,Varejo,64670.03,baixo,ativo,2024-10-28
+1017,12,Cunha Sales - EI,Tecnologia,46009.24,medio,ativo,2025-02-25
+1018,12,da Mata,Serviços,42992.99,baixo,ativo,2025-07-06
+1019,12,Barbosa e Filhos,Atacado,60619.76,baixo,ativo,2025-07-02
+1020,12,Nogueira,Serviços,55776.82,medio,ativo,2025-09-06
+1021,12,Cavalcanti Ltda.,Indústria,54240.83,baixo,ativo,2023-03-11
+1022,12,Costela - EI,Indústria,23659.11,baixo,ativo,2020-04-20
+1023,12,Sá Silva - ME,Indústria,40445.87,medio,ativo,2024-08-14
+1024,12,da Rosa S.A.,Atacado,105961.2,baixo,ativo,2020-12-13
+1025,12,Nunes Gomes e Filhos,Varejo,20191.74,alto,ativo,2026-01-14
+1026,12,Gomes,Tecnologia,79918.22,baixo,ativo,2022-12-28
+1027,12,Vieira Sales e Filhos,Atacado,81060.99,baixo,ativo,2024-05-17
+1028,12,Montenegro e Filhos,Serviços,32704.34,baixo,ativo,2023-10-08
+1029,12,Aragão,Indústria,125489.43,baixo,ativo,2024-01-28
+1030,12,Lopes S.A.,Varejo,48834.83,alto,ativo,2026-01-03
+1031,12,Fernandes - EI,Serviços,54470.16,baixo,ativo,2021-01-11
+1032,12,Vasconcelos,Atacado,57349.17,medio,ativo,2025-12-15
+1033,12,Alves,Indústria,47266.09,baixo,ativo,2025-08-29
+1034,12,Viana,Tecnologia,53195.81,medio,ativo,2022-10-26
+1035,12,Mendonça,Varejo,78919.72,baixo,ativo,2025-10-15
+1036,12,Fogaça Novaes - ME,Tecnologia,27036.22,medio,ativo,2023-01-02
+1037,12,Cirino,Tecnologia,39610.36,alto,ativo,2026-05-07
+1038,12,Barros,Serviços,26051.84,medio,ativo,2021-09-08
+1039,12,da Cruz,Varejo,77529.76,medio,ativo,2022-04-13
+1040,12,Barros Ltda.,Atacado,32963.57,medio,ativo,2022-08-25
+1041,12,Garcia Silva e Filhos,Indústria,34762.61,baixo,ativo,2025-03-16
+1042,12,Sousa Gomes Ltda.,Serviços,148868.1,baixo,ativo,2021-10-14
+1043,12,Caldeira,Atacado,23788.44,baixo,ativo,2021-12-21
+1044,12,Abreu Ltda.,Varejo,67797.92,medio,ativo,2020-12-09
+1045,12,Fonseca,Indústria,58737.29,baixo,ativo,2021-01-04
+1046,12,Caldeira,Atacado,129175.36,baixo,ativo,2025-08-11
+1047,12,Borges Cirino - ME,Atacado,47735.35,alto,ativo,2022-10-28
+1048,12,Novais,Indústria,31732.34,baixo,ativo,2023-09-10
+1049,12,Caldeira,Tecnologia,74467.33,medio,ativo,2022-06-11
+1050,12,Borges Ltda.,Indústria,42770.05,baixo,ativo,2020-08-17
+1051,12,Peixoto - EI,Tecnologia,68711.65,baixo,ativo,2025-04-29
+1052,12,Gomes,Indústria,80354.68,medio,ativo,2025-04-30
+1053,12,da Rocha - ME,Atacado,11685.94,medio,ativo,2020-05-22
+1054,12,Vasconcelos,Serviços,85267.86,medio,ativo,2022-11-02
+1055,12,Silveira - EI,Varejo,60204.91,baixo,ativo,2025-12-30
+1056,12,Oliveira Moreira S.A.,Tecnologia,41077.68,medio,ativo,2022-11-12
+1057,12,Cavalcante,Serviços,141721.91,baixo,ativo,2024-12-02
+1058,12,da Mata da Rosa Ltda.,Varejo,134330.74,baixo,ativo,2023-01-27
+1059,12,Casa Grande,Tecnologia,85239.63,medio,ativo,2023-09-24
+1060,13,Cavalcante - ME,Atacado,75952.07,medio,ativo,2020-09-28
+1061,13,Leão,Tecnologia,98275.07,baixo,ativo,2020-04-22
+1062,13,Mendes,Serviços,24699.17,medio,ativo,2020-01-13
+1063,13,Fonseca Ltda.,Serviços,101678.52,baixo,ativo,2022-10-19
+1064,13,Silveira Pires - ME,Atacado,146056.4,baixo,ativo,2024-08-07
+1065,13,Marques Caldeira S.A.,Indústria,48269.24,medio,ativo,2021-12-11
+1066,13,Abreu,Tecnologia,73962.29,medio,ativo,2024-02-14
+1067,13,Farias,Serviços,133930.7,baixo,ativo,2020-03-25
+1068,13,Farias,Varejo,33198.23,alto,ativo,2025-03-09
+1069,13,Farias,Tecnologia,111163.95,baixo,ativo,2022-12-01
+1070,13,Rezende,Varejo,144544.27,baixo,ativo,2025-11-23
+1071,13,da Rosa Duarte - EI,Varejo,139598.58,baixo,ativo,2022-07-08
+1072,13,Mendes Dias S.A.,Indústria,78954.94,medio,ativo,2025-07-17
+1073,13,Dias,Indústria,76070.12,baixo,ativo,2022-02-14
+1074,13,Sousa,Indústria,73108.13,baixo,ativo,2022-08-22
+1075,13,Oliveira,Tecnologia,137952.67,baixo,ativo,2020-12-17
+1076,13,Duarte Garcia Ltda.,Serviços,37316.64,baixo,ativo,2024-04-19
+1077,13,Fonseca,Varejo,30498.05,medio,ativo,2020-08-01
+1078,13,Nunes S.A.,Atacado,50529.39,baixo,ativo,2020-07-05
+1079,13,Rodrigues Vargas - EI,Indústria,85590.46,baixo,ativo,2021-06-25
+1080,13,Siqueira - ME,Atacado,16713.12,alto,ativo,2025-07-11
+1081,13,Macedo da Rocha e Filhos,Atacado,19279.28,alto,ativo,2024-11-08
+1082,13,Vieira - ME,Indústria,35189.47,baixo,ativo,2024-01-16
+1083,13,Carvalho,Indústria,32581.92,alto,ativo,2025-10-18
+1084,13,da Costa,Serviços,136047.34,baixo,ativo,2026-03-26
+1085,13,Ribeiro,Serviços,73857.61,medio,ativo,2020-08-11
+1086,13,Silva Lima - ME,Tecnologia,24662.09,baixo,ativo,2021-04-20
+1087,13,Machado - EI,Atacado,21043.41,alto,ativo,2025-06-10
+1088,13,Pacheco,Indústria,34623.81,baixo,ativo,2021-01-18
+1089,13,Nascimento,Indústria,56935.14,baixo,ativo,2026-04-26
+1090,13,Nogueira,Atacado,56683.79,medio,ativo,2026-05-26
+1091,13,Vieira Ltda.,Varejo,139653.72,baixo,ativo,2023-09-08
+1092,13,Caldeira S.A.,Atacado,108570.6,baixo,ativo,2021-03-10
+1093,13,Cavalcante,Tecnologia,16485.06,medio,ativo,2025-02-02
+1094,13,Nunes e Filhos,Varejo,55011.4,baixo,ativo,2025-01-29
+1095,13,Sá,Atacado,115100.88,baixo,ativo,2021-06-13
+1096,13,Vieira,Varejo,26328.69,baixo,ativo,2020-10-16
+1097,13,Caldeira,Serviços,98297.9,baixo,ativo,2024-06-21
+1098,13,Brito Ltda.,Indústria,130804.96,baixo,ativo,2021-09-23
+1099,13,Moraes Souza - EI,Indústria,83809.86,baixo,ativo,2021-06-21
+1100,13,Machado Freitas - ME,Tecnologia,32494.49,baixo,ativo,2024-05-08
+1101,13,Vargas,Indústria,93197.42,baixo,ativo,2022-02-02
+1102,13,Ferreira Alves - ME,Tecnologia,75382.22,baixo,ativo,2022-07-07
+1103,13,da Rocha - ME,Atacado,84453.41,medio,ativo,2020-12-09
+1104,13,Camargo e Filhos,Serviços,76856.22,baixo,ativo,2021-06-07
+1105,13,Ferreira das Neves Ltda.,Atacado,29892.28,medio,ativo,2020-07-14
+1106,13,Viana,Tecnologia,139249.26,baixo,ativo,2021-01-22
+1107,13,Moreira Mendes Ltda.,Atacado,113640.3,baixo,ativo,2020-11-30
+1108,13,Brito,Serviços,69241.29,medio,ativo,2024-05-28
+1109,13,Silveira,Tecnologia,74112.7,baixo,ativo,2025-01-16
+1110,13,Dias,Serviços,54459.67,baixo,ativo,2022-05-14
+1111,13,da Rosa S/A,Varejo,117113.81,baixo,ativo,2024-11-11
+1112,13,Almeida Ltda.,Tecnologia,20760.12,baixo,ativo,2025-02-27
+1113,13,Rocha S.A.,Tecnologia,87264.3,medio,ativo,2023-05-25
+1114,13,Moreira Cavalcanti - EI,Tecnologia,146609.85,baixo,ativo,2023-05-24
+1115,13,Farias Novais - ME,Serviços,37564.81,baixo,ativo,2020-04-19
+1116,13,da Conceição,Atacado,104321.02,baixo,ativo,2022-02-20
+1117,13,Pires,Varejo,120063.75,baixo,ativo,2021-11-11
+1118,13,Cirino Porto e Filhos,Varejo,26827.11,alto,ativo,2025-01-15
+1119,13,Gonçalves,Varejo,46173.99,baixo,ativo,2023-09-29
+1120,13,Sousa - EI,Tecnologia,101953.28,baixo,ativo,2026-03-20
+1121,13,Machado Pastor - ME,Atacado,28101.01,alto,ativo,2025-06-21
+1122,13,Abreu,Atacado,27891.61,baixo,ativo,2020-09-17
+1123,13,Costela da Mota e Filhos,Atacado,104279.04,baixo,ativo,2023-11-21
+1124,13,Oliveira S/A,Tecnologia,76709.9,baixo,ativo,2023-11-09
+1125,13,Fonseca Duarte S.A.,Atacado,85992.67,baixo,ativo,2025-04-02
+1126,13,Camargo,Indústria,58141.23,baixo,ativo,2025-04-18
+1127,13,Rios,Varejo,59747.39,medio,ativo,2025-05-31
+1128,13,Moura,Tecnologia,45932.95,baixo,ativo,2025-07-15
+1129,13,Peixoto,Indústria,47226.28,baixo,ativo,2024-01-02
+1130,13,Pimenta,Varejo,78756.93,medio,ativo,2023-10-15
+1131,13,Pastor,Indústria,100283.18,baixo,ativo,2023-10-25
+1132,13,Ferreira Ltda.,Serviços,71607.59,medio,ativo,2025-10-12
+1133,13,Pinto,Tecnologia,33538.46,baixo,ativo,2021-03-30
+1134,13,Rocha Santos Ltda.,Varejo,43627.43,alto,ativo,2026-04-22
+1135,13,Rocha S.A.,Indústria,33703.44,baixo,ativo,2021-10-05
+1136,13,Campos,Varejo,70957.18,medio,ativo,2021-09-23
+1137,13,das Neves Camargo S.A.,Tecnologia,21021.8,medio,ativo,2024-08-29
+1138,13,Sales,Indústria,76785.07,medio,ativo,2025-08-30
+1139,13,Moraes Gomes - ME,Serviços,54582.03,baixo,ativo,2021-09-12
+1140,13,Oliveira Gomes - ME,Tecnologia,72977.26,medio,ativo,2024-08-20
+1141,13,Mendonça Porto - EI,Indústria,28226.99,alto,ativo,2020-05-01
+1142,13,Novais Cavalcante - ME,Varejo,120119.74,baixo,ativo,2020-12-13
+1143,13,Carvalho,Tecnologia,72214.61,baixo,ativo,2020-05-31
+1144,13,Dias Machado - EI,Atacado,82200.89,medio,ativo,2023-04-26
+1145,13,Fogaça S/A,Indústria,135151.77,baixo,ativo,2023-11-10
+1146,13,Carvalho,Tecnologia,56371.5,baixo,ativo,2025-01-01
+1147,13,Gomes Novais - EI,Tecnologia,59948.77,medio,ativo,2023-11-15
+1148,13,Jesus,Indústria,42360.46,medio,ativo,2020-12-11
+1149,13,Leão,Serviços,63484.08,baixo,ativo,2025-11-01
+1150,13,Mendonça,Atacado,29830.36,alto,ativo,2023-10-27
+1151,13,Barros Nunes S/A,Atacado,12231.3,medio,ativo,2022-11-25
+1152,13,da Rocha Andrade Ltda.,Varejo,120640.51,baixo,ativo,2020-09-02
+1153,13,Nascimento da Paz S.A.,Varejo,50599.95,medio,ativo,2025-01-12
+1154,14,Nunes,Atacado,20677.74,baixo,ativo,2026-05-05
+1155,14,Novaes,Serviços,63241.64,medio,ativo,2023-12-05
+1156,14,Oliveira S/A,Serviços,106699.91,baixo,ativo,2024-03-26
+1157,14,Vasconcelos,Indústria,52192.33,baixo,ativo,2025-02-03
+1158,14,Nogueira,Varejo,112513.25,baixo,ativo,2024-10-06
+1159,14,Teixeira e Filhos,Atacado,45693.13,medio,ativo,2024-07-07
+1160,14,Nogueira,Tecnologia,87462.85,baixo,ativo,2024-09-30
+1161,14,Lima Caldeira e Filhos,Tecnologia,37927.26,alto,ativo,2021-10-29
+1162,14,da Rosa Andrade - ME,Atacado,36526.12,baixo,ativo,2025-12-07
+1163,14,Ferreira,Atacado,47643.53,baixo,ativo,2024-02-21
+1164,14,Macedo S/A,Indústria,9965.13,alto,ativo,2026-05-30
+1165,14,Costela Sousa - EI,Indústria,87961.07,baixo,ativo,2023-05-27
+1166,14,Santos,Tecnologia,23637.11,baixo,ativo,2020-07-18
+1167,14,Cavalcante,Tecnologia,13238.47,alto,ativo,2020-01-09
+1168,14,Viana Costela S.A.,Atacado,65324.36,baixo,ativo,2023-06-22
+1169,14,Nunes Ltda.,Atacado,137037.35,baixo,ativo,2021-06-27
+1170,14,Peixoto,Tecnologia,46874.89,medio,ativo,2021-09-02
+1171,14,Duarte Santos Ltda.,Tecnologia,73984.93,medio,ativo,2024-05-05
+1172,14,Oliveira,Tecnologia,71401.63,baixo,ativo,2023-02-10
+1173,14,Moraes,Indústria,66576.69,medio,ativo,2026-04-17
+1174,14,Carvalho - ME,Atacado,16812.16,medio,ativo,2020-08-04
+1175,14,da Mota e Filhos,Varejo,27618.75,alto,ativo,2021-05-07
+1176,14,Sampaio Cardoso S.A.,Serviços,86990.14,medio,ativo,2022-10-01
+1177,14,Silva Duarte S.A.,Atacado,56364.22,medio,ativo,2023-08-05
+1178,14,Mendonça,Tecnologia,25847.87,baixo,ativo,2022-01-09
+1179,14,Oliveira Pires Ltda.,Varejo,131754.29,baixo,ativo,2021-02-10
+1180,14,Garcia,Serviços,57095.72,baixo,ativo,2023-06-10
+1181,14,Barbosa,Serviços,48250.55,alto,ativo,2020-04-21
+1182,14,Guerra - EI,Indústria,17899.54,medio,ativo,2022-11-22
+1183,14,Sales,Atacado,127606.38,baixo,ativo,2022-08-26
+1184,14,Marques,Varejo,117810.7,baixo,ativo,2023-07-27
+1185,14,Duarte,Serviços,72919.94,baixo,ativo,2020-03-17
+1186,14,Vasconcelos e Filhos,Atacado,145251.71,baixo,ativo,2021-05-29
+1187,14,Siqueira - ME,Serviços,72876.97,baixo,ativo,2021-08-06
+1188,14,Azevedo,Tecnologia,148090.13,baixo,ativo,2026-03-23
+1189,14,Cunha,Indústria,20130.14,baixo,ativo,2021-11-16
+1190,14,Cunha,Tecnologia,141355.89,baixo,ativo,2023-12-10
+1191,14,da Mata,Serviços,77254.74,medio,ativo,2025-12-27
+1192,14,da Paz,Serviços,59082.99,baixo,ativo,2026-03-29
+1193,15,Novaes,Indústria,50385.62,medio,ativo,2022-12-06
+1194,15,Nunes Mendonça Ltda.,Indústria,34802.47,alto,ativo,2023-10-31
+1195,15,Aparecida S/A,Serviços,144669.05,baixo,ativo,2020-01-09
+1196,15,Almeida,Atacado,20556.3,baixo,ativo,2025-06-25
+1197,15,Castro - ME,Varejo,72984.42,medio,ativo,2026-01-15
+1198,15,Abreu,Indústria,128170.9,baixo,ativo,2024-03-21
+1199,15,Costa,Varejo,24174.93,medio,ativo,2021-05-26
+1200,15,Rezende da Rosa S.A.,Varejo,141712.22,baixo,ativo,2023-02-25
+1201,15,Borges,Indústria,25320.93,medio,ativo,2022-06-24
+1202,15,da Cunha,Atacado,84195.13,baixo,ativo,2022-05-06
+1203,15,Freitas e Filhos,Indústria,147954.26,baixo,ativo,2026-05-20
+1204,15,Aragão Gonçalves e Filhos,Atacado,42162.02,baixo,ativo,2026-05-03
+1205,15,Silveira,Atacado,96461.4,baixo,ativo,2022-07-22
+1206,15,Lima Rezende S/A,Varejo,31946.24,medio,ativo,2025-12-22
+1207,15,Abreu S.A.,Tecnologia,108488.45,baixo,ativo,2020-07-31
+1208,15,Barbosa,Varejo,77547.32,medio,ativo,2025-10-23
+1209,15,Pastor Câmara - EI,Serviços,66991.34,baixo,ativo,2020-07-11
+1210,15,Albuquerque,Serviços,74608.07,baixo,ativo,2023-10-02
+1211,15,Sampaio Ltda.,Tecnologia,94336.55,baixo,ativo,2020-10-31
+1212,15,Lima e Filhos,Varejo,7827.99,alto,ativo,2020-04-24
+1213,15,Mendes Barbosa S.A.,Indústria,125047.68,baixo,ativo,2022-10-22
+1214,15,Borges,Indústria,81564.95,baixo,ativo,2025-10-29
+1215,15,Caldeira Ltda.,Varejo,72059.96,medio,ativo,2025-01-02
+1216,15,da Rosa,Indústria,31119.51,baixo,ativo,2020-09-23
+1217,15,Garcia Vasconcelos S.A.,Atacado,74190.97,medio,ativo,2024-11-03
+1218,15,Azevedo Moura - EI,Tecnologia,108083.38,baixo,ativo,2024-07-03
+1219,15,Pimenta e Filhos,Atacado,117755.24,baixo,ativo,2020-02-13
+1220,15,Macedo Ferreira e Filhos,Varejo,80347.18,baixo,ativo,2023-10-23
+1221,15,Pires Souza S.A.,Atacado,12077.77,medio,ativo,2022-02-27
+1222,15,Pimenta,Serviços,21597.52,baixo,ativo,2026-06-05
+1223,15,Cunha,Atacado,86156.74,baixo,ativo,2024-12-26
+1224,15,Brito S.A.,Atacado,37897.45,baixo,ativo,2024-11-20
+1225,15,Pastor e Filhos,Atacado,104721.65,baixo,ativo,2021-08-19
+1226,15,Ferreira,Varejo,60127.67,baixo,ativo,2025-10-21
+1227,15,Dias,Atacado,108179.05,baixo,ativo,2020-08-11
+1228,15,da Cruz da Mota e Filhos,Varejo,45402.93,baixo,ativo,2023-10-30
+1229,15,da Cruz - EI,Indústria,81844.26,baixo,ativo,2026-05-07
+1230,15,Vasconcelos,Tecnologia,12302.6,alto,ativo,2020-06-21
+1231,15,Ribeiro Ltda.,Tecnologia,139593.97,baixo,ativo,2022-05-23
+1232,15,Moreira Pereira - EI,Tecnologia,115496.2,baixo,ativo,2022-04-20
+1233,15,Souza Gonçalves Ltda.,Indústria,127390.96,baixo,ativo,2020-05-02
+1234,15,Viana S.A.,Indústria,38512.26,baixo,ativo,2020-06-28
+1235,15,Gomes,Indústria,14852.53,alto,ativo,2021-12-14
+1236,15,da Costa - ME,Indústria,92085.64,baixo,ativo,2021-02-18
+1237,15,Moura S/A,Varejo,108068.81,baixo,ativo,2023-10-18
+1238,15,Dias,Serviços,41426.95,alto,ativo,2025-11-28
+1239,15,Gomes Nunes - ME,Varejo,44527.45,alto,ativo,2021-04-30
+1240,15,Nogueira,Tecnologia,140140.21,baixo,ativo,2024-03-12
+1241,15,Teixeira Melo S/A,Atacado,75840.22,baixo,ativo,2022-02-13
+1242,15,Pastor S/A,Indústria,21885.35,medio,ativo,2021-06-01
+1243,15,da Luz S.A.,Varejo,80866.74,medio,ativo,2025-04-11
+1244,15,Araújo - ME,Atacado,23394.68,medio,ativo,2024-03-12
+1245,15,Pires,Tecnologia,80354.75,baixo,ativo,2025-07-19
+1246,15,Lima,Varejo,95554.27,baixo,ativo,2022-04-28
+1247,15,Barros,Indústria,46390.06,baixo,ativo,2024-10-06
+1248,15,da Mota Barros Ltda.,Atacado,84839.91,medio,ativo,2020-12-13
+1249,15,Moraes S.A.,Atacado,30923.66,baixo,ativo,2020-06-17
+1250,15,Nascimento Duarte - ME,Tecnologia,100746.36,baixo,ativo,2024-02-14
+1251,15,das Neves e Filhos,Serviços,40589.67,medio,ativo,2022-12-23
+1252,15,Siqueira,Atacado,16593.48,medio,ativo,2026-02-17
+1253,15,Araújo da Cruz S/A,Varejo,84128.47,medio,ativo,2024-01-15
+1254,15,Camargo,Indústria,46039.86,baixo,ativo,2023-01-29
+1255,15,Pimenta,Atacado,98524.43,baixo,ativo,2022-12-05
+1256,15,das Neves e Filhos,Tecnologia,58931.64,baixo,ativo,2024-07-19
+1257,15,Campos Albuquerque e Filhos,Serviços,10951.26,medio,ativo,2024-06-16
+1258,15,Sampaio Albuquerque S.A.,Atacado,114033.67,baixo,ativo,2026-03-13
+1259,15,Ferreira,Indústria,46912.09,medio,ativo,2022-02-08
+1260,15,Cavalcante,Atacado,142450.87,baixo,ativo,2020-05-03
+1261,15,Cardoso,Varejo,95076.1,baixo,ativo,2025-08-09
+1262,15,Siqueira,Tecnologia,37185.78,medio,ativo,2026-01-11
+1263,15,Vargas S/A,Serviços,96304.16,baixo,ativo,2021-09-21
+1264,15,Lima,Atacado,40961.56,alto,ativo,2026-06-08
+1265,15,Moura,Atacado,26336.37,medio,ativo,2024-05-01
+1266,15,da Luz e Filhos,Indústria,34122.99,baixo,ativo,2021-01-16
+1267,15,Monteiro - ME,Atacado,107735.12,baixo,ativo,2025-06-24
+1268,15,Araújo,Serviços,45869.84,baixo,ativo,2022-08-12
+1269,15,Nunes,Varejo,88171.44,baixo,ativo,2021-12-04
+1270,15,Freitas Castro Ltda.,Serviços,138275.62,baixo,ativo,2026-01-06
+1271,15,Oliveira e Filhos,Serviços,116608.56,baixo,ativo,2021-06-16
+1272,15,da Conceição e Filhos,Serviços,75431.69,medio,ativo,2026-06-13
+1273,15,Aparecida S/A,Indústria,35817.62,alto,ativo,2022-04-06
+1274,15,Aparecida Melo Ltda.,Serviços,38549.96,baixo,ativo,2025-11-23
+1275,15,Cassiano,Varejo,93999.78,baixo,ativo,2021-01-08
+1276,15,Andrade Novaes e Filhos,Indústria,134529.23,baixo,ativo,2024-05-20
+1277,15,Câmara,Atacado,125298.02,baixo,ativo,2024-11-04
+1278,15,da Cruz,Tecnologia,138408.3,baixo,ativo,2020-06-27
+1279,15,Silveira,Indústria,133170.15,baixo,ativo,2020-09-30
+1280,15,da Mata,Atacado,27380.39,medio,ativo,2021-05-11
+1281,15,Oliveira Ltda.,Indústria,39494.26,alto,ativo,2024-08-06
+1282,15,Montenegro e Filhos,Varejo,52859.66,baixo,ativo,2025-03-06
+1283,15,Cavalcanti S.A.,Varejo,116974.47,baixo,ativo,2022-10-23
+1284,15,Guerra S/A,Tecnologia,139227.81,baixo,ativo,2025-03-04
+1285,15,da Paz,Serviços,91295.71,baixo,ativo,2025-04-12
+1286,15,Duarte,Varejo,23647.13,medio,ativo,2021-12-26
+1287,15,Novaes - ME,Varejo,89505.0,baixo,ativo,2023-01-24
+1288,15,Freitas S.A.,Atacado,66551.31,baixo,ativo,2022-06-04
+1289,15,Nunes,Varejo,26208.28,baixo,ativo,2024-05-18
+1290,15,Sousa,Tecnologia,57856.43,medio,ativo,2022-04-06
+1291,15,Martins Freitas - EI,Tecnologia,9112.39,alto,ativo,2020-04-24
+1292,15,Vargas,Serviços,35102.73,alto,ativo,2021-01-30
+1293,15,Siqueira Nogueira S.A.,Tecnologia,23430.63,medio,ativo,2025-09-30
+1294,15,Abreu Jesus S/A,Serviços,62528.39,baixo,ativo,2026-01-27
+1295,15,Nogueira Ferreira e Filhos,Indústria,75624.44,baixo,ativo,2021-12-12
+1296,15,Farias S/A,Serviços,105019.06,baixo,ativo,2020-09-27
+1297,15,Sousa,Serviços,59912.75,medio,ativo,2024-08-10
+1298,15,Caldeira,Atacado,97852.98,baixo,ativo,2026-05-20
+1299,15,Moura da Costa - ME,Tecnologia,144674.51,baixo,ativo,2021-06-28
+1300,15,Araújo,Tecnologia,102595.95,baixo,ativo,2020-10-03
+1301,15,Silva da Mota S/A,Serviços,99109.33,baixo,ativo,2025-08-24
+1302,15,da Conceição - EI,Varejo,148489.51,baixo,ativo,2023-06-19
+1303,15,Sampaio,Serviços,75704.72,baixo,ativo,2024-03-14
+1304,15,Marques,Serviços,46261.53,baixo,ativo,2024-12-22
+1305,15,Pacheco S/A,Varejo,32250.12,medio,ativo,2025-11-03
+1306,15,Porto Gonçalves S/A,Serviços,75016.84,medio,ativo,2023-09-18
+1307,15,Lopes e Filhos,Serviços,46756.27,baixo,ativo,2022-06-30
+1308,16,da Costa da Rocha Ltda.,Varejo,24683.64,medio,ativo,2025-07-06
+1309,16,Gonçalves,Serviços,45020.51,baixo,ativo,2021-05-29
+1310,16,Dias,Serviços,97041.98,baixo,ativo,2025-09-09
+1311,16,da Mata,Serviços,114248.58,baixo,ativo,2024-10-02
+1312,16,Barbosa Costa S.A.,Serviços,52366.03,baixo,ativo,2023-01-18
+1313,16,Cassiano S/A,Tecnologia,86081.06,medio,ativo,2021-11-18
+1314,16,Machado Martins Ltda.,Serviços,74950.64,baixo,ativo,2025-05-28
+1315,16,Campos,Indústria,69584.51,baixo,ativo,2026-01-09
+1316,16,Vargas,Tecnologia,114464.27,baixo,ativo,2023-03-06
+1317,16,Machado das Neves - ME,Tecnologia,98783.3,baixo,ativo,2022-03-12
+1318,16,Campos,Indústria,44651.36,baixo,ativo,2025-07-05
+1319,16,Castro e Filhos,Tecnologia,74056.62,baixo,ativo,2025-06-28
+1320,16,Santos,Varejo,148377.87,baixo,ativo,2024-04-25
+1321,16,Cunha Ltda.,Indústria,48069.36,alto,ativo,2025-09-18
+1322,16,Borges Silva S.A.,Tecnologia,39454.44,medio,ativo,2024-10-02
+1323,16,Gonçalves,Varejo,12760.61,medio,ativo,2021-08-28
+1324,16,Rocha Ltda.,Atacado,79211.2,baixo,ativo,2021-10-23
+1325,16,Cavalcanti,Tecnologia,120226.38,baixo,ativo,2020-11-25
+1326,16,Guerra - ME,Indústria,44547.02,baixo,ativo,2023-05-22
+1327,16,Brito Martins S/A,Tecnologia,89316.17,baixo,ativo,2020-12-30
+1328,16,Campos Albuquerque S/A,Indústria,94439.52,baixo,ativo,2022-05-08
+1329,16,Cardoso Costa - ME,Tecnologia,49416.15,alto,ativo,2020-01-07
+1330,16,Rodrigues,Indústria,120586.67,baixo,ativo,2024-10-31
+1331,16,Pacheco - EI,Serviços,68704.68,baixo,ativo,2025-08-20
+1332,16,Barbosa,Varejo,13353.71,alto,ativo,2022-01-18
+1333,16,Azevedo S.A.,Tecnologia,88635.77,medio,ativo,2021-03-23
+1334,16,Cardoso,Indústria,33450.05,medio,ativo,2020-09-20
+1335,16,Farias S/A,Varejo,96134.03,baixo,ativo,2020-02-08
+1336,16,Martins S/A,Varejo,117733.83,baixo,ativo,2021-01-31
+1337,16,Oliveira Lopes e Filhos,Indústria,122932.25,baixo,ativo,2025-06-13
+1338,16,Monteiro,Indústria,63813.9,baixo,ativo,2023-07-15
+1339,16,Garcia e Filhos,Varejo,63206.26,medio,ativo,2023-12-29
+1340,16,Cavalcanti,Tecnologia,10246.77,medio,ativo,2021-07-22
+1341,16,Cunha,Serviços,35976.29,baixo,ativo,2024-02-18
+1342,16,da Mota da Mota - ME,Serviços,109204.04,baixo,ativo,2020-01-13
+1343,16,Andrade Pimenta - EI,Indústria,5748.36,alto,ativo,2020-07-06
+1344,16,Ramos da Rocha - ME,Tecnologia,15510.14,alto,ativo,2024-06-27
+1345,16,Novaes,Tecnologia,37866.72,medio,ativo,2021-02-15
+1346,16,Araújo,Atacado,25606.16,medio,ativo,2026-05-31
+1347,16,da Mota - ME,Varejo,12539.66,medio,ativo,2023-05-19
+1348,16,Leão Costa e Filhos,Tecnologia,88977.57,medio,ativo,2021-04-18
+1349,16,Pires Nogueira S/A,Varejo,90286.83,baixo,ativo,2021-03-08
+1350,16,Viana,Tecnologia,113049.47,baixo,ativo,2023-02-22
+1351,16,Mendes,Varejo,53491.71,baixo,ativo,2021-07-10
+1352,16,Ferreira,Indústria,40799.32,alto,ativo,2022-07-05
+1353,16,Gomes,Tecnologia,33979.39,alto,ativo,2024-04-12
+1354,16,Cirino,Serviços,87299.84,medio,ativo,2022-07-04
+1355,16,Dias - EI,Atacado,57826.95,baixo,ativo,2022-02-09
+1356,16,Alves Vasconcelos Ltda.,Tecnologia,39418.96,medio,ativo,2020-01-07
+1357,16,Melo - EI,Tecnologia,96707.77,baixo,ativo,2023-08-02
+1358,16,Vargas,Atacado,84714.01,medio,ativo,2022-06-28
+1359,16,Castro Brito S.A.,Indústria,21194.51,baixo,ativo,2022-06-15
+1360,16,da Mata Nascimento e Filhos,Varejo,79251.99,baixo,ativo,2023-08-04
+1361,16,Teixeira S.A.,Atacado,148743.56,baixo,ativo,2025-05-13
+1362,16,Fogaça,Varejo,48041.66,baixo,ativo,2023-09-26
+1363,16,Cavalcanti da Costa - EI,Serviços,113179.62,baixo,ativo,2020-08-03
+1364,16,Sousa,Indústria,37732.8,alto,ativo,2021-10-14
+1365,16,Pastor,Indústria,35505.44,alto,ativo,2024-05-22
+1366,16,Santos e Filhos,Serviços,88619.78,baixo,ativo,2026-02-22
+1367,16,Nunes,Varejo,37017.09,baixo,ativo,2023-05-30
+1368,16,Nunes Correia - ME,Indústria,41280.28,baixo,ativo,2021-08-16
+1369,16,Cavalcanti,Indústria,124566.6,baixo,ativo,2026-06-15
+1370,16,Andrade,Tecnologia,122114.9,baixo,ativo,2021-11-20
+1371,17,Araújo S.A.,Atacado,146640.64,baixo,ativo,2023-10-18
+1372,17,Almeida Moura - ME,Varejo,146064.51,baixo,ativo,2021-05-01
+1373,17,Farias - EI,Tecnologia,83521.37,baixo,ativo,2021-01-02
+1374,17,Cardoso Fernandes e Filhos,Tecnologia,62024.87,medio,ativo,2024-02-13
+1375,17,Duarte Araújo S/A,Atacado,35161.59,baixo,ativo,2022-07-10
+1376,17,Pastor Santos S.A.,Varejo,94487.65,baixo,ativo,2022-01-11
+1377,17,Moura Ltda.,Serviços,149994.04,baixo,ativo,2021-02-11
+1378,17,Freitas e Filhos,Tecnologia,112789.86,baixo,ativo,2020-03-21
+1379,17,Pastor,Varejo,126270.17,baixo,ativo,2025-10-26
+1380,17,Fernandes Ltda.,Serviços,75506.21,medio,ativo,2021-04-25
+1381,17,Carvalho,Indústria,97883.34,baixo,ativo,2021-05-18
+1382,17,Siqueira Lopes e Filhos,Indústria,94760.53,baixo,ativo,2020-05-23
+1383,17,Rezende,Serviços,36213.23,baixo,ativo,2024-09-28
+1384,17,Cavalcanti,Atacado,7077.48,alto,ativo,2023-04-16
+1385,17,Câmara,Atacado,56165.72,medio,ativo,2023-12-13
+1386,17,Garcia das Neves e Filhos,Varejo,86376.75,baixo,ativo,2022-08-29
+1387,17,Cardoso,Serviços,38416.75,baixo,ativo,2026-03-11
+1388,17,Siqueira Abreu e Filhos,Varejo,66678.47,baixo,ativo,2026-03-02
+1389,17,Vargas,Varejo,69631.7,baixo,ativo,2022-11-07
+1390,17,Cirino - EI,Indústria,21459.52,medio,ativo,2022-02-28
+1391,17,Pimenta,Serviços,61821.69,medio,ativo,2024-09-15
+1392,17,Porto Nunes S/A,Atacado,73022.73,medio,ativo,2022-10-10
+1393,17,Casa Grande,Varejo,36200.76,baixo,ativo,2023-09-11
+1394,17,Souza,Serviços,36681.39,medio,ativo,2023-01-25
+1395,17,da Costa Ltda.,Varejo,69030.28,baixo,ativo,2021-05-20
+1396,17,Cavalcante,Tecnologia,114682.56,baixo,ativo,2021-01-26
+1397,17,Santos e Filhos,Atacado,111059.22,baixo,ativo,2021-02-09
+1398,17,Machado,Indústria,85720.82,medio,ativo,2025-12-17
+1399,17,da Luz S.A.,Indústria,134662.75,baixo,ativo,2020-02-08
+1400,17,Sales Azevedo Ltda.,Atacado,62605.03,medio,ativo,2022-12-31
+1401,17,Viana,Serviços,114304.51,baixo,ativo,2024-09-09
+1402,17,Silveira S/A,Atacado,88899.7,medio,ativo,2023-03-20
+1403,17,Gomes - ME,Serviços,75609.46,baixo,ativo,2023-06-04
+1404,17,Cavalcante,Varejo,31302.5,baixo,ativo,2020-11-21
+1405,17,Monteiro,Varejo,51204.78,baixo,ativo,2023-03-16
+1406,17,Ferreira,Tecnologia,84070.57,baixo,ativo,2025-09-14
+1407,17,Brito,Atacado,35830.48,alto,ativo,2021-05-25
+1408,17,Viana,Tecnologia,100117.26,baixo,ativo,2025-12-28
+1409,17,Castro Machado S/A,Atacado,69118.65,medio,ativo,2020-06-22
+1410,17,da Rocha S/A,Atacado,145404.16,baixo,ativo,2022-07-10
+1411,17,da Luz,Varejo,67716.62,baixo,ativo,2024-09-27
+1412,17,Barbosa Ltda.,Serviços,42162.92,baixo,ativo,2026-01-17
+1413,17,Garcia Castro e Filhos,Indústria,33205.18,medio,ativo,2022-05-22
+1414,17,Novaes S/A,Atacado,102052.94,baixo,ativo,2020-05-25
+1415,17,Peixoto,Varejo,7587.35,alto,ativo,2025-02-28
+1416,17,Santos,Serviços,66006.06,baixo,ativo,2024-07-04
+1417,17,Lopes e Filhos,Atacado,33173.91,baixo,ativo,2021-09-21
+1418,17,Pereira Lopes S.A.,Indústria,138704.18,baixo,ativo,2022-07-15
+1419,17,Brito Ltda.,Atacado,68660.23,baixo,ativo,2023-01-08
+1420,17,Correia Jesus e Filhos,Indústria,77014.37,baixo,ativo,2024-11-12
+1421,17,Ribeiro,Indústria,134864.91,baixo,ativo,2020-06-13
+1422,17,da Rosa,Serviços,74737.25,baixo,ativo,2025-05-17
+1423,17,Brito Aragão - ME,Tecnologia,27008.05,alto,ativo,2021-06-05
+1424,17,Cassiano,Tecnologia,119371.05,baixo,ativo,2021-06-22
+1425,17,Fonseca S/A,Atacado,34024.35,baixo,ativo,2020-02-25
+1426,17,Borges,Atacado,64264.83,medio,ativo,2020-02-02
+1427,17,Ribeiro,Serviços,57630.66,baixo,ativo,2021-09-16
+1428,17,Costa,Indústria,32491.11,medio,ativo,2022-10-10
+1429,17,Alves S.A.,Varejo,47911.43,medio,ativo,2025-08-19
+1430,17,Porto da Rocha S/A,Serviços,44526.97,baixo,ativo,2022-07-28
+1431,17,Camargo,Serviços,72166.81,baixo,ativo,2024-10-12
+1432,17,Viana,Atacado,45953.65,baixo,ativo,2023-06-09
+1433,17,Melo,Varejo,27742.02,medio,ativo,2025-09-19
+1434,17,Ribeiro,Indústria,26715.21,baixo,ativo,2024-09-08
+1435,17,Borges,Indústria,136363.81,baixo,ativo,2022-05-18
+1436,17,Cirino,Indústria,56420.72,baixo,ativo,2025-07-05
+1437,17,Garcia,Atacado,59566.37,baixo,ativo,2021-06-17
+1438,17,Cirino,Atacado,116367.97,baixo,ativo,2024-03-02
+1439,17,Aparecida,Varejo,55873.1,baixo,ativo,2021-06-18
+1440,17,Macedo,Serviços,98238.57,baixo,ativo,2022-03-01
+1441,17,da Luz,Indústria,15990.37,medio,ativo,2023-05-19
+1442,17,da Mata Nunes S/A,Varejo,26159.93,medio,ativo,2021-06-07
+1443,17,Sá Sampaio e Filhos,Atacado,91564.44,baixo,ativo,2023-11-23
+1444,17,Barros e Filhos,Varejo,67386.07,medio,ativo,2025-05-31
+1445,17,Nogueira,Atacado,141073.2,baixo,ativo,2023-01-27
+1446,17,Sá,Serviços,13635.62,medio,ativo,2024-06-16
+1447,17,Novaes Araújo - ME,Tecnologia,89221.08,baixo,ativo,2025-09-17
+1448,17,Nascimento,Serviços,121318.38,baixo,ativo,2020-01-15
+1449,17,Oliveira,Atacado,48315.0,baixo,ativo,2025-02-08
+1450,17,Melo da Rosa S/A,Indústria,113675.29,baixo,ativo,2023-01-04
+1451,17,Silva,Varejo,42244.18,baixo,ativo,2021-08-29
+1452,17,Montenegro - EI,Varejo,44302.23,alto,ativo,2022-10-16
+1453,17,Campos Sá - ME,Atacado,34189.05,alto,ativo,2024-02-20
+1454,17,Cavalcante Cunha S.A.,Serviços,143035.62,baixo,ativo,2024-07-30
+1455,17,Aparecida Lima S/A,Varejo,88820.9,medio,ativo,2023-12-27
+1456,17,Costa,Atacado,145479.57,baixo,ativo,2021-03-11
+1457,17,Peixoto da Luz Ltda.,Atacado,85652.5,medio,ativo,2026-03-06
+1458,17,Borges - ME,Tecnologia,77484.04,baixo,ativo,2021-09-29
+1459,17,Novaes,Tecnologia,114875.55,baixo,ativo,2021-01-18
+1460,17,da Mota,Atacado,79720.71,baixo,ativo,2025-07-02
+1461,17,Albuquerque,Serviços,18957.21,alto,ativo,2024-06-02
+1462,17,Camargo,Tecnologia,21481.79,medio,ativo,2024-07-06
+1463,17,Cassiano,Atacado,88481.21,baixo,ativo,2021-02-12
+1464,17,Nunes Pastor - EI,Varejo,22693.07,baixo,ativo,2021-06-25
+1465,17,Caldeira - EI,Varejo,30867.42,baixo,ativo,2020-02-08
+1466,17,Viana Ltda.,Varejo,20227.55,alto,ativo,2022-04-08
+1467,17,Jesus,Indústria,118757.33,baixo,ativo,2023-09-20
+1468,18,Gomes,Varejo,27263.82,baixo,ativo,2020-03-27
+1469,18,Oliveira,Tecnologia,33739.08,medio,ativo,2021-08-03
+1470,18,Andrade,Indústria,49160.66,baixo,ativo,2023-03-20
+1471,18,da Mota Guerra S.A.,Varejo,134268.71,baixo,ativo,2025-07-07
+1472,18,Andrade,Indústria,34317.63,baixo,ativo,2020-11-08
+1473,18,Farias,Varejo,35385.63,baixo,ativo,2021-09-10
+1474,18,Aragão Souza - ME,Serviços,88962.48,baixo,ativo,2023-05-20
+1475,18,Freitas,Tecnologia,57310.72,baixo,ativo,2024-02-20
+1476,18,Fernandes Ltda.,Varejo,8436.63,alto,ativo,2021-08-31
+1477,18,da Mota,Tecnologia,21822.41,medio,ativo,2020-10-02
+1478,18,Sampaio,Indústria,75568.91,baixo,ativo,2021-06-06
+1479,18,da Conceição S.A.,Tecnologia,70052.26,baixo,ativo,2023-09-27
+1480,18,Souza,Atacado,142723.93,baixo,ativo,2025-07-29
+1481,18,Vasconcelos,Varejo,84038.18,baixo,ativo,2024-09-23
+1482,18,da Mata,Varejo,120957.03,baixo,ativo,2022-08-21
+1483,18,Pereira,Tecnologia,46426.36,baixo,ativo,2021-07-01
+1484,18,Correia - ME,Serviços,43193.82,alto,ativo,2023-04-22
+1485,18,Jesus Sousa - ME,Tecnologia,128582.8,baixo,ativo,2022-09-20
+1486,18,Araújo,Serviços,49196.34,baixo,ativo,2024-03-26
+1487,18,Azevedo das Neves e Filhos,Varejo,43976.7,medio,ativo,2020-10-29
+1488,18,Carvalho,Serviços,97210.33,baixo,ativo,2020-11-19
+1489,18,Cavalcanti S.A.,Serviços,21622.1,baixo,ativo,2025-04-08
+1490,18,Araújo da Cruz S/A,Tecnologia,65885.11,medio,ativo,2023-10-13
+1491,18,Aragão,Varejo,103830.13,baixo,ativo,2020-05-11
+1492,18,Santos,Tecnologia,42565.43,baixo,ativo,2025-02-03
+1493,18,da Mota Freitas - ME,Serviços,127837.37,baixo,ativo,2024-10-01
+1494,18,Porto,Serviços,21990.21,alto,ativo,2022-05-17
+1495,18,Rodrigues S/A,Atacado,27279.59,baixo,ativo,2020-11-12
+1496,18,Freitas Mendonça - EI,Tecnologia,35055.17,medio,ativo,2021-11-06
+1497,18,Cavalcanti,Varejo,68292.16,baixo,ativo,2020-11-14
+1498,18,Pastor,Serviços,121243.64,baixo,ativo,2026-01-27
+1499,18,Ferreira,Serviços,47548.29,baixo,ativo,2026-03-09
+1500,18,da Luz Souza e Filhos,Atacado,140796.25,baixo,ativo,2026-05-02
+1501,18,da Paz S/A,Varejo,148244.22,baixo,ativo,2023-06-18
+1502,18,Aragão,Serviços,66364.39,baixo,ativo,2023-07-12
+1503,18,Oliveira Vasconcelos S.A.,Varejo,87908.06,medio,ativo,2023-09-19
+1504,18,Ramos Câmara e Filhos,Serviços,116388.67,baixo,ativo,2020-04-07
+1505,18,da Mata Rezende - ME,Indústria,69674.53,baixo,ativo,2021-10-22
+1506,18,Vasconcelos e Filhos,Serviços,80203.81,baixo,ativo,2022-06-02
+1507,18,Melo S.A.,Atacado,71506.06,medio,ativo,2025-10-15
+1508,18,Peixoto Albuquerque S.A.,Tecnologia,39588.63,alto,ativo,2021-06-21
+1509,18,Pereira,Tecnologia,66841.13,baixo,ativo,2022-09-06
+1510,18,Silva,Tecnologia,99350.34,baixo,ativo,2021-02-02
+1511,18,Lima,Varejo,79636.6,medio,ativo,2025-08-05
+1512,18,Ferreira,Indústria,60783.43,baixo,ativo,2024-01-28
+1513,18,da Cunha,Tecnologia,29247.41,baixo,ativo,2022-11-14
+1514,18,Martins da Rosa e Filhos,Atacado,83932.86,medio,ativo,2025-06-22
+1515,18,Pacheco,Serviços,131670.42,baixo,ativo,2024-12-10
+1516,18,Abreu - EI,Tecnologia,129828.63,baixo,ativo,2025-09-03
+1517,18,Novais,Varejo,134063.12,baixo,ativo,2022-09-29
+1518,18,da Rosa,Tecnologia,22364.98,medio,ativo,2021-10-10
+1519,18,Mendes S/A,Varejo,130997.79,baixo,ativo,2023-11-30
+1520,18,da Mota,Varejo,103522.98,baixo,ativo,2022-01-08
+1521,18,da Mota,Serviços,83799.26,medio,ativo,2024-07-02
+1522,18,Rezende,Tecnologia,61247.03,baixo,ativo,2021-04-13
+1523,18,Correia,Serviços,24976.7,baixo,ativo,2023-08-04
+1524,18,Moreira Teixeira S.A.,Indústria,148415.4,baixo,ativo,2024-10-27
+1525,18,Peixoto - ME,Tecnologia,6032.42,alto,ativo,2023-01-10
+1526,18,Rodrigues,Varejo,42893.73,baixo,ativo,2023-05-06
+1527,18,Silveira Alves e Filhos,Indústria,43577.75,medio,ativo,2022-01-23
+1528,18,da Rocha,Indústria,82131.34,medio,ativo,2021-11-04
+1529,18,Leão,Serviços,142452.41,baixo,ativo,2024-11-24
+1530,18,Gomes,Atacado,110077.19,baixo,ativo,2022-03-24
+1531,18,Pacheco e Filhos,Indústria,106835.12,baixo,ativo,2020-02-28
+1532,18,Fernandes Silveira e Filhos,Varejo,79625.68,baixo,ativo,2024-07-22
+1533,18,Rodrigues Nascimento e Filhos,Serviços,113897.18,baixo,ativo,2025-01-14
+1534,18,Rios,Serviços,95189.01,baixo,ativo,2024-09-17
+1535,18,Montenegro,Serviços,58075.47,medio,ativo,2022-02-21
+1536,18,Cavalcante,Varejo,41620.07,alto,ativo,2023-05-21
+1537,18,da Rocha Brito - ME,Tecnologia,79420.65,medio,ativo,2024-08-22
+1538,18,Sousa da Luz e Filhos,Indústria,65787.46,baixo,ativo,2021-04-09
+1539,18,Rodrigues Farias e Filhos,Serviços,29873.91,alto,ativo,2026-02-01
+1540,18,Câmara Ltda.,Indústria,57053.63,baixo,ativo,2021-02-10
+1541,18,Souza das Neves - ME,Atacado,34233.11,alto,ativo,2024-08-11
+1542,18,Freitas,Tecnologia,117492.68,baixo,ativo,2025-08-23
+1543,18,Pacheco,Serviços,24242.62,baixo,ativo,2025-02-05
+1544,18,Martins,Indústria,34885.14,baixo,ativo,2025-03-15
+1545,18,Melo S/A,Varejo,126654.34,baixo,ativo,2024-03-14
+1546,18,Melo S.A.,Indústria,31408.73,medio,ativo,2024-08-25
+1547,18,Rodrigues - ME,Varejo,82724.72,medio,ativo,2021-09-20
+1548,18,Jesus,Indústria,51517.06,medio,ativo,2023-10-04
+1549,18,Cassiano S.A.,Tecnologia,94384.37,baixo,ativo,2022-02-28
+1550,18,Fernandes Jesus - EI,Tecnologia,71131.31,baixo,ativo,2021-06-11
+1551,18,Casa Grande,Indústria,23140.36,alto,ativo,2025-10-19
+1552,18,Silva,Varejo,50026.04,baixo,ativo,2024-05-24
+1553,18,Vasconcelos Barros - ME,Indústria,30818.41,medio,ativo,2022-04-14
+1554,18,Pires,Serviços,23333.23,baixo,ativo,2020-04-23
+1555,18,Dias Porto S/A,Varejo,90677.42,baixo,ativo,2021-06-18
+1556,18,Machado Ltda.,Serviços,13394.98,alto,ativo,2023-05-01
+1557,18,Teixeira Vasconcelos S.A.,Tecnologia,129259.38,baixo,ativo,2022-12-02
+1558,18,Mendonça Viana S/A,Atacado,84798.07,medio,ativo,2021-02-27
+1559,18,Pimenta Lopes e Filhos,Indústria,140535.87,baixo,ativo,2022-01-09
+1560,18,Guerra,Tecnologia,84251.86,baixo,ativo,2021-02-16
+1561,18,Mendes,Varejo,22854.41,baixo,ativo,2022-05-11
+1562,18,Abreu,Serviços,35086.79,medio,ativo,2022-01-06
+1563,18,Nascimento S.A.,Varejo,137472.96,baixo,ativo,2021-04-25
+1564,18,Albuquerque,Atacado,32630.22,alto,ativo,2020-01-21
+1565,18,Sá,Varejo,116420.59,baixo,ativo,2026-01-04
+1566,18,Almeida Rocha S/A,Varejo,86526.81,baixo,ativo,2022-06-07
+1567,18,Câmara Sales Ltda.,Serviços,38013.45,baixo,ativo,2023-01-01
+1568,18,Cardoso,Indústria,45900.88,baixo,ativo,2025-03-28
+1569,19,Gomes - EI,Serviços,143024.94,baixo,ativo,2023-02-25
+1570,19,Cavalcante,Serviços,31441.05,alto,ativo,2022-04-23
+1571,19,Aparecida Ltda.,Indústria,24068.18,alto,ativo,2023-07-29
+1572,19,Marques,Indústria,98948.43,baixo,ativo,2020-09-20
+1573,19,Lopes,Tecnologia,135628.46,baixo,ativo,2023-04-17
+1574,19,Fernandes Mendonça Ltda.,Tecnologia,134042.77,baixo,ativo,2020-05-02
+1575,19,Cavalcante Guerra S/A,Serviços,125175.26,baixo,ativo,2020-10-24
+1576,19,Câmara Siqueira S.A.,Varejo,68315.84,baixo,ativo,2023-07-28
+1577,19,Siqueira Almeida - EI,Indústria,27101.79,medio,ativo,2022-08-10
+1578,19,Campos Fonseca e Filhos,Varejo,70126.81,baixo,ativo,2026-04-16
+1579,19,Garcia e Filhos,Varejo,99027.57,baixo,ativo,2026-06-08
+1580,19,Vargas,Indústria,70496.1,medio,ativo,2022-03-22
+1581,19,Peixoto S/A,Tecnologia,124354.27,baixo,ativo,2021-05-03
+1582,19,Rezende S/A,Atacado,42248.16,baixo,ativo,2020-03-28
+1583,19,Sales S/A,Tecnologia,103676.66,baixo,ativo,2023-03-10
+1584,19,Macedo,Atacado,145690.96,baixo,ativo,2020-06-09
+1585,19,Campos,Tecnologia,22115.4,baixo,ativo,2023-05-17
+1586,19,Melo,Indústria,117980.0,baixo,ativo,2025-07-15
+1587,19,Costela Sales e Filhos,Varejo,71132.57,baixo,ativo,2024-03-11
+1588,19,da Rosa - ME,Serviços,42145.54,alto,ativo,2021-03-06
+1589,19,Ribeiro - EI,Varejo,15185.36,alto,ativo,2022-02-21
+1590,19,Pinto,Varejo,75291.81,medio,ativo,2020-08-03
+1591,19,Leão Caldeira - EI,Varejo,122042.72,baixo,ativo,2022-12-16
+1592,19,da Paz S/A,Serviços,99657.58,baixo,ativo,2021-07-18
+1593,19,Monteiro S.A.,Atacado,35587.18,baixo,ativo,2024-08-19
+1594,19,Vasconcelos da Luz - EI,Tecnologia,106870.58,baixo,ativo,2025-06-30
+1595,19,Fogaça Santos - ME,Indústria,15162.37,alto,ativo,2023-04-28
+1596,19,Castro,Serviços,76843.37,medio,ativo,2020-11-15
+1597,19,Novaes - ME,Tecnologia,84298.75,baixo,ativo,2024-04-26
+1598,19,Sales Mendes Ltda.,Atacado,33589.51,baixo,ativo,2025-10-06
+1599,19,Abreu Albuquerque e Filhos,Serviços,34946.03,medio,ativo,2025-08-28
+1600,19,Camargo - EI,Tecnologia,36907.87,baixo,ativo,2025-10-04
+1601,19,Cassiano,Indústria,72026.64,baixo,ativo,2021-02-22
+1602,19,Vasconcelos - EI,Tecnologia,133905.51,baixo,ativo,2022-02-05
+1603,19,Silveira e Filhos,Varejo,81911.26,baixo,ativo,2026-03-04
+1604,19,da Cunha e Filhos,Atacado,76091.57,baixo,ativo,2023-09-28
+1605,19,Marques da Rocha Ltda.,Tecnologia,55436.55,baixo,ativo,2022-03-05
+1606,19,Aragão,Tecnologia,72349.97,baixo,ativo,2025-10-25
+1607,19,Cavalcanti S/A,Serviços,108550.87,baixo,ativo,2021-04-16
+1608,19,Fonseca,Varejo,24639.43,baixo,ativo,2023-02-02
+1609,19,Lima,Varejo,100628.7,baixo,ativo,2022-06-19
+1610,19,Brito S/A,Serviços,31461.36,medio,ativo,2023-11-24
+1611,19,Carvalho e Filhos,Serviços,111760.94,baixo,ativo,2025-08-23
+1612,19,Farias Fogaça - ME,Serviços,43365.38,alto,ativo,2021-11-28
+1613,19,Siqueira,Serviços,29029.1,baixo,ativo,2020-02-22
+1614,19,Freitas Ltda.,Varejo,11666.15,medio,ativo,2021-11-30
+1615,19,Camargo Guerra - ME,Atacado,57520.41,medio,ativo,2020-01-05
+1616,19,da Mata,Atacado,52176.36,baixo,ativo,2023-04-05
+1617,19,Sales,Varejo,23384.38,medio,ativo,2021-02-13
+1618,19,Leão,Atacado,115704.24,baixo,ativo,2022-11-20
+1619,19,Camargo Cardoso e Filhos,Indústria,46700.06,medio,ativo,2023-09-28
+1620,19,Castro S/A,Atacado,78556.49,medio,ativo,2025-06-06
+1621,19,Pastor,Tecnologia,109151.94,baixo,ativo,2022-06-21
+1622,19,Nunes,Tecnologia,49826.58,medio,ativo,2024-01-12
+1623,19,Cirino,Varejo,31605.62,baixo,ativo,2023-01-26
+1624,19,Vasconcelos,Atacado,81937.71,medio,ativo,2021-12-17
+1625,19,Pimenta,Tecnologia,108278.63,baixo,ativo,2023-02-05
+1626,19,Rodrigues e Filhos,Atacado,25343.0,baixo,ativo,2021-05-18
+1627,19,Mendes Mendonça S/A,Indústria,79153.6,baixo,ativo,2021-03-27
+1628,19,Macedo,Serviços,25984.29,alto,ativo,2025-11-12
+1629,19,Azevedo Ltda.,Indústria,18664.05,alto,ativo,2020-09-21
+1630,19,Albuquerque,Atacado,13276.25,medio,ativo,2021-05-20
+1631,19,Rios Fernandes - EI,Varejo,59756.8,baixo,ativo,2020-07-23
+1632,19,Lopes e Filhos,Atacado,65528.37,baixo,ativo,2021-09-27
+1633,19,Mendes Ferreira e Filhos,Tecnologia,37987.39,alto,ativo,2020-11-26
+1634,19,Cassiano,Tecnologia,24177.77,baixo,ativo,2024-09-26
+1635,19,Albuquerque e Filhos,Atacado,137541.17,baixo,ativo,2023-06-26
+1636,19,Montenegro Melo - ME,Serviços,76656.12,baixo,ativo,2022-03-28
+1637,19,Barbosa Sá - ME,Indústria,74120.6,baixo,ativo,2026-05-10
+1638,19,da Costa,Tecnologia,40208.26,alto,ativo,2021-01-28
+1639,19,da Mota,Indústria,77447.17,baixo,ativo,2025-04-02
+1640,19,Montenegro S.A.,Atacado,80651.83,baixo,ativo,2020-04-18
+1641,19,Guerra,Indústria,32684.38,alto,ativo,2022-09-20
+1642,19,Barros Marques - ME,Indústria,68504.45,baixo,ativo,2020-08-07
+1643,19,Borges,Atacado,42235.37,medio,ativo,2025-02-28
+1644,19,Machado,Varejo,31613.99,medio,ativo,2023-09-27
+1645,19,Campos,Varejo,126852.22,baixo,ativo,2021-05-12
+1646,19,Souza,Serviços,69149.07,medio,ativo,2025-10-15
+1647,19,Caldeira - ME,Serviços,116255.14,baixo,ativo,2023-05-17
+1648,19,Andrade,Atacado,113488.47,baixo,ativo,2022-04-02
+1649,19,Borges - EI,Varejo,20004.64,baixo,ativo,2022-10-09
+1650,19,Moraes,Varejo,81586.51,baixo,ativo,2021-05-13
+1651,19,Rezende Rios - ME,Atacado,82883.54,baixo,ativo,2022-12-02
+1652,19,Fonseca,Tecnologia,78745.11,medio,ativo,2021-08-22
+1653,19,Câmara - ME,Serviços,44025.02,baixo,ativo,2025-09-26
+1654,19,Novais,Varejo,48092.67,medio,ativo,2025-07-12
+1655,19,Silva,Tecnologia,55773.58,baixo,ativo,2024-09-03
+1656,19,Silva,Tecnologia,32673.78,medio,ativo,2020-02-15
+1657,19,Camargo,Tecnologia,24430.86,baixo,ativo,2020-06-23
+1658,19,Teixeira e Filhos,Tecnologia,44709.09,alto,ativo,2023-02-08
+1659,19,Abreu Fernandes Ltda.,Serviços,40580.89,baixo,ativo,2023-11-29
+1660,19,Novaes,Serviços,12852.36,alto,ativo,2023-12-12
+1661,19,Sampaio,Serviços,46758.54,medio,ativo,2023-02-14
+1662,19,Aparecida S.A.,Tecnologia,83878.15,medio,ativo,2024-03-22
+1663,19,Carvalho,Atacado,36882.51,alto,ativo,2025-11-22
+1664,19,Caldeira,Atacado,110709.93,baixo,ativo,2024-07-11
+1665,19,Pimenta,Varejo,23837.84,baixo,ativo,2025-08-07
+1666,19,Correia Campos - ME,Serviços,49159.78,alto,ativo,2021-03-07
+1667,19,Marques Viana S.A.,Tecnologia,81397.83,medio,ativo,2020-09-20
+1668,19,Caldeira,Tecnologia,52562.9,baixo,ativo,2024-03-13
+1669,19,Aparecida,Tecnologia,129288.32,baixo,ativo,2024-03-26
+1670,19,Vargas - ME,Tecnologia,102861.45,baixo,ativo,2024-11-27
+1671,19,Ribeiro,Atacado,69372.31,medio,ativo,2022-02-26
+1672,19,Monteiro Abreu - EI,Varejo,23151.6,baixo,ativo,2021-07-29
+1673,19,Novaes - ME,Varejo,42642.19,medio,ativo,2023-10-27
+1674,19,Moraes,Tecnologia,114897.03,baixo,ativo,2022-02-17
+1675,19,Sales Pacheco S.A.,Atacado,47898.63,medio,ativo,2026-04-07
+1676,19,Caldeira Gomes e Filhos,Varejo,45110.25,medio,ativo,2026-05-20
+1677,19,Montenegro,Serviços,121710.36,baixo,ativo,2020-07-29
+1678,19,Leão,Indústria,63019.57,baixo,ativo,2024-05-18
+1679,19,da Mota Gonçalves Ltda.,Varejo,79717.87,medio,ativo,2025-12-28
+1680,19,Machado,Tecnologia,130915.38,baixo,ativo,2020-08-20
+1681,19,Carvalho Jesus - EI,Indústria,135935.09,baixo,ativo,2020-05-02
+1682,19,Sampaio,Varejo,74782.74,baixo,ativo,2021-07-24
+1683,19,Silva,Varejo,126179.11,baixo,ativo,2022-08-23
+1684,19,Costa Costela - EI,Varejo,124736.07,baixo,ativo,2023-11-17
+1685,19,Rodrigues,Varejo,32559.47,alto,ativo,2026-03-08
+1686,19,Rocha,Tecnologia,36830.39,baixo,ativo,2025-09-10
+1687,19,Santos Rezende S.A.,Serviços,65533.5,baixo,ativo,2020-03-28
+1688,19,Santos,Atacado,13827.84,alto,ativo,2024-04-02
+1689,19,Teixeira Ltda.,Tecnologia,54199.68,medio,ativo,2021-05-27
+1690,19,Pacheco,Atacado,75488.37,baixo,ativo,2024-02-15
+1691,19,Rocha,Varejo,64606.33,baixo,ativo,2020-02-11
+1692,19,Lima,Atacado,117171.84,baixo,ativo,2020-07-06
+1693,19,Moreira S/A,Varejo,41567.99,alto,ativo,2020-08-20
+1694,19,Garcia S.A.,Serviços,43477.15,baixo,ativo,2023-04-12
+1695,19,Rios S/A,Varejo,71716.42,baixo,ativo,2022-10-21
+1696,19,da Mata Sá S.A.,Serviços,41604.12,alto,ativo,2024-12-21
+1697,19,Rodrigues,Serviços,72416.67,medio,ativo,2025-11-27
+1698,19,Casa Grande,Indústria,53313.53,medio,ativo,2024-08-09
+1699,19,Sales Ltda.,Serviços,32382.71,medio,ativo,2025-11-03
+1700,19,Sá Nogueira S/A,Serviços,116448.13,baixo,ativo,2020-05-26
+1701,19,Machado,Varejo,25419.33,alto,ativo,2020-03-28
+1702,19,Pimenta e Filhos,Varejo,24388.3,baixo,ativo,2020-09-01
+1703,19,Souza Ramos - EI,Tecnologia,99267.2,baixo,ativo,2024-12-23
+1704,19,da Costa,Varejo,46744.92,baixo,ativo,2023-06-03
+1705,19,Sales,Indústria,119189.52,baixo,ativo,2022-12-11
+1706,19,Garcia - ME,Atacado,70580.18,medio,ativo,2024-11-12
+1707,19,Viana,Varejo,84285.32,medio,ativo,2026-03-16
+1708,19,Novaes,Atacado,113768.61,baixo,ativo,2025-03-13
+1709,19,Albuquerque e Filhos,Tecnologia,113498.63,baixo,ativo,2025-03-29
+1710,19,Costa,Indústria,20549.82,medio,ativo,2020-12-16
+1711,19,Câmara,Varejo,30698.72,alto,ativo,2023-01-28
+1712,19,Sá,Atacado,105699.89,baixo,ativo,2020-02-20
+1713,19,Vasconcelos Silveira S.A.,Serviços,93897.34,baixo,ativo,2024-12-22
+1714,19,Machado,Tecnologia,77188.21,baixo,ativo,2026-03-29
+1715,19,Rodrigues Barbosa S.A.,Atacado,27616.03,baixo,ativo,2026-03-08
+1716,19,Sousa Moraes S/A,Indústria,28325.65,baixo,ativo,2022-11-29
+1717,19,Aparecida,Atacado,60427.05,medio,ativo,2020-07-22
+1718,19,da Mota,Tecnologia,105098.11,baixo,ativo,2023-07-23
+1719,19,Cardoso,Indústria,113256.5,baixo,ativo,2022-11-20
+1720,19,Pacheco da Cunha S/A,Varejo,129841.02,baixo,ativo,2022-08-19
+1721,19,Martins,Serviços,30072.29,baixo,ativo,2022-04-15
+1722,20,Aparecida Cassiano Ltda.,Tecnologia,127787.92,baixo,ativo,2023-03-05
+1723,20,Vasconcelos e Filhos,Tecnologia,62450.27,baixo,ativo,2024-03-14
+1724,20,Mendonça,Varejo,146555.16,baixo,ativo,2023-04-06
+1725,20,Barbosa,Indústria,32406.72,alto,ativo,2025-09-23
+1726,20,Moura,Serviços,72677.37,medio,ativo,2024-03-31
+1727,20,Cirino Moreira S/A,Varejo,68100.78,medio,ativo,2020-11-12
+1728,20,Leão Nogueira - EI,Atacado,49901.58,alto,ativo,2024-09-08
+1729,20,Borges,Atacado,35761.51,baixo,ativo,2025-04-18
+1730,20,Câmara,Atacado,35355.15,medio,ativo,2023-04-15
+1731,20,Ribeiro Farias Ltda.,Serviços,48986.36,alto,ativo,2025-02-10
+1732,20,da Rocha,Tecnologia,146411.59,baixo,ativo,2024-01-22
+1733,20,Sá Pinto - EI,Tecnologia,92859.43,baixo,ativo,2022-08-01
+1734,20,Novais,Serviços,74450.53,baixo,ativo,2026-01-11
+1735,20,Camargo e Filhos,Atacado,138204.55,baixo,ativo,2022-12-02
+1736,20,Machado,Atacado,19437.12,medio,ativo,2021-08-30
+1737,20,Ramos Pimenta - EI,Tecnologia,102241.87,baixo,ativo,2020-03-04
+1738,20,Aparecida Rodrigues Ltda.,Tecnologia,74421.33,baixo,ativo,2021-02-17
+1739,20,Vieira,Varejo,24429.84,baixo,ativo,2021-06-26
+1740,20,Gomes Ltda.,Serviços,88810.26,baixo,ativo,2024-07-05
+1741,20,Alves,Indústria,33471.35,medio,ativo,2021-03-17
+1742,20,Moraes,Tecnologia,20973.09,alto,ativo,2024-08-01
+1743,20,Mendonça,Serviços,116290.67,baixo,ativo,2022-01-21
+1744,20,da Rocha e Filhos,Serviços,75608.49,medio,ativo,2020-02-01
+1745,20,Duarte Moraes S/A,Tecnologia,68083.61,baixo,ativo,2021-12-24
+1746,20,Cavalcante - EI,Indústria,96450.51,baixo,ativo,2025-07-13
+1747,20,Pires S/A,Tecnologia,93337.07,baixo,ativo,2023-03-14
+1748,20,Rios Pires S.A.,Serviços,61415.18,baixo,ativo,2024-10-29
+1749,20,Caldeira,Indústria,94767.92,baixo,ativo,2021-11-09
+1750,20,Nascimento Sampaio e Filhos,Indústria,55600.31,baixo,ativo,2022-11-28
+1751,20,Ramos,Serviços,34989.51,alto,ativo,2021-01-28
+1752,20,Souza e Filhos,Varejo,129042.7,baixo,ativo,2026-01-20
+1753,20,Alves Marques e Filhos,Indústria,45367.25,baixo,ativo,2022-04-12
+1754,20,Andrade,Serviços,143224.37,baixo,ativo,2025-02-01
+1755,20,Barbosa S/A,Tecnologia,34249.93,baixo,ativo,2024-11-05
+1756,20,Vieira da Cunha - EI,Varejo,31292.3,baixo,ativo,2023-12-19
+1757,20,Oliveira S.A.,Serviços,27795.34,medio,ativo,2025-09-07
+1758,20,Jesus,Varejo,78950.33,baixo,ativo,2023-07-13
+1759,20,Machado,Atacado,18035.1,medio,ativo,2023-07-24
+1760,20,Lopes,Varejo,92562.14,baixo,ativo,2022-10-04
+1761,20,Almeida,Indústria,68907.18,baixo,ativo,2025-04-09

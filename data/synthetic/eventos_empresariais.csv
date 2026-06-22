@@ -1,0 +1,31 @@
+﻿id_evento,id_empresa,tipo_evento,data_inicio,data_fim,multiplicador_receita,multiplicador_despesa,descricao
+1,1,Compra de Equipamento,2024-08-07,2024-10-15,1.0197,1.3692,Compra de Equipamento simulada para fins analíticos.
+2,2,Compra de Equipamento,2023-11-14,2023-12-23,0.9797,1.4406,Compra de Equipamento simulada para fins analíticos.
+3,2,Campanha Promocional,2026-01-15,2026-02-06,1.3094,1.0643,Campanha Promocional simulada para fins analíticos.
+4,3,Campanha Promocional,2023-11-19,2023-12-11,1.369,1.07,Campanha Promocional simulada para fins analíticos.
+5,4,Interrupção Operacional,2024-04-26,2024-07-01,0.5896,1.2171,Interrupção Operacional simulada para fins analíticos.
+6,5,Campanha Promocional,2023-06-17,2023-08-24,1.2841,1.1913,Campanha Promocional simulada para fins analíticos.
+7,6,Interrupção Operacional,2024-10-05,2024-11-19,0.6377,0.9893,Interrupção Operacional simulada para fins analíticos.
+8,7,Crise de Receita,2023-01-20,2023-04-03,0.755,1.1189,Crise de Receita simulada para fins analíticos.
+9,7,Crise de Receita,2023-05-31,2023-08-22,0.6203,1.0296,Crise de Receita simulada para fins analíticos.
+10,8,Expansão Comercial,2025-01-26,2025-03-18,1.1442,1.2584,Expansão Comercial simulada para fins analíticos.
+11,8,Interrupção Operacional,2024-09-11,2024-12-13,0.8747,1.1921,Interrupção Operacional simulada para fins analíticos.
+12,8,Campanha Promocional,2023-01-17,2023-04-27,1.3288,1.1248,Campanha Promocional simulada para fins analíticos.
+13,9,Expansão Comercial,2024-06-25,2024-07-24,1.3491,1.2356,Expansão Comercial simulada para fins analíticos.
+14,9,Expansão Comercial,2024-07-11,2024-08-31,1.2694,1.2294,Expansão Comercial simulada para fins analíticos.
+15,10,Perda de Cliente Relevante,2025-11-01,2026-01-17,0.6329,1.2224,Perda de Cliente Relevante simulada para fins analíticos.
+16,12,Perda de Cliente Relevante,2023-09-25,2023-12-30,0.8733,0.9985,Perda de Cliente Relevante simulada para fins analíticos.
+17,12,Compra de Equipamento,2026-02-03,2026-05-19,0.9928,1.1529,Compra de Equipamento simulada para fins analíticos.
+18,14,Perda de Cliente Relevante,2026-04-07,2026-06-17,0.5989,0.9882,Perda de Cliente Relevante simulada para fins analíticos.
+19,14,Perda de Cliente Relevante,2025-01-16,2025-05-12,0.8708,0.962,Perda de Cliente Relevante simulada para fins analíticos.
+20,14,Perda de Cliente Relevante,2024-03-06,2024-06-16,0.6323,0.9808,Perda de Cliente Relevante simulada para fins analíticos.
+21,15,Compra de Equipamento,2023-11-13,2023-12-28,1.0365,1.4429,Compra de Equipamento simulada para fins analíticos.
+22,15,Expansão Comercial,2025-04-24,2025-05-12,1.1502,1.2811,Expansão Comercial simulada para fins analíticos.
+23,16,Interrupção Operacional,2024-05-23,2024-07-11,0.6025,1.1604,Interrupção Operacional simulada para fins analíticos.
+24,16,Compra de Equipamento,2023-03-21,2023-06-04,0.9722,1.395,Compra de Equipamento simulada para fins analíticos.
+25,17,Expansão Comercial,2024-04-01,2024-04-19,1.2848,1.1496,Expansão Comercial simulada para fins analíticos.
+26,18,Perda de Cliente Relevante,2024-12-20,2025-03-27,0.7181,1.1539,Perda de Cliente Relevante simulada para fins analíticos.
+27,19,Crise de Receita,2023-08-25,2023-10-12,0.6089,1.2388,Crise de Receita simulada para fins analíticos.
+28,19,Perda de Cliente Relevante,2023-03-20,2023-04-17,0.7469,1.0537,Perda de Cliente Relevante simulada para fins analíticos.
+29,20,Campanha Promocional,2023-08-25,2023-10-28,1.3519,1.0975,Campanha Promocional simulada para fins analíticos.
+30,20,Crise de Receita,2025-06-12,2025-06-27,0.7216,1.192,Crise de Receita simulada para fins analíticos.

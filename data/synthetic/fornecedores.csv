@@ -1,0 +1,851 @@
+﻿id_fornecedor,id_empresa,nome_fornecedor,categoria,prazo_medio_pagamento,status,data_cadastro
+1,1,Rocha,Manutenção,21,ativo,2025-07-27
+2,1,Nascimento S/A,Energia,21,ativo,2022-03-24
+3,1,Sá e Filhos,Matéria-prima,60,ativo,2022-05-27
+4,1,Sampaio S/A,Mercadorias,45,ativo,2020-10-02
+5,1,Montenegro,Manutenção,60,ativo,2022-05-04
+6,1,da Rocha e Filhos,Logística,15,ativo,2024-09-08
+7,1,Pereira,Energia,60,ativo,2024-04-06
+8,1,da Paz - ME,Tecnologia,30,ativo,2025-06-06
+9,1,Gonçalves,Logística,30,ativo,2022-08-07
+10,1,Melo S.A.,Energia,45,ativo,2025-06-30
+11,1,Carvalho Souza - ME,Marketing,60,ativo,2024-01-02
+12,1,Porto,Manutenção,30,ativo,2021-01-30
+13,1,da Rosa Rocha e Filhos,Tecnologia,15,ativo,2023-03-22
+14,1,Albuquerque,Marketing,45,ativo,2023-08-25
+15,1,Campos Aparecida S/A,Tecnologia,45,ativo,2021-04-19
+16,1,Nascimento,Logística,45,ativo,2023-07-30
+17,1,das Neves S.A.,Matéria-prima,30,ativo,2024-06-18
+18,1,Cunha,Logística,45,ativo,2025-06-26
+19,1,Ramos,Marketing,21,ativo,2020-04-28
+20,2,Castro Cirino S.A.,Energia,60,ativo,2022-05-31
+21,2,Correia,Marketing,15,ativo,2026-04-22
+22,2,Cirino e Filhos,Serviços,30,ativo,2023-07-24
+23,2,Sá - EI,Marketing,45,ativo,2024-12-15
+24,2,Ramos,Marketing,45,ativo,2022-12-03
+25,2,da Rocha e Filhos,Mercadorias,30,ativo,2025-06-11
+26,2,da Cunha S/A,Tecnologia,30,ativo,2020-07-05
+27,2,Silveira Pacheco - ME,Energia,45,ativo,2024-08-05
+28,2,Fogaça,Tecnologia,60,ativo,2021-11-13
+29,2,Rios Rezende S.A.,Tecnologia,15,ativo,2023-09-12
+30,2,da Paz - EI,Logística,60,ativo,2026-01-19
+31,2,Correia Ltda.,Mercadorias,15,ativo,2024-04-02
+32,2,Machado,Matéria-prima,30,ativo,2023-12-15
+33,2,Pimenta,Matéria-prima,15,ativo,2025-10-25
+34,2,Sales,Tecnologia,30,ativo,2026-01-02
+35,2,Nunes Nunes Ltda.,Tecnologia,21,ativo,2026-01-03
+36,2,Lima,Marketing,21,ativo,2023-04-03
+37,2,Abreu Dias S.A.,Logística,30,ativo,2023-09-19
+38,2,Silva Sousa e Filhos,Marketing,21,ativo,2026-03-14
+39,2,da Mota,Tecnologia,15,ativo,2020-05-27
+40,2,Carvalho,Mercadorias,60,ativo,2021-02-23
+41,2,Mendes,Marketing,45,ativo,2020-06-22
+42,2,Machado,Logística,30,ativo,2023-05-19
+43,2,Vasconcelos,Mercadorias,21,ativo,2022-10-09
+44,2,Mendonça,Mercadorias,30,ativo,2021-05-21
+45,2,Cavalcanti e Filhos,Marketing,45,ativo,2021-06-21
+46,2,da Mota S.A.,Energia,15,ativo,2020-11-09
+47,2,da Luz Siqueira e Filhos,Matéria-prima,60,ativo,2024-08-28
+48,2,Siqueira S/A,Mercadorias,15,ativo,2026-01-27
+49,2,Montenegro e Filhos,Logística,15,ativo,2024-05-21
+50,2,Pacheco - EI,Tecnologia,60,ativo,2023-07-02
+51,2,Vargas,Serviços,45,ativo,2025-09-29
+52,2,Andrade Novaes Ltda.,Mercadorias,30,ativo,2023-01-27
+53,2,Rezende,Manutenção,21,ativo,2021-02-12
+54,2,Fonseca Gonçalves S.A.,Energia,60,ativo,2025-04-14
+55,2,Carvalho,Marketing,30,ativo,2024-10-25
+56,2,Montenegro,Matéria-prima,21,ativo,2024-07-22
+57,2,Gonçalves Ltda.,Energia,45,ativo,2023-03-10
+58,2,Ribeiro S.A.,Tecnologia,45,ativo,2020-03-11
+59,2,Sá Moraes S.A.,Manutenção,45,ativo,2024-03-06
+60,2,Castro,Matéria-prima,45,ativo,2022-07-06
+61,2,Nunes Nunes e Filhos,Mercadorias,45,ativo,2022-08-08
+62,2,Sousa Siqueira - ME,Manutenção,30,ativo,2025-05-06
+63,3,Aparecida,Matéria-prima,30,ativo,2023-09-23
+64,3,Teixeira Mendonça S.A.,Logística,15,ativo,2021-01-25
+65,3,da Luz Ltda.,Logística,21,ativo,2025-06-29
+66,3,Aparecida Rios S.A.,Tecnologia,15,ativo,2021-08-01
+67,3,Gomes,Marketing,60,ativo,2025-04-23
+68,3,Marques,Tecnologia,15,ativo,2025-07-14
+69,3,Aparecida e Filhos,Energia,45,ativo,2023-06-29
+70,3,Caldeira,Serviços,21,ativo,2020-05-29
+71,3,Sousa,Serviços,60,ativo,2024-07-23
+72,3,Pacheco,Mercadorias,30,ativo,2022-05-06
+73,3,Garcia Rezende - ME,Manutenção,60,ativo,2025-08-09
+74,3,Pastor,Serviços,21,ativo,2023-08-11
+75,3,Moreira Ltda.,Manutenção,45,ativo,2025-10-08
+76,3,Câmara,Matéria-prima,15,ativo,2024-10-09
+77,3,Fogaça,Matéria-prima,45,ativo,2021-06-05
+78,3,Mendonça,Mercadorias,21,ativo,2025-10-30
+79,3,Pereira,Matéria-prima,21,ativo,2022-03-19
+80,3,Montenegro S.A.,Manutenção,15,ativo,2020-06-08
+81,3,Cavalcante,Marketing,45,ativo,2021-11-30
+82,3,Barbosa Moraes e Filhos,Manutenção,21,ativo,2026-02-18
+83,3,Cunha,Marketing,45,ativo,2020-02-07
+84,3,Cirino Castro Ltda.,Energia,15,ativo,2024-11-18
+85,3,Ribeiro S.A.,Energia,30,ativo,2025-11-10
+86,3,Farias,Serviços,60,ativo,2024-03-02
+87,3,Mendes e Filhos,Logística,21,ativo,2023-04-03
+88,3,Mendes,Tecnologia,60,ativo,2024-02-29
+89,3,Pastor Castro e Filhos,Energia,45,ativo,2025-03-10
+90,3,Almeida,Tecnologia,30,ativo,2021-07-08
+91,3,Aparecida Cardoso - EI,Logística,60,ativo,2025-04-24
+92,3,Carvalho Pires - EI,Mercadorias,30,ativo,2024-09-01
+93,3,Oliveira S.A.,Logística,21,ativo,2025-04-11
+94,3,Cavalcante Ltda.,Matéria-prima,15,ativo,2023-07-01
+95,3,Moreira Guerra - EI,Tecnologia,21,ativo,2021-01-19
+96,3,Silveira e Filhos,Manutenção,30,ativo,2021-01-22
+97,3,Barros,Mercadorias,60,ativo,2025-04-03
+98,3,Machado Pereira - ME,Logística,15,ativo,2023-12-06
+99,3,Cavalcante,Tecnologia,30,ativo,2020-02-27
+100,3,Jesus Peixoto S.A.,Tecnologia,30,ativo,2023-03-10
+101,3,Pinto Ribeiro - EI,Marketing,60,ativo,2023-06-06
+102,3,Cavalcante,Serviços,60,ativo,2024-07-09
+103,3,Marques,Energia,60,ativo,2026-01-25
+104,3,da Conceição - ME,Tecnologia,15,ativo,2021-09-16
+105,3,Cardoso,Matéria-prima,21,ativo,2023-02-20
+106,3,Almeida S.A.,Logística,30,ativo,2026-04-27
+107,3,Cassiano,Matéria-prima,21,ativo,2025-11-09
+108,3,Cavalcanti - ME,Marketing,30,ativo,2026-06-15
+109,3,Viana - EI,Energia,60,ativo,2025-04-23
+110,3,Borges - ME,Tecnologia,21,ativo,2020-01-11
+111,3,Pereira Nogueira S/A,Tecnologia,21,ativo,2021-01-09
+112,3,Moreira,Logística,21,ativo,2021-11-06
+113,3,Freitas,Manutenção,15,ativo,2023-08-17
+114,3,Sampaio - EI,Matéria-prima,15,ativo,2021-07-15
+115,3,da Conceição,Manutenção,45,ativo,2025-04-16
+116,3,Vieira,Serviços,30,ativo,2025-08-11
+117,3,Ferreira,Matéria-prima,21,ativo,2026-04-13
+118,3,Lima S.A.,Marketing,45,ativo,2024-04-28
+119,3,Mendes,Manutenção,30,ativo,2023-06-30
+120,3,Barros da Paz - EI,Serviços,60,ativo,2020-11-16
+121,3,da Cunha,Tecnologia,21,ativo,2023-02-11
+122,3,Abreu Santos e Filhos,Logística,45,ativo,2026-04-14
+123,3,Oliveira - EI,Manutenção,45,ativo,2022-10-23
+124,3,Moreira S/A,Matéria-prima,60,ativo,2024-11-18
+125,3,Rezende,Serviços,21,ativo,2020-04-13
+126,3,Sales Dias - ME,Serviços,45,ativo,2023-11-18
+127,3,Caldeira,Marketing,21,ativo,2026-04-11
+128,3,Lima Rezende - EI,Tecnologia,45,ativo,2024-03-12
+129,4,da Luz,Mercadorias,21,ativo,2024-12-15
+130,4,Nunes,Serviços,60,ativo,2022-03-09
+131,4,Pimenta,Mercadorias,60,ativo,2023-06-25
+132,4,Rodrigues,Serviços,15,ativo,2024-02-19
+133,4,Sá,Energia,60,ativo,2020-02-23
+134,4,Jesus Novaes - EI,Energia,15,ativo,2023-01-31
+135,4,Cavalcanti,Manutenção,45,ativo,2020-06-28
+136,4,Novais,Energia,30,ativo,2020-08-22
+137,4,da Cunha,Mercadorias,45,ativo,2025-02-04
+138,4,Oliveira,Manutenção,21,ativo,2025-04-23
+139,4,Vasconcelos,Matéria-prima,15,ativo,2024-02-22
+140,4,Sousa,Mercadorias,60,ativo,2021-09-19
+141,4,Ribeiro Campos e Filhos,Logística,21,ativo,2020-12-05
+142,4,Machado Viana e Filhos,Marketing,15,ativo,2020-08-17
+143,4,Brito Cunha - EI,Manutenção,15,ativo,2023-07-11
+144,4,Viana,Matéria-prima,60,ativo,2023-02-10
+145,4,Novaes,Tecnologia,60,ativo,2020-03-09
+146,4,Castro - ME,Serviços,30,ativo,2021-11-24
+147,4,Borges S.A.,Serviços,60,ativo,2020-02-28
+148,4,Peixoto,Marketing,45,ativo,2020-09-08
+149,5,Borges,Tecnologia,60,ativo,2021-08-27
+150,5,da Luz S.A.,Energia,15,ativo,2021-12-07
+151,5,Barros,Manutenção,15,ativo,2023-02-02
+152,5,Silveira - ME,Tecnologia,60,ativo,2024-08-03
+153,5,Pimenta,Logística,15,ativo,2023-06-28
+154,5,Silva,Energia,60,ativo,2023-12-07
+155,5,Vasconcelos S.A.,Matéria-prima,30,ativo,2025-03-24
+156,5,Macedo,Matéria-prima,60,ativo,2025-03-11
+157,5,Costa e Filhos,Matéria-prima,15,ativo,2021-01-05
+158,5,Correia,Logística,15,ativo,2022-01-30
+159,5,Viana - EI,Serviços,60,ativo,2020-03-23
+160,5,Pimenta Cavalcante e Filhos,Logística,15,ativo,2022-06-09
+161,5,Fonseca S.A.,Serviços,45,ativo,2020-11-28
+162,5,Castro S/A,Tecnologia,30,ativo,2022-02-21
+163,5,Vasconcelos,Logística,30,ativo,2020-08-06
+164,5,Fogaça,Marketing,30,ativo,2021-12-30
+165,5,Guerra,Energia,21,ativo,2026-05-03
+166,6,Moreira Albuquerque e Filhos,Marketing,21,ativo,2022-02-10
+167,6,Borges - EI,Energia,21,ativo,2021-12-26
+168,6,Silveira,Energia,30,ativo,2024-12-05
+169,6,Ferreira,Energia,15,ativo,2025-06-29
+170,6,Câmara,Serviços,60,ativo,2024-01-29
+171,6,Marques Guerra - EI,Serviços,60,ativo,2025-01-15
+172,6,da Luz S.A.,Logística,15,ativo,2024-04-28
+173,6,Montenegro,Logística,60,ativo,2026-05-18
+174,6,Novais S/A,Tecnologia,45,ativo,2023-11-21
+175,6,Fernandes,Energia,21,ativo,2023-11-02
+176,6,Moraes Ltda.,Energia,15,ativo,2025-10-03
+177,6,Sales,Tecnologia,30,ativo,2022-06-12
+178,6,Garcia,Manutenção,30,ativo,2020-05-08
+179,6,Vargas,Matéria-prima,60,ativo,2022-02-02
+180,6,Sá Fernandes - ME,Manutenção,21,ativo,2025-03-28
+181,6,Pastor,Serviços,30,ativo,2026-04-28
+182,6,Mendes S/A,Marketing,60,ativo,2020-05-18
+183,6,Azevedo,Serviços,15,ativo,2024-01-09
+184,6,Porto,Mercadorias,21,ativo,2024-09-22
+185,6,Rocha Sampaio S.A.,Manutenção,30,ativo,2023-10-11
+186,6,Jesus,Matéria-prima,21,ativo,2024-01-06
+187,6,Moreira,Energia,21,ativo,2025-03-27
+188,6,Sampaio Ltda.,Logística,15,ativo,2024-12-03
+189,6,da Paz Borges - ME,Manutenção,60,ativo,2026-06-17
+190,6,Barbosa,Marketing,45,ativo,2025-04-23
+191,6,Melo Dias Ltda.,Tecnologia,30,ativo,2024-03-08
+192,6,Oliveira da Mata S.A.,Serviços,45,ativo,2024-07-01
+193,6,Monteiro Sousa S.A.,Energia,15,ativo,2022-08-17
+194,6,Sousa da Costa Ltda.,Matéria-prima,45,ativo,2024-10-10
+195,6,da Conceição Costa S.A.,Energia,60,ativo,2024-06-29
+196,6,Cassiano,Mercadorias,21,ativo,2025-09-28
+197,6,Campos S/A,Logística,30,ativo,2025-11-16
+198,6,Pimenta,Tecnologia,60,ativo,2021-07-25
+199,6,Teixeira - EI,Logística,30,ativo,2020-08-08
+200,6,Mendes Ltda.,Matéria-prima,30,ativo,2021-08-02
+201,6,Monteiro,Serviços,45,ativo,2024-06-09
+202,6,Mendonça,Logística,45,ativo,2020-01-04
+203,6,Teixeira Moraes Ltda.,Logística,21,ativo,2021-12-05
+204,6,Câmara,Energia,30,ativo,2020-11-25
+205,6,Aragão Moura - ME,Logística,21,ativo,2022-04-12
+206,6,Nogueira,Marketing,15,ativo,2022-09-29
+207,6,Montenegro Ltda.,Logística,60,ativo,2024-03-12
+208,6,Rodrigues,Mercadorias,45,ativo,2021-10-14
+209,6,Marques Campos e Filhos,Serviços,15,ativo,2025-04-12
+210,6,Dias,Marketing,21,ativo,2025-04-18
+211,7,Albuquerque e Filhos,Marketing,45,ativo,2022-09-21
+212,7,Garcia Pacheco S/A,Matéria-prima,45,ativo,2021-06-10
+213,7,Fonseca,Serviços,21,ativo,2024-06-25
+214,7,Cirino,Serviços,30,ativo,2024-10-05
+215,7,da Costa,Marketing,60,ativo,2020-10-20
+216,7,Melo,Serviços,45,ativo,2020-04-20
+217,7,Fonseca,Tecnologia,60,ativo,2021-12-30
+218,7,Monteiro Lima S.A.,Tecnologia,30,ativo,2024-01-23
+219,7,Sampaio,Serviços,60,ativo,2020-01-07
+220,7,Fonseca,Marketing,15,ativo,2022-07-31
+221,7,da Mota,Logística,45,ativo,2022-02-08
+222,7,Cirino,Mercadorias,21,ativo,2023-05-21
+223,7,Oliveira Rodrigues S.A.,Marketing,15,ativo,2023-10-22
+224,7,Silveira Ltda.,Marketing,21,ativo,2024-10-09
+225,7,Novais Lopes - ME,Logística,30,ativo,2023-06-28
+226,7,Casa Grande Sousa S.A.,Marketing,45,ativo,2020-05-22
+227,7,Albuquerque,Energia,45,ativo,2022-01-05
+228,7,Leão Monteiro S.A.,Logística,45,ativo,2025-10-20
+229,7,Viana,Matéria-prima,45,ativo,2020-12-04
+230,7,da Rosa,Serviços,15,ativo,2024-07-14
+231,7,Novais,Mercadorias,21,ativo,2023-07-30
+232,7,Gonçalves S/A,Logística,60,ativo,2025-09-07
+233,7,Araújo Cunha Ltda.,Marketing,45,ativo,2020-02-17
+234,7,Pires,Manutenção,45,ativo,2024-09-26
+235,7,Machado e Filhos,Mercadorias,30,ativo,2024-10-06
+236,7,da Luz,Energia,15,ativo,2025-01-18
+237,7,Fonseca,Serviços,45,ativo,2023-10-04
+238,7,Ferreira,Serviços,15,ativo,2022-01-02
+239,7,Jesus S/A,Marketing,60,ativo,2024-04-19
+240,7,Rocha,Matéria-prima,21,ativo,2020-01-29
+241,7,Oliveira Oliveira e Filhos,Serviços,60,ativo,2022-11-22
+242,7,Vasconcelos da Paz Ltda.,Tecnologia,60,ativo,2025-02-06
+243,7,Rocha,Marketing,15,ativo,2025-03-18
+244,7,Vasconcelos,Energia,15,ativo,2021-05-12
+245,7,Barros,Manutenção,45,ativo,2024-02-12
+246,7,Pimenta,Mercadorias,60,ativo,2024-02-21
+247,8,Martins,Marketing,30,ativo,2023-04-28
+248,8,Cavalcante Porto Ltda.,Mercadorias,60,ativo,2022-12-30
+249,8,Pires,Logística,30,ativo,2024-01-01
+250,8,Barbosa,Marketing,15,ativo,2025-01-03
+251,8,Castro Ltda.,Serviços,30,ativo,2020-05-25
+252,8,Dias Dias e Filhos,Matéria-prima,30,ativo,2020-05-29
+253,8,Santos,Marketing,21,ativo,2021-12-18
+254,8,Pereira,Matéria-prima,60,ativo,2021-01-22
+255,8,da Mata,Logística,21,ativo,2025-07-14
+256,8,Vasconcelos,Marketing,30,ativo,2023-11-15
+257,8,Souza,Manutenção,60,ativo,2022-09-26
+258,8,Jesus,Manutenção,15,ativo,2020-11-09
+259,8,Cirino Almeida S.A.,Serviços,30,ativo,2020-06-05
+260,8,Ribeiro da Cunha e Filhos,Logística,60,ativo,2021-02-18
+261,8,Costela S.A.,Marketing,60,ativo,2020-11-18
+262,8,Caldeira,Serviços,30,ativo,2024-09-26
+263,8,Azevedo - ME,Marketing,15,ativo,2022-01-23
+264,8,Alves - ME,Energia,15,ativo,2024-11-10
+265,8,Caldeira Ltda.,Matéria-prima,21,ativo,2026-05-27
+266,8,Barros Rezende - ME,Energia,30,ativo,2025-10-06
+267,8,da Conceição,Tecnologia,15,ativo,2024-03-12
+268,8,Sousa da Paz - ME,Manutenção,21,ativo,2024-11-24
+269,8,Cardoso Moura S.A.,Energia,21,ativo,2023-02-07
+270,8,Andrade e Filhos,Mercadorias,60,ativo,2024-06-20
+271,8,Duarte,Logística,30,ativo,2023-01-21
+272,8,Martins,Mercadorias,45,ativo,2022-04-28
+273,8,Novaes,Mercadorias,45,ativo,2021-06-15
+274,8,Carvalho,Energia,30,ativo,2025-03-09
+275,8,Pastor Peixoto - ME,Serviços,15,ativo,2022-06-25
+276,8,Moura,Tecnologia,15,ativo,2023-08-22
+277,8,Ferreira,Tecnologia,15,ativo,2023-03-24
+278,8,Nogueira,Manutenção,60,ativo,2024-09-19
+279,8,Borges Macedo Ltda.,Serviços,60,ativo,2024-05-12
+280,8,Jesus,Manutenção,60,ativo,2020-02-21
+281,8,Cassiano,Serviços,30,ativo,2023-08-02
+282,8,Albuquerque,Serviços,45,ativo,2021-09-13
+283,8,Moreira S.A.,Manutenção,45,ativo,2022-05-12
+284,8,da Paz,Logística,45,ativo,2022-11-13
+285,8,Nascimento,Marketing,15,ativo,2026-05-29
+286,8,Sales - ME,Matéria-prima,45,ativo,2026-04-18
+287,8,da Rosa,Serviços,15,ativo,2022-04-30
+288,9,Vargas - ME,Serviços,30,ativo,2022-06-29
+289,9,Peixoto,Serviços,45,ativo,2024-08-21
+290,9,Vieira Abreu - EI,Manutenção,15,ativo,2021-09-24
+291,9,Correia,Logística,60,ativo,2022-10-30
+292,9,Novais,Marketing,45,ativo,2026-06-10
+293,9,Gonçalves,Mercadorias,30,ativo,2023-12-23
+294,9,Castro Silva e Filhos,Manutenção,21,ativo,2022-12-17
+295,9,Garcia,Logística,45,ativo,2024-04-05
+296,9,da Luz Barros - ME,Matéria-prima,15,ativo,2023-01-28
+297,9,Moreira Teixeira - EI,Tecnologia,21,ativo,2026-06-02
+298,9,da Paz,Matéria-prima,60,ativo,2022-06-24
+299,9,Jesus,Logística,21,ativo,2025-02-26
+300,9,Azevedo Cirino S.A.,Marketing,60,ativo,2023-02-23
+301,9,Camargo,Serviços,21,ativo,2023-03-15
+302,9,Pinto,Energia,30,ativo,2025-03-05
+303,9,da Mata,Serviços,15,ativo,2024-07-31
+304,9,Correia,Serviços,60,ativo,2023-11-10
+305,9,Almeida,Marketing,21,ativo,2025-09-03
+306,9,Aragão Nascimento S/A,Marketing,45,ativo,2025-02-05
+307,9,Caldeira da Paz Ltda.,Manutenção,30,ativo,2025-06-27
+308,9,Silva Macedo e Filhos,Manutenção,21,ativo,2026-01-14
+309,9,da Conceição S/A,Logística,45,ativo,2022-06-22
+310,9,Albuquerque Monteiro S.A.,Mercadorias,60,ativo,2025-07-05
+311,9,Leão,Serviços,45,ativo,2024-07-14
+312,9,Viana,Logística,15,ativo,2023-01-03
+313,9,Freitas,Marketing,45,ativo,2023-02-27
+314,9,Sampaio,Tecnologia,15,ativo,2024-04-29
+315,9,Farias S/A,Tecnologia,21,ativo,2024-04-10
+316,9,Araújo da Mata - ME,Matéria-prima,60,ativo,2024-01-21
+317,9,Nogueira - ME,Marketing,15,ativo,2022-09-05
+318,9,Correia da Cunha - ME,Tecnologia,21,ativo,2024-01-18
+319,9,Campos e Filhos,Manutenção,15,ativo,2026-03-12
+320,9,Gomes Vargas - ME,Serviços,15,ativo,2025-01-08
+321,9,Sousa Andrade S.A.,Marketing,60,ativo,2023-09-22
+322,9,Sousa,Tecnologia,21,ativo,2023-06-04
+323,9,Moreira e Filhos,Serviços,21,ativo,2021-11-02
+324,9,Melo Gomes e Filhos,Manutenção,21,ativo,2022-08-31
+325,9,Duarte,Logística,30,ativo,2021-03-21
+326,9,Pires Siqueira S/A,Mercadorias,21,ativo,2024-02-04
+327,9,da Cunha - ME,Manutenção,45,ativo,2022-03-25
+328,9,Costa,Manutenção,21,ativo,2025-04-28
+329,9,Aragão,Logística,45,ativo,2023-08-30
+330,9,Camargo da Costa e Filhos,Matéria-prima,60,ativo,2025-07-21
+331,9,Duarte,Serviços,21,ativo,2022-03-25
+332,9,Cavalcante Ltda.,Manutenção,15,ativo,2020-11-23
+333,9,Gonçalves S.A.,Mercadorias,45,ativo,2025-09-19
+334,9,Aparecida - EI,Manutenção,45,ativo,2021-04-02
+335,9,Sales,Marketing,30,ativo,2025-10-23
+336,9,Freitas Vargas S/A,Matéria-prima,60,ativo,2024-06-26
+337,9,Castro Monteiro S/A,Mercadorias,45,ativo,2023-07-21
+338,9,Teixeira,Mercadorias,30,ativo,2025-05-29
+339,9,Araújo Ltda.,Marketing,15,ativo,2022-11-23
+340,9,Sampaio Nascimento S/A,Marketing,60,ativo,2024-05-20
+341,9,Mendonça da Conceição Ltda.,Manutenção,45,ativo,2025-04-09
+342,9,Macedo,Matéria-prima,15,ativo,2021-09-03
+343,9,Almeida Sales - ME,Energia,60,ativo,2025-01-30
+344,9,Silveira,Matéria-prima,21,ativo,2022-11-29
+345,9,da Cunha Aparecida - ME,Marketing,30,ativo,2021-08-26
+346,9,Novais,Tecnologia,45,ativo,2022-01-13
+347,9,Nogueira,Energia,15,ativo,2022-09-15
+348,9,Correia,Matéria-prima,45,ativo,2025-11-24
+349,9,Nogueira Ferreira Ltda.,Manutenção,21,ativo,2025-02-06
+350,9,da Mota,Energia,30,ativo,2022-07-06
+351,9,Azevedo Moura S.A.,Manutenção,30,ativo,2025-04-09
+352,9,da Rocha,Manutenção,30,ativo,2024-01-16
+353,9,Nogueira,Energia,60,ativo,2021-01-21
+354,9,Marques,Logística,21,ativo,2023-10-13
+355,9,Vasconcelos e Filhos,Energia,15,ativo,2022-02-04
+356,9,Siqueira,Serviços,60,ativo,2022-11-21
+357,9,Almeida Pinto Ltda.,Energia,30,ativo,2026-02-25
+358,9,Duarte Silveira S/A,Logística,60,ativo,2024-05-30
+359,9,Correia,Energia,45,ativo,2024-11-08
+360,9,Vargas,Manutenção,30,ativo,2021-09-21
+361,9,Pimenta da Paz Ltda.,Logística,21,ativo,2024-04-06
+362,9,Ramos,Energia,45,ativo,2022-04-19
+363,9,Camargo,Tecnologia,15,ativo,2025-08-17
+364,9,Moreira e Filhos,Tecnologia,60,ativo,2022-07-22
+365,9,Aparecida S.A.,Logística,60,ativo,2020-12-03
+366,9,Andrade Costa S/A,Energia,30,ativo,2024-11-24
+367,9,Correia,Marketing,45,ativo,2024-04-28
+368,9,Andrade - EI,Logística,30,ativo,2024-06-19
+369,9,Ribeiro,Logística,60,ativo,2025-08-21
+370,10,Moura,Serviços,60,ativo,2023-11-01
+371,10,Aragão,Marketing,45,ativo,2025-05-15
+372,10,Câmara,Logística,60,ativo,2024-06-09
+373,10,Albuquerque S.A.,Logística,45,ativo,2023-11-12
+374,10,Barros,Mercadorias,15,ativo,2023-08-28
+375,10,Porto,Tecnologia,30,ativo,2022-11-22
+376,10,Fonseca - EI,Tecnologia,21,ativo,2023-04-18
+377,10,Freitas,Matéria-prima,21,ativo,2023-09-26
+378,10,Pimenta Ltda.,Manutenção,45,ativo,2024-12-05
+379,10,Siqueira S/A,Mercadorias,60,ativo,2023-01-06
+380,10,Barbosa,Tecnologia,30,ativo,2025-06-17
+381,10,Moreira Brito S/A,Mercadorias,45,ativo,2025-03-31
+382,10,Nascimento Gomes S.A.,Matéria-prima,30,ativo,2024-07-31
+383,10,Moura Ribeiro S.A.,Matéria-prima,30,ativo,2024-11-02
+384,10,Novais Souza - EI,Matéria-prima,15,ativo,2024-03-28
+385,10,Souza,Tecnologia,21,ativo,2023-03-04
+386,10,Vargas e Filhos,Logística,21,ativo,2023-01-06
+387,10,Rocha,Manutenção,21,ativo,2021-12-17
+388,10,Sampaio,Energia,60,ativo,2023-04-17
+389,10,Caldeira,Matéria-prima,21,ativo,2025-11-05
+390,10,Vieira Cirino - EI,Matéria-prima,21,ativo,2024-08-31
+391,10,Montenegro,Energia,15,ativo,2022-11-25
+392,10,Ribeiro,Tecnologia,21,ativo,2025-01-07
+393,10,Nascimento Peixoto - ME,Manutenção,45,ativo,2022-04-15
+394,10,Dias,Mercadorias,30,ativo,2026-03-01
+395,10,Freitas,Matéria-prima,21,ativo,2024-06-01
+396,10,Teixeira,Matéria-prima,45,ativo,2022-03-15
+397,10,Silveira,Manutenção,21,ativo,2022-04-18
+398,10,Pereira,Tecnologia,60,ativo,2024-06-19
+399,10,Nunes Nogueira S.A.,Energia,60,ativo,2021-10-15
+400,10,Vargas,Marketing,15,ativo,2025-10-09
+401,11,Fonseca,Tecnologia,60,ativo,2025-02-11
+402,11,Machado,Mercadorias,30,ativo,2024-07-25
+403,11,Abreu,Energia,45,ativo,2021-12-24
+404,11,da Paz - EI,Serviços,60,ativo,2025-06-02
+405,11,Moreira S.A.,Energia,30,ativo,2022-12-18
+406,11,Abreu,Tecnologia,30,ativo,2023-02-01
+407,11,Câmara,Energia,45,ativo,2021-04-01
+408,11,Dias Almeida e Filhos,Logística,45,ativo,2020-01-27
+409,11,Novaes,Serviços,60,ativo,2025-04-11
+410,11,Brito Andrade - ME,Manutenção,21,ativo,2022-01-02
+411,11,Cassiano,Matéria-prima,45,ativo,2023-06-01
+412,11,da Luz Fonseca - EI,Matéria-prima,45,ativo,2023-11-03
+413,11,da Conceição da Cunha Ltda.,Logística,21,ativo,2021-03-21
+414,11,Oliveira - ME,Tecnologia,21,ativo,2023-06-12
+415,11,Siqueira Barbosa e Filhos,Energia,30,ativo,2025-12-12
+416,11,Vieira,Manutenção,15,ativo,2023-05-14
+417,11,Cavalcanti,Tecnologia,60,ativo,2021-09-25
+418,11,Sales,Serviços,21,ativo,2022-02-25
+419,11,Peixoto e Filhos,Marketing,21,ativo,2021-10-08
+420,11,Andrade,Logística,30,ativo,2025-10-16
+421,11,Barros,Manutenção,60,ativo,2024-09-03
+422,11,Vargas Ltda.,Energia,21,ativo,2022-12-12
+423,11,Lopes,Manutenção,30,ativo,2024-02-27
+424,11,Campos,Logística,30,ativo,2023-09-28
+425,11,Souza Rezende - EI,Serviços,30,ativo,2025-01-16
+426,11,Porto e Filhos,Energia,45,ativo,2026-04-26
+427,11,Aragão,Marketing,45,ativo,2020-01-24
+428,11,Moura,Marketing,15,ativo,2024-08-01
+429,11,Dias - EI,Serviços,21,ativo,2025-02-14
+430,11,Duarte Montenegro e Filhos,Energia,15,ativo,2022-04-08
+431,11,Cassiano Aragão e Filhos,Tecnologia,30,ativo,2023-04-22
+432,11,Machado,Serviços,15,ativo,2023-08-11
+433,11,Câmara - ME,Marketing,45,ativo,2023-08-27
+434,11,Viana,Tecnologia,21,ativo,2025-08-22
+435,11,Casa Grande,Manutenção,30,ativo,2021-03-13
+436,11,Fernandes Barros - ME,Matéria-prima,21,ativo,2021-10-19
+437,11,Novaes - ME,Serviços,45,ativo,2025-04-08
+438,11,Barros,Mercadorias,45,ativo,2025-06-17
+439,11,Montenegro,Tecnologia,30,ativo,2024-03-16
+440,11,Vasconcelos,Mercadorias,15,ativo,2020-08-17
+441,11,Teixeira Carvalho - ME,Serviços,30,ativo,2026-01-12
+442,11,Mendonça Gonçalves e Filhos,Serviços,45,ativo,2023-03-10
+443,11,Novais Pimenta e Filhos,Matéria-prima,45,ativo,2021-07-04
+444,11,da Cruz Barbosa Ltda.,Matéria-prima,30,ativo,2024-08-21
+445,11,Duarte,Logística,21,ativo,2023-05-09
+446,11,Camargo e Filhos,Tecnologia,60,ativo,2020-12-26
+447,11,Lima,Manutenção,21,ativo,2023-09-04
+448,11,Ferreira,Energia,60,ativo,2025-12-15
+449,11,Duarte Ferreira - EI,Energia,15,ativo,2021-07-29
+450,11,Vargas Ltda.,Matéria-prima,30,ativo,2024-01-19
+451,11,Ferreira Pimenta - ME,Manutenção,21,ativo,2022-01-24
+452,11,Macedo Aparecida S.A.,Serviços,45,ativo,2022-07-21
+453,11,Rodrigues Freitas S.A.,Manutenção,30,ativo,2023-09-26
+454,11,Camargo e Filhos,Tecnologia,30,ativo,2022-11-11
+455,11,da Cruz - EI,Mercadorias,21,ativo,2021-05-03
+456,11,da Paz Albuquerque Ltda.,Marketing,45,ativo,2024-06-11
+457,11,das Neves - ME,Manutenção,15,ativo,2025-12-04
+458,11,Almeida,Mercadorias,60,ativo,2024-03-09
+459,12,Costela,Marketing,15,ativo,2025-08-27
+460,12,Costela Nogueira - EI,Serviços,60,ativo,2025-07-08
+461,12,Novaes,Energia,60,ativo,2023-09-29
+462,12,Pinto,Matéria-prima,15,ativo,2026-05-04
+463,12,Sales Sampaio e Filhos,Matéria-prima,60,ativo,2021-04-05
+464,12,Garcia - EI,Logística,60,ativo,2020-12-25
+465,12,da Cunha S.A.,Manutenção,60,ativo,2022-02-20
+466,12,da Paz S.A.,Matéria-prima,45,ativo,2023-02-08
+467,12,Aragão,Manutenção,45,ativo,2021-09-15
+468,12,Rezende,Serviços,15,ativo,2022-01-14
+469,12,Azevedo - ME,Serviços,45,ativo,2025-12-01
+470,12,Ribeiro,Marketing,15,ativo,2024-07-02
+471,12,Caldeira,Energia,15,ativo,2024-05-16
+472,12,da Rocha e Filhos,Mercadorias,15,ativo,2022-07-11
+473,12,da Conceição,Serviços,45,ativo,2021-09-08
+474,12,Moraes,Energia,21,ativo,2023-08-30
+475,12,Dias - ME,Manutenção,21,ativo,2026-06-10
+476,12,Cirino S.A.,Serviços,60,ativo,2021-09-17
+477,12,Novais,Tecnologia,21,ativo,2022-04-24
+478,12,Aparecida S.A.,Energia,21,ativo,2021-02-17
+479,12,Farias,Mercadorias,60,ativo,2020-06-10
+480,12,Gonçalves,Logística,60,ativo,2023-11-28
+481,12,Almeida Ferreira e Filhos,Matéria-prima,30,ativo,2023-07-15
+482,12,Fogaça,Tecnologia,21,ativo,2022-04-06
+483,12,da Costa,Energia,21,ativo,2024-10-03
+484,12,Araújo,Energia,21,ativo,2022-06-08
+485,12,Gomes,Serviços,15,ativo,2021-07-16
+486,12,Novais Ltda.,Manutenção,15,ativo,2024-03-16
+487,12,Cassiano Fernandes - ME,Mercadorias,45,ativo,2022-05-04
+488,12,Borges Siqueira - ME,Marketing,15,ativo,2025-01-04
+489,12,Leão da Costa - EI,Manutenção,45,ativo,2022-03-24
+490,13,Lima das Neves - EI,Marketing,60,ativo,2021-05-25
+491,13,Machado,Matéria-prima,21,ativo,2025-09-06
+492,13,Costela Rezende S.A.,Matéria-prima,21,ativo,2022-05-08
+493,13,Carvalho das Neves e Filhos,Matéria-prima,45,ativo,2024-01-07
+494,13,Lopes Vargas S.A.,Serviços,45,ativo,2022-02-21
+495,13,Dias Azevedo - EI,Tecnologia,15,ativo,2025-09-07
+496,13,Cirino Ltda.,Serviços,45,ativo,2022-11-11
+497,13,Siqueira Alves Ltda.,Matéria-prima,45,ativo,2020-03-07
+498,13,Jesus,Mercadorias,45,ativo,2024-09-16
+499,13,Macedo,Marketing,15,ativo,2023-12-23
+500,13,Cassiano,Serviços,30,ativo,2020-09-24
+501,13,Caldeira Cardoso S.A.,Marketing,30,ativo,2022-07-28
+502,13,Teixeira - EI,Matéria-prima,45,ativo,2025-04-14
+503,13,Pereira,Mercadorias,30,ativo,2023-08-17
+504,13,Peixoto da Conceição S.A.,Mercadorias,21,ativo,2022-10-16
+505,13,Fogaça S/A,Logística,60,ativo,2020-02-07
+506,13,Carvalho,Logística,60,ativo,2021-09-29
+507,13,Silva,Logística,45,ativo,2020-06-08
+508,14,Cirino,Tecnologia,30,ativo,2024-03-02
+509,14,Mendonça,Marketing,21,ativo,2024-09-13
+510,14,Carvalho,Logística,21,ativo,2025-10-25
+511,14,Correia Câmara S/A,Logística,21,ativo,2024-02-04
+512,14,Teixeira,Matéria-prima,21,ativo,2020-05-02
+513,14,da Mata - ME,Manutenção,21,ativo,2023-06-07
+514,14,Souza Rios S.A.,Marketing,30,ativo,2022-12-22
+515,14,Azevedo Cavalcanti - ME,Serviços,15,ativo,2020-04-15
+516,14,Sales,Serviços,15,ativo,2025-04-11
+517,14,Marques,Mercadorias,21,ativo,2024-07-27
+518,14,Lima Guerra S/A,Mercadorias,60,ativo,2024-03-24
+519,14,Silveira,Logística,21,ativo,2021-02-14
+520,14,Gonçalves,Mercadorias,30,ativo,2022-07-01
+521,14,Moreira S/A,Matéria-prima,45,ativo,2020-09-28
+522,14,Marques,Matéria-prima,45,ativo,2025-03-17
+523,14,da Cruz - EI,Marketing,60,ativo,2024-12-08
+524,14,Sousa,Logística,60,ativo,2020-01-03
+525,14,Novais - ME,Energia,45,ativo,2025-04-07
+526,14,Correia Ltda.,Energia,21,ativo,2023-08-15
+527,14,Gonçalves,Serviços,60,ativo,2021-01-29
+528,14,Vasconcelos,Manutenção,45,ativo,2026-05-28
+529,14,Martins,Tecnologia,21,ativo,2022-06-17
+530,14,Lima da Rocha - EI,Logística,21,ativo,2022-07-12
+531,14,Sales - EI,Matéria-prima,15,ativo,2024-07-12
+532,14,Martins Ramos - ME,Energia,60,ativo,2021-03-07
+533,14,Silveira - EI,Tecnologia,21,ativo,2022-10-23
+534,14,Cirino - EI,Logística,30,ativo,2023-09-08
+535,14,Gonçalves Jesus Ltda.,Manutenção,60,ativo,2025-10-30
+536,14,Alves,Energia,21,ativo,2023-09-05
+537,14,Marques Pastor e Filhos,Marketing,30,ativo,2021-08-17
+538,14,Marques Borges Ltda.,Mercadorias,45,ativo,2020-07-15
+539,14,Sales,Tecnologia,21,ativo,2020-02-28
+540,14,Silva Siqueira S/A,Logística,15,ativo,2022-09-01
+541,14,Camargo e Filhos,Logística,45,ativo,2023-08-14
+542,14,Porto,Mercadorias,60,ativo,2025-05-23
+543,14,Barros,Manutenção,30,ativo,2022-02-08
+544,14,Siqueira,Marketing,45,ativo,2022-05-29
+545,14,Garcia Novaes - ME,Manutenção,60,ativo,2022-12-12
+546,15,Vargas S.A.,Manutenção,15,ativo,2023-02-18
+547,15,Nunes,Serviços,30,ativo,2022-02-02
+548,15,Castro Casa Grande S.A.,Energia,30,ativo,2025-06-19
+549,15,Leão Ltda.,Manutenção,15,ativo,2023-11-03
+550,15,Siqueira,Energia,15,ativo,2024-02-05
+551,15,da Paz,Marketing,15,ativo,2026-02-03
+552,15,Campos Cardoso S.A.,Logística,15,ativo,2022-07-19
+553,15,Pinto Ltda.,Manutenção,15,ativo,2021-05-07
+554,15,Marques - ME,Energia,21,ativo,2023-11-24
+555,15,Nogueira,Energia,45,ativo,2024-11-21
+556,15,Pereira - ME,Matéria-prima,60,ativo,2022-01-17
+557,15,Cunha Pastor e Filhos,Marketing,60,ativo,2022-03-09
+558,15,Marques,Logística,21,ativo,2020-03-09
+559,15,Macedo,Tecnologia,30,ativo,2025-11-22
+560,15,Peixoto - EI,Logística,60,ativo,2025-12-13
+561,15,da Cruz - EI,Mercadorias,60,ativo,2024-01-25
+562,15,Pinto,Tecnologia,60,ativo,2021-11-14
+563,15,Aragão Cirino S.A.,Serviços,21,ativo,2021-02-14
+564,15,Rezende Ltda.,Logística,60,ativo,2022-07-15
+565,15,Casa Grande S/A,Logística,60,ativo,2024-10-02
+566,15,Farias,Tecnologia,30,ativo,2020-07-19
+567,15,Aragão S/A,Marketing,30,ativo,2024-05-15
+568,15,Cavalcanti,Marketing,45,ativo,2025-03-31
+569,15,Rocha da Paz - EI,Serviços,21,ativo,2023-05-13
+570,15,Marques Souza - EI,Mercadorias,15,ativo,2022-10-26
+571,15,Andrade,Energia,21,ativo,2020-09-30
+572,15,Vargas Ltda.,Mercadorias,45,ativo,2021-07-28
+573,15,Freitas,Logística,45,ativo,2021-10-18
+574,15,Azevedo,Tecnologia,45,ativo,2021-10-15
+575,15,Novaes,Marketing,45,ativo,2022-03-03
+576,15,da Rocha - ME,Tecnologia,30,ativo,2020-10-15
+577,15,Campos Sales Ltda.,Tecnologia,30,ativo,2021-07-29
+578,15,Moura,Marketing,15,ativo,2021-09-13
+579,15,Moura,Tecnologia,45,ativo,2021-08-06
+580,15,Sampaio Costela - EI,Energia,30,ativo,2020-02-14
+581,15,Caldeira - EI,Matéria-prima,60,ativo,2023-06-28
+582,15,Mendes e Filhos,Matéria-prima,60,ativo,2025-04-13
+583,15,Lima,Tecnologia,45,ativo,2023-05-08
+584,15,da Luz,Matéria-prima,60,ativo,2025-02-04
+585,15,Cardoso,Logística,15,ativo,2023-10-30
+586,15,Moreira,Energia,15,ativo,2024-04-11
+587,15,Monteiro,Energia,15,ativo,2025-03-25
+588,15,Pimenta da Conceição e Filhos,Marketing,60,ativo,2021-11-20
+589,15,Correia,Manutenção,30,ativo,2022-07-09
+590,15,Campos S/A,Matéria-prima,15,ativo,2024-01-25
+591,15,Pires,Tecnologia,45,ativo,2024-11-06
+592,15,Sousa S.A.,Marketing,15,ativo,2021-03-06
+593,15,Jesus,Energia,30,ativo,2022-10-27
+594,15,Farias Ltda.,Serviços,45,ativo,2022-10-26
+595,15,Albuquerque Porto S.A.,Serviços,15,ativo,2020-02-22
+596,15,da Cunha,Matéria-prima,45,ativo,2022-09-21
+597,15,das Neves Ltda.,Manutenção,21,ativo,2024-11-11
+598,15,Vargas,Energia,15,ativo,2025-06-21
+599,15,Camargo e Filhos,Marketing,60,ativo,2025-10-26
+600,15,Fernandes,Marketing,15,ativo,2021-03-17
+601,15,Silveira,Matéria-prima,60,ativo,2021-01-23
+602,15,Cavalcanti S.A.,Matéria-prima,21,ativo,2024-01-17
+603,15,Fernandes,Marketing,45,ativo,2020-06-12
+604,15,Melo,Serviços,45,ativo,2025-03-02
+605,15,Ramos S.A.,Mercadorias,45,ativo,2024-11-03
+606,15,Cassiano,Mercadorias,21,ativo,2026-05-11
+607,15,Nascimento,Logística,15,ativo,2023-09-09
+608,15,Martins,Matéria-prima,30,ativo,2024-08-15
+609,15,Souza,Mercadorias,45,ativo,2022-11-04
+610,16,Moreira Ltda.,Serviços,30,ativo,2022-10-15
+611,16,Novais,Energia,45,ativo,2020-07-14
+612,16,Costela - EI,Serviços,45,ativo,2022-12-13
+613,16,Vieira,Logística,21,ativo,2026-04-06
+614,16,Azevedo,Serviços,45,ativo,2023-11-28
+615,16,da Mota Alves Ltda.,Logística,45,ativo,2020-12-30
+616,16,Pires,Serviços,30,ativo,2026-01-13
+617,16,Oliveira Pereira - ME,Tecnologia,30,ativo,2023-06-06
+618,16,Peixoto Camargo Ltda.,Matéria-prima,15,ativo,2024-07-21
+619,16,Santos,Serviços,60,ativo,2025-07-29
+620,16,da Mata - ME,Logística,45,ativo,2022-04-08
+621,16,Monteiro S.A.,Energia,45,ativo,2023-12-07
+622,16,Machado,Serviços,45,ativo,2024-01-20
+623,16,Cunha,Logística,21,ativo,2023-08-15
+624,16,Cavalcanti,Mercadorias,15,ativo,2022-02-16
+625,16,Freitas S/A,Energia,60,ativo,2026-04-14
+626,16,Borges Macedo - EI,Energia,60,ativo,2026-01-13
+627,16,Mendes - EI,Logística,45,ativo,2020-11-07
+628,16,Correia Fernandes - ME,Tecnologia,15,ativo,2021-01-05
+629,16,Vasconcelos,Marketing,30,ativo,2021-08-20
+630,16,Casa Grande,Serviços,60,ativo,2023-12-20
+631,16,Moreira e Filhos,Marketing,21,ativo,2024-04-26
+632,16,Costela Silveira S/A,Matéria-prima,30,ativo,2026-05-24
+633,16,Gomes,Matéria-prima,30,ativo,2022-07-09
+634,16,Abreu Ltda.,Manutenção,15,ativo,2022-10-04
+635,16,Rodrigues - EI,Logística,30,ativo,2020-04-17
+636,17,Farias - ME,Tecnologia,21,ativo,2022-10-01
+637,17,Caldeira - EI,Tecnologia,45,ativo,2022-06-03
+638,17,Almeida,Logística,15,ativo,2023-04-30
+639,17,Porto,Tecnologia,15,ativo,2025-06-02
+640,17,Duarte Costa S.A.,Manutenção,45,ativo,2026-03-28
+641,17,da Mota,Tecnologia,45,ativo,2022-02-01
+642,17,Vargas,Marketing,60,ativo,2024-05-04
+643,17,Rios,Energia,30,ativo,2022-12-15
+644,17,da Mata S.A.,Marketing,30,ativo,2024-02-02
+645,17,da Mota Camargo S/A,Tecnologia,30,ativo,2026-01-22
+646,17,Costela - EI,Serviços,15,ativo,2021-07-04
+647,17,Novaes,Serviços,21,ativo,2026-01-13
+648,17,da Mata,Logística,15,ativo,2025-09-09
+649,17,Santos da Paz - EI,Manutenção,60,ativo,2023-07-08
+650,17,Cavalcante Barbosa Ltda.,Matéria-prima,60,ativo,2022-07-22
+651,17,Nogueira,Serviços,60,ativo,2022-07-06
+652,17,Aragão,Manutenção,30,ativo,2026-06-10
+653,17,Alves Melo e Filhos,Mercadorias,45,ativo,2024-11-28
+654,17,Caldeira - ME,Manutenção,60,ativo,2024-11-21
+655,17,Borges - ME,Matéria-prima,21,ativo,2020-03-31
+656,17,Cavalcanti,Manutenção,60,ativo,2020-08-23
+657,17,Pimenta,Serviços,45,ativo,2021-08-28
+658,17,das Neves,Matéria-prima,30,ativo,2020-09-24
+659,17,Costa,Energia,60,ativo,2022-10-29
+660,17,Sá - ME,Mercadorias,60,ativo,2025-07-03
+661,17,Borges Sampaio - ME,Marketing,21,ativo,2024-06-11
+662,17,Marques Ltda.,Tecnologia,45,ativo,2023-06-23
+663,17,Melo,Energia,30,ativo,2022-08-10
+664,17,Câmara Casa Grande - EI,Marketing,21,ativo,2026-01-19
+665,17,Fonseca,Serviços,15,ativo,2020-08-04
+666,17,Cirino,Serviços,60,ativo,2021-05-05
+667,17,Viana,Matéria-prima,60,ativo,2020-09-17
+668,17,Marques,Marketing,21,ativo,2022-03-08
+669,17,Alves,Tecnologia,60,ativo,2022-01-04
+670,17,Melo S/A,Logística,15,ativo,2025-07-20
+671,17,Mendes,Matéria-prima,30,ativo,2020-12-30
+672,17,Cavalcante,Matéria-prima,45,ativo,2026-06-09
+673,17,Vargas,Marketing,45,ativo,2024-04-10
+674,17,Pereira,Manutenção,21,ativo,2023-11-07
+675,17,Moraes Caldeira - ME,Logística,15,ativo,2023-06-28
+676,17,Duarte - EI,Serviços,21,ativo,2024-10-28
+677,17,Vieira Ltda.,Energia,45,ativo,2021-01-06
+678,17,Guerra,Logística,30,ativo,2024-07-02
+679,17,da Costa,Tecnologia,21,ativo,2023-12-09
+680,17,Novaes Castro - ME,Matéria-prima,30,ativo,2025-01-24
+681,17,Azevedo,Matéria-prima,60,ativo,2022-11-21
+682,17,Costela,Mercadorias,60,ativo,2020-09-06
+683,17,Viana,Mercadorias,30,ativo,2021-01-26
+684,17,Nunes,Logística,15,ativo,2025-12-07
+685,17,Nogueira,Mercadorias,15,ativo,2023-08-31
+686,17,Cavalcanti Ribeiro e Filhos,Marketing,30,ativo,2020-04-23
+687,17,Sousa e Filhos,Serviços,15,ativo,2021-12-07
+688,17,Camargo,Tecnologia,60,ativo,2025-08-02
+689,17,Duarte,Logística,60,ativo,2022-06-13
+690,17,Macedo S.A.,Serviços,15,ativo,2021-09-25
+691,17,Guerra,Serviços,60,ativo,2021-12-25
+692,18,Peixoto S/A,Logística,60,ativo,2021-09-01
+693,18,Duarte,Manutenção,15,ativo,2020-06-07
+694,18,Ramos,Matéria-prima,30,ativo,2023-04-08
+695,18,Borges S.A.,Matéria-prima,30,ativo,2022-01-08
+696,18,Pacheco Sá e Filhos,Logística,15,ativo,2025-07-31
+697,18,Sá S.A.,Tecnologia,60,ativo,2021-09-27
+698,18,Machado Nascimento Ltda.,Serviços,45,ativo,2026-02-22
+699,18,Pimenta,Marketing,45,ativo,2021-04-21
+700,18,Costa,Matéria-prima,30,ativo,2022-10-05
+701,18,Rodrigues Dias Ltda.,Serviços,21,ativo,2022-09-07
+702,18,Lopes,Manutenção,21,ativo,2024-07-13
+703,18,Borges,Mercadorias,30,ativo,2020-08-28
+704,18,Pimenta - EI,Manutenção,60,ativo,2021-02-08
+705,18,Cardoso,Matéria-prima,30,ativo,2025-11-29
+706,18,Araújo,Marketing,60,ativo,2022-04-03
+707,18,Novaes,Energia,30,ativo,2021-07-08
+708,18,Abreu e Filhos,Manutenção,21,ativo,2023-04-14
+709,18,Camargo,Marketing,45,ativo,2024-11-17
+710,18,Alves,Marketing,15,ativo,2025-07-01
+711,18,Lopes Sampaio - EI,Mercadorias,45,ativo,2021-03-03
+712,18,Pires,Serviços,60,ativo,2025-06-05
+713,18,Silva,Marketing,30,ativo,2025-07-31
+714,18,Guerra,Energia,15,ativo,2025-11-30
+715,18,Lopes,Mercadorias,21,ativo,2020-12-31
+716,18,Ribeiro Cavalcanti - ME,Energia,60,ativo,2026-05-28
+717,18,Correia Novais - ME,Logística,30,ativo,2020-07-15
+718,19,Leão,Mercadorias,15,ativo,2023-05-25
+719,19,da Paz Rios S.A.,Marketing,21,ativo,2023-12-11
+720,19,Albuquerque Barbosa e Filhos,Mercadorias,45,ativo,2025-09-13
+721,19,Casa Grande e Filhos,Logística,60,ativo,2024-02-27
+722,19,Ribeiro,Mercadorias,21,ativo,2021-02-08
+723,19,Carvalho,Manutenção,21,ativo,2022-06-26
+724,19,Carvalho e Filhos,Serviços,15,ativo,2022-04-13
+725,19,Marques,Manutenção,21,ativo,2026-05-28
+726,19,Pinto,Mercadorias,15,ativo,2024-04-11
+727,19,Marques Moraes - ME,Tecnologia,15,ativo,2023-04-04
+728,19,Gomes,Mercadorias,21,ativo,2023-09-16
+729,19,Câmara,Logística,45,ativo,2022-07-24
+730,19,Lima Pereira S/A,Serviços,45,ativo,2020-07-02
+731,19,Siqueira,Logística,21,ativo,2022-10-05
+732,19,Silva Montenegro Ltda.,Energia,45,ativo,2026-05-25
+733,19,Nogueira,Energia,21,ativo,2023-01-21
+734,19,Andrade,Marketing,15,ativo,2024-08-30
+735,19,Nunes - ME,Marketing,45,ativo,2023-02-13
+736,19,Camargo,Tecnologia,45,ativo,2022-11-04
+737,19,Sales,Mercadorias,45,ativo,2020-06-20
+738,19,Casa Grande e Filhos,Manutenção,21,ativo,2022-07-02
+739,19,Martins,Matéria-prima,15,ativo,2021-04-17
+740,19,Moreira - EI,Logística,45,ativo,2020-09-29
+741,19,da Cruz - ME,Logística,60,ativo,2023-09-02
+742,19,Rodrigues e Filhos,Logística,30,ativo,2024-06-19
+743,19,Pimenta,Energia,60,ativo,2023-03-19
+744,19,Fernandes - EI,Energia,60,ativo,2022-12-07
+745,19,Melo - ME,Matéria-prima,15,ativo,2024-06-05
+746,19,Oliveira,Tecnologia,15,ativo,2026-03-22
+747,19,Leão,Manutenção,21,ativo,2021-06-04
+748,19,da Rocha,Mercadorias,45,ativo,2025-05-15
+749,19,Cavalcante,Matéria-prima,15,ativo,2022-07-25
+750,19,Sales - EI,Mercadorias,45,ativo,2022-01-25
+751,19,Siqueira,Matéria-prima,15,ativo,2022-09-17
+752,19,Araújo,Marketing,60,ativo,2024-02-28
+753,19,Pacheco,Manutenção,21,ativo,2024-12-15
+754,19,Oliveira Aragão e Filhos,Mercadorias,60,ativo,2022-02-13
+755,19,Sousa,Tecnologia,30,ativo,2020-06-28
+756,19,da Paz - ME,Mercadorias,21,ativo,2023-10-30
+757,19,Cardoso - EI,Energia,21,ativo,2023-12-05
+758,19,Viana Ltda.,Manutenção,21,ativo,2020-08-19
+759,19,Cardoso,Marketing,45,ativo,2021-09-19
+760,19,da Mota,Energia,60,ativo,2020-09-17
+761,19,Albuquerque,Tecnologia,21,ativo,2022-03-07
+762,19,Pereira S.A.,Serviços,45,ativo,2020-04-13
+763,19,Ribeiro Machado Ltda.,Manutenção,15,ativo,2022-10-03
+764,19,da Luz Viana e Filhos,Energia,60,ativo,2021-10-21
+765,19,Mendonça Cirino - EI,Logística,60,ativo,2023-07-24
+766,19,Fernandes S/A,Mercadorias,15,ativo,2020-09-23
+767,19,Peixoto Cassiano - ME,Marketing,60,ativo,2025-12-28
+768,19,Vargas,Mercadorias,60,ativo,2021-11-26
+769,19,da Costa,Serviços,30,ativo,2020-06-06
+770,19,Silveira,Logística,15,ativo,2022-08-15
+771,19,Costela Oliveira e Filhos,Mercadorias,45,ativo,2020-01-15
+772,19,Aragão,Mercadorias,45,ativo,2026-05-11
+773,19,Sá,Matéria-prima,21,ativo,2020-05-24
+774,19,Aragão S.A.,Matéria-prima,15,ativo,2025-05-05
+775,19,Guerra,Marketing,30,ativo,2024-05-03
+776,19,da Rosa,Manutenção,21,ativo,2025-07-02
+777,20,Souza,Energia,30,ativo,2025-02-06
+778,20,Garcia Rodrigues e Filhos,Manutenção,21,ativo,2025-02-03
+779,20,Melo,Serviços,21,ativo,2021-08-14
+780,20,Casa Grande,Energia,21,ativo,2024-05-10
+781,20,Albuquerque,Energia,21,ativo,2024-02-16
+782,20,Machado,Mercadorias,45,ativo,2023-05-13
+783,20,Rocha,Logística,15,ativo,2025-02-26
+784,20,Moura,Marketing,60,ativo,2022-07-18
+785,20,Brito - EI,Marketing,21,ativo,2023-12-16
+786,20,Lopes,Tecnologia,45,ativo,2024-09-20
+787,20,Farias,Marketing,45,ativo,2025-01-26
+788,20,da Mata,Manutenção,45,ativo,2025-03-13
+789,20,da Cunha e Filhos,Serviços,30,ativo,2023-08-28
+790,20,Martins,Marketing,21,ativo,2025-12-10
+791,20,Siqueira Rocha - EI,Tecnologia,21,ativo,2022-06-07
+792,20,Moreira Fernandes e Filhos,Tecnologia,60,ativo,2022-03-08
+793,20,Dias Novaes S/A,Serviços,45,ativo,2026-02-23
+794,20,Azevedo S/A,Marketing,30,ativo,2023-06-11
+795,20,Brito,Tecnologia,45,ativo,2021-08-01
+796,20,Rodrigues - ME,Manutenção,15,ativo,2026-02-01
+797,20,Câmara,Manutenção,30,ativo,2024-08-15
+798,20,da Cunha,Mercadorias,21,ativo,2022-06-08
+799,20,Andrade Alves - EI,Serviços,60,ativo,2021-10-03
+800,20,Araújo - EI,Marketing,60,ativo,2024-11-03
+801,20,Peixoto Porto S/A,Logística,45,ativo,2020-04-07
+802,20,Borges - EI,Tecnologia,45,ativo,2026-05-13
+803,20,Garcia Ribeiro e Filhos,Logística,30,ativo,2026-04-26
+804,20,Camargo Sampaio S.A.,Logística,45,ativo,2026-06-13
+805,20,da Rocha,Tecnologia,21,ativo,2024-08-11
+806,20,Ribeiro,Serviços,45,ativo,2022-10-03
+807,20,Porto - ME,Logística,45,ativo,2023-07-19
+808,20,Vargas,Mercadorias,15,ativo,2020-09-24
+809,20,Sales,Matéria-prima,15,ativo,2020-02-05
+810,20,da Cunha,Mercadorias,30,ativo,2021-01-03
+811,20,Vasconcelos Barbosa Ltda.,Serviços,30,ativo,2022-04-11
+812,20,Garcia - ME,Logística,21,ativo,2023-06-13
+813,20,Araújo,Matéria-prima,30,ativo,2023-07-16
+814,20,da Luz,Manutenção,45,ativo,2023-10-18
+815,20,Macedo Azevedo - ME,Logística,30,ativo,2023-05-27
+816,20,Pimenta Gonçalves S.A.,Matéria-prima,60,ativo,2021-10-16
+817,20,Caldeira,Logística,21,ativo,2024-08-27
+818,20,Nogueira Vargas - ME,Matéria-prima,60,ativo,2024-08-05
+819,20,Pimenta Ramos S/A,Logística,60,ativo,2026-03-12
+820,20,Silva,Manutenção,30,ativo,2022-10-18
+821,20,Caldeira,Matéria-prima,21,ativo,2024-12-27
+822,20,Barbosa S/A,Matéria-prima,15,ativo,2021-07-09
+823,20,Vasconcelos,Marketing,45,ativo,2024-04-02
+824,20,Almeida,Manutenção,21,ativo,2020-03-22
+825,20,Cassiano,Serviços,45,ativo,2026-05-31
+826,20,Andrade e Filhos,Logística,45,ativo,2020-03-22
+827,20,da Mata,Manutenção,60,ativo,2023-11-09
+828,20,Sampaio Farias - ME,Serviços,15,ativo,2024-02-24
+829,20,Moraes e Filhos,Matéria-prima,21,ativo,2021-07-06
+830,20,Mendes,Energia,45,ativo,2021-09-04
+831,20,Guerra,Matéria-prima,21,ativo,2023-08-06
+832,20,Nogueira S.A.,Energia,15,ativo,2023-12-23
+833,20,Gomes e Filhos,Manutenção,15,ativo,2024-09-07
+834,20,Campos,Logística,30,ativo,2022-11-01
+835,20,Farias,Tecnologia,60,ativo,2023-02-21
+836,20,Guerra,Mercadorias,45,ativo,2023-07-28
+837,20,Pires e Filhos,Logística,15,ativo,2022-09-05
+838,20,Fonseca - EI,Energia,30,ativo,2025-01-12
+839,20,Barros,Marketing,30,ativo,2020-06-14
+840,20,Teixeira,Energia,45,ativo,2020-11-24
+841,20,Ramos,Serviços,60,ativo,2020-05-08
+842,20,Cavalcanti Novaes S/A,Logística,60,ativo,2020-02-13
+843,20,Ribeiro,Mercadorias,30,ativo,2024-04-08
+844,20,da Rosa Sampaio - ME,Tecnologia,45,ativo,2024-04-05
+845,20,Pires e Filhos,Marketing,15,ativo,2023-01-12
+846,20,Mendonça,Marketing,30,ativo,2024-02-11
+847,20,Pires - ME,Marketing,45,ativo,2023-11-02
+848,20,Carvalho Andrade S.A.,Logística,30,ativo,2022-12-07
+849,20,Silveira - EI,Tecnologia,45,ativo,2023-02-27
+850,20,Mendonça Gomes S/A,Energia,15,ativo,2025-01-16
